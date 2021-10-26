@@ -1,0 +1,5978 @@
+itemId	latitude	longitude	venue
+0	51.93	4.47	Train Station
+1	51.81	4.67	Train Station
+2	19.43	-99.16	Neighborhood
+3	19.43	-99.16	Mall
+4	33.94	-118.41	Airport
+5	36.08	-115.15	Airport
+6	9.92	-84.05	Mall
+7	9.96	-84.06	Grocery Store
+8	41.03	28.98	Bar
+9	41.08	29.05	Beach
+10	41.04	28.89	Bus Station
+11	41.09	29.06	Bridge
+12	0.03	-51.05	Mall
+13	0.04	-51.06	Building
+14	34.70	135.51	Train Station
+15	34.70	135.50	Train Station
+16	34.70	135.50	Bus Station
+17	34.68	135.64	Train Station
+18	34.68	135.51	Subway
+19	35.17	138.91	Train Station
+20	35.10	138.86	Train Station
+21	35.10	138.86	Train Station
+22	32.81	-96.74	Residential Building (Apartment / Condo)
+23	-1.45	-48.49	Mall
+24	-1.45	-48.49	Multiplex
+25	-33.44	-70.64	Park
+26	-33.44	-70.64	Hospital
+27	34.68	135.54	Subway
+28	34.69	135.55	Subway
+29	34.69	135.55	Train Station
+30	35.33	139.41	Train Station
+31	35.53	139.70	Train Station
+32	35.60	139.61	Train Station
+33	35.60	139.61	Train Station
+34	38.32	140.88	Subway
+35	38.26	140.88	Subway
+36	35.70	139.76	Train Station
+37	35.69	139.79	Subway
+38	34.70	135.50	Train Station
+39	34.99	135.76	Train Station
+40	13.74	100.47	Field
+41	13.76	100.47	Farmers Market
+42	13.77	100.48	Road
+43	13.76	100.50	High School
+44	-33.01	-71.55	Mall
+45	-32.98	-71.53	Home (private)
+46	34.96	136.92	Train Station
+47	35.13	136.91	Train Station
+48	40.65	-73.78	Airport
+49	40.75	-73.98	Train Station
+50	34.79	135.44	Airport Terminal
+51	34.80	135.46	College Engineering Building
+52	34.70	137.73	Train Station
+53	35.69	139.70	Train Station
+54	-25.46	-49.22	Home (private)
+55	-33.48	-70.65	Subway
+56	-33.45	-70.66	Subway
+57	-33.51	-70.68	Home (private)
+58	1.45	124.82	Home (private)
+59	1.46	124.83	Medical School
+60	13.70	100.61	Train Station
+61	13.74	100.56	Train Station
+62	19.43	-99.16	Gym
+63	-33.47	-70.62	Subway
+64	-33.57	-70.58	Subway
+65	30.20	-97.67	Airport
+66	33.44	-112.00	Airport
+67	19.46	-99.22	Office
+68	19.52	-99.22	Garden Center
+69	-19.97	-43.94	Plaza
+70	-19.94	-43.93	Home (private)
+71	44.88	-93.21	Airport
+72	-33.46	-70.59	Plaza
+73	-33.45	-70.59	Building
+74	-7.30	-39.31	Home (private)
+75	0.04	-51.09	General College & University
+76	0.00	-51.07	Home (private)
+77	35.61	139.63	Train Station
+78	35.61	139.69	Train Station
+79	4.69	-74.13	Airport Terminal
+80	-33.54	-70.62	Subway
+81	-33.54	-70.66	Subway
+82	-33.45	-70.67	Subway
+83	36.06	139.51	Train Station
+84	0.03	-51.06	College & University
+85	-0.03	-51.18	Bar
+86	35.77	139.66	Grocery Store
+87	35.77	139.66	Bookstore
+88	20.67	-103.43	Other Great Outdoors
+89	20.68	-103.43	Mall
+90	35.55	139.65	Bookstore
+91	35.55	139.65	Fast Food Restaurant
+92	35.56	139.65	University
+93	-12.18	-77.01	Bus Station
+94	-12.11	-77.03	Home (private)
+95	35.63	139.72	Train Station
+96	35.70	139.70	Train Station
+97	35.74	139.49	Train Station
+98	-23.65	-46.71	Bus Station
+99	-23.67	-46.65	Home (private)
+100	35.73	139.88	Train Station
+101	35.70	139.75	Train Station
+102	35.70	139.75	Subway
+103	30.44	-91.02	Optical Shop
+104	30.56	-90.55	Home (private)
+105	36.03	138.02	Train Station
+106	36.06	138.04	Train Station
+107	36.05	138.12	Train Station
+108	10.71	122.55	Mall
+109	10.71	122.55	Miscellaneous Shop
+110	35.76	-78.78	Bookstore
+111	35.92	-78.81	Residential Building (Apartment / Condo)
+112	-12.10	-77.03	Bus Station
+113	-12.09	-77.03	Bridge
+114	35.17	136.88	Train Station
+115	35.17	136.88	Department Store
+116	34.44	132.92	Airport
+117	35.66	139.76	Train Station
+118	35.66	139.70	Train Station
+119	3.20	101.74	Mall
+120	3.20	101.74	Multiplex
+121	32.90	-97.04	Airport
+122	13.85	100.57	University
+123	13.85	100.57	College Auditorium
+124	19.43	-99.13	Plaza
+125	19.43	-99.14	Opera House
+126	34.72	135.38	Train Station
+127	34.70	135.50	Mall
+128	24.13	-110.28	Home (private)
+129	24.13	-110.34	Home (private)
+130	41.94	-87.65	Train Station
+131	41.88	-87.64	Train Station
+132	35.17	136.88	Mall
+133	35.17	136.88	Mall
+134	34.73	135.64	Train Station
+135	34.84	135.71	University
+136	35.61	140.11	Train Station
+137	35.58	140.13	Train Station
+138	35.67	140.01	Train Station
+139	35.71	139.96	Train Station
+140	35.69	140.02	Train Station
+141	3.06	101.62	University
+142	3.06	101.62	Caf�
+143	35.55	139.78	Airport Terminal
+144	35.58	139.56	Train Station
+145	35.70	139.77	Train Station
+146	35.70	139.78	Bar
+147	35.70	139.48	Train Station
+148	34.75	135.61	Train Station
+149	34.70	135.53	Train Station
+150	34.69	135.52	Train Station
+151	35.71	139.69	Subway
+152	35.71	139.70	Arcade
+153	50.49	30.63	Home (private)
+154	50.46	30.65	Subway
+155	35.38	136.95	Train Station
+156	35.14	136.90	Train Station
+157	35.16	136.91	Subway
+158	35.16	136.90	Electronics Store
+159	-6.19	106.74	Residential Building (Apartment / Condo)
+160	-6.19	106.73	Mall
+161	35.14	136.90	Train Station
+162	35.01	136.96	Train Station
+163	35.16	136.91	Electronics Store
+164	33.59	130.42	Train Station
+165	32.79	130.69	Train Station
+166	13.85	100.57	College Auditorium
+167	13.85	100.57	College Cafeteria
+168	35.66	139.70	Record Shop
+169	35.66	139.70	General Entertainment
+170	13.74	100.53	Other Great Outdoors
+171	13.74	100.53	Building
+172	13.75	100.53	Mall
+173	35.67	139.83	Subway
+174	35.68	139.78	Subway
+175	35.68	139.77	Train Station
+176	35.70	139.77	Neighborhood
+177	35.70	139.77	Hobby Shop
+178	35.70	139.77	Bookstore
+179	35.70	139.77	Bookstore
+180	35.70	139.79	Train Station
+181	35.72	139.86	Train Station
+182	35.72	139.93	Train Station
+183	43.07	141.35	Train Station
+184	43.07	141.35	Subway
+185	43.08	141.34	University
+186	35.17	136.88	Train Station
+187	13.73	100.53	School
+188	13.73	100.54	Subway
+189	13.72	100.56	Convention Center
+190	13.91	100.50	Road
+191	13.90	100.53	Mall
+192	13.86	100.54	Mall
+193	-33.38	-70.53	Hospital
+194	3.12	101.62	Road
+195	3.04	101.62	Mall
+196	35.68	139.77	Train Station
+197	35.63	139.74	Train Station
+198	33.59	130.40	Other Great Outdoors
+199	33.59	130.40	Arcade
+200	33.59	130.40	Department Store
+201	33.59	130.40	Train Station
+202	33.59	130.40	Bowling Alley
+203	33.59	130.40	Mall
+204	33.59	130.40	Home (private)
+205	52.52	13.39	Train Station
+206	52.51	13.38	Train Station
+207	52.51	13.38	Plaza
+208	35.66	139.34	Train Station
+209	45.55	9.33	Mall
+210	45.55	9.33	Electronics Store
+211	1.46	103.74	General College & University
+212	1.46	103.76	Mall
+213	9.97	-84.00	Housing Development
+214	9.98	-84.00	Home (private)
+215	35.32	139.56	Shrine
+216	35.32	139.55	Train Station
+217	35.32	139.55	Grocery Store
+218	35.33	139.56	Temple
+219	3.07	101.50	University
+220	3.07	101.61	Mall
+221	35.66	139.70	Train Station
+222	35.56	139.72	Train Station
+223	1.33	103.95	Train Station
+224	1.33	103.74	Train Station
+225	1.35	103.75	Train Station
+226	1.30	103.86	Subway
+227	14.52	121.02	Hotel
+228	14.52	121.02	General Entertainment
+229	35.75	139.81	Train Station
+230	35.70	139.77	Electronics Store
+231	35.70	139.76	Subway
+232	35.47	139.61	Playground
+233	35.47	139.62	Train Station
+234	35.47	139.62	Train Station
+235	35.66	139.70	Bridge
+236	35.66	139.73	Mall
+237	35.65	139.71	Train Station
+238	35.65	139.70	Train Station
+239	35.61	139.67	Train Station
+240	35.47	139.62	Mall
+241	35.65	139.71	Subway
+242	35.66	139.70	Train Station
+243	35.63	139.66	Train Station
+244	3.18	101.66	Road
+245	3.16	101.71	Mall
+246	35.67	139.65	Train Station
+247	35.70	139.76	College Academic Building
+248	35.70	139.77	Train Station
+249	3.07	101.61	Gym / Fitness Center
+250	3.16	101.61	Mall
+251	34.52	136.67	Train Station
+252	34.58	136.54	Train Station
+253	35.70	139.76	Train Station
+254	13.73	100.78	College Cafeteria
+255	13.69	100.65	Mall
+256	35.41	136.76	Train Station
+257	35.17	136.88	Subway
+258	35.17	136.91	Subway
+259	35.35	139.53	Train Station
+260	35.31	139.54	Light Rail
+261	35.34	139.49	Train Station
+262	34.70	135.50	Subway
+263	34.67	135.50	Subway
+264	13.81	100.56	Mall
+265	13.82	100.56	Mall
+266	35.66	139.54	Home (private)
+267	35.65	139.54	Train Station
+268	35.67	139.76	Train Station
+269	35.67	139.77	Electronics Store
+270	35.67	139.76	Subway
+271	1.32	103.84	Subway
+272	1.33	103.74	Mall
+273	35.81	139.59	Train Station
+274	35.82	139.59	Train Station
+275	35.70	139.47	Train Station
+276	35.70	139.54	Train Station
+277	35.70	139.51	Train Station
+278	35.51	140.09	Train Station
+279	35.69	140.02	Train Station
+280	35.48	140.04	Train Station
+281	41.00	28.87	Caf�
+282	41.01	28.91	Residential Building (Apartment / Condo)
+283	41.02	28.91	Home (private)
+284	41.08	29.03	Neighborhood
+285	3.06	101.62	Coffee Shop
+286	35.57	139.70	Train Station
+287	35.56	139.71	Train Station
+288	35.59	139.73	Train Station
+289	35.63	139.74	Train Station
+290	35.67	139.60	Train Station
+291	35.69	139.74	Subway
+292	35.73	139.71	Train Station
+293	35.79	139.46	Train Station
+294	35.77	139.42	Train Station
+295	3.15	101.71	Mall
+296	13.98	100.55	College Engineering Building
+297	13.82	100.56	Home (private)
+298	40.97	29.09	Residential Building (Apartment / Condo)
+299	41.04	29.01	University
+300	13.99	100.62	Mall
+301	13.99	100.62	Coffee Shop
+302	14.07	100.62	Residential Building (Apartment / Condo)
+303	14.07	100.60	College Academic Building
+304	13.75	100.50	Home (private)
+305	35.15	136.89	Train Station
+306	35.73	139.72	Hobby Shop
+307	35.73	139.71	Hobby Shop
+308	35.72	140.23	Office
+309	35.73	140.23	Train Station
+310	-33.02	-71.56	Casino
+311	-33.02	-71.54	University
+312	-33.13	-71.56	Office
+313	-33.05	-71.59	Home (private)
+314	14.43	121.01	Mall
+315	14.43	121.01	Coffee Shop
+316	14.43	121.01	Travel & Transport
+317	-8.03	-34.88	Home (private)
+318	-8.07	-34.89	Hospital
+319	34.70	135.50	Department Store
+320	19.47	-99.16	Residential Building (Apartment / Condo)
+321	19.44	-99.20	Mall
+322	-6.27	106.78	Mall
+323	-6.27	106.78	Mall
+324	35.17	136.91	Subway
+325	35.17	136.91	Home (private)
+326	35.14	136.90	Plaza
+327	36.39	140.52	Train Station
+328	36.37	140.48	Train Station
+329	3.05	101.59	Mall
+330	3.05	101.58	Home (private)
+331	36.35	137.93	Train Station
+332	36.23	137.96	Train Station
+333	35.54	139.45	Train Station
+334	35.67	139.72	Subway
+335	35.75	139.80	Subway
+336	35.71	139.78	Subway
+337	35.71	139.78	Train Station
+338	35.71	139.77	Park
+339	35.71	139.77	Mall
+340	35.70	139.77	Hobby Shop
+341	35.70	139.77	Electronics Store
+342	35.71	139.80	Temple
+343	35.71	139.81	Monument / Landmark
+344	35.75	139.86	Train Station
+345	35.75	139.87	Train Station
+346	35.81	139.92	Train Station
+347	35.81	139.92	Train Station
+348	35.00	135.77	Train Station
+349	34.69	135.49	Train Station
+350	34.86	135.68	Train Station
+351	35.01	135.77	Train Station
+352	35.63	139.45	Train Station
+353	35.63	139.42	Train Station
+354	35.17	136.91	Office
+355	35.17	136.92	Subway
+356	35.80	139.44	Train Station
+357	35.71	139.80	Train Station
+358	35.64	139.93	Park
+359	35.65	139.91	Train Station
+360	35.67	139.76	Train Station
+361	39.70	141.14	Coffee Shop
+362	39.71	141.13	Grocery Store
+363	39.71	141.13	Road
+364	34.48	136.82	College Technology Building
+365	34.48	136.82	Train Station
+366	35.69	139.70	Electronics Store
+367	35.69	139.70	Bookstore
+368	34.71	135.50	Train Station
+369	35.67	139.89	Subway
+370	35.68	139.77	Subway
+371	13.65	100.50	University
+372	35.56	139.72	Train Station
+373	35.53	139.70	Train Station
+374	35.53	139.70	Train Station
+375	35.62	139.57	Train Station
+376	35.62	139.57	Train Station
+377	35.62	139.57	Train Station
+378	35.62	139.56	Train Station
+379	35.53	139.70	Mall
+380	35.53	139.70	Electronics Store
+381	35.55	139.73	Train Station
+382	34.95	135.70	Train Station
+383	34.89	135.68	Train Station
+384	-1.37	-48.41	Student Center
+385	14.51	121.00	Airport
+386	35.51	139.63	Train Station
+387	35.61	139.67	Train Station
+388	33.59	130.42	Bus Station
+389	33.59	130.42	Electronics Store
+390	33.89	130.88	Train Station
+391	3.05	101.59	Hostel
+392	13.80	100.55	Train Station
+393	13.76	100.53	Train Station
+394	13.75	100.54	Mall
+395	13.75	100.53	Mall
+396	13.75	100.54	Mall
+397	13.75	100.53	Bookstore
+398	40.91	29.32	Airport
+399	36.91	30.80	Airport
+400	35.34	139.49	Train Station
+401	9.85	-83.91	Housing Development
+402	9.94	-84.13	Coworking Space
+403	35.16	136.91	Arcade
+404	14.57	121.05	Mall
+405	13.75	100.56	University
+406	13.77	100.64	Mall
+407	35.73	140.07	Train Station
+408	35.67	139.90	Subway
+409	-22.84	-43.28	Doctor's Office
+410	34.70	135.50	Train Station
+411	34.67	135.50	Electronics Store
+412	34.66	135.50	Train Station
+413	34.58	135.48	Train Station
+414	37.50	127.03	Subway
+415	37.51	127.06	Subway
+416	-23.65	-70.40	Community College
+417	14.44	120.99	Home (private)
+418	14.44	120.98	Home (private)
+419	13.76	100.54	Monument / Landmark
+420	13.87	100.50	Mall
+421	35.70	139.83	Train Station
+422	35.70	139.77	Bookstore
+423	3.16	101.61	Movie Theater
+424	18.77	98.97	Mall
+425	18.77	98.97	Multiplex
+426	-33.47	-70.58	Subway
+427	-33.49	-70.52	University
+428	34.67	135.46	Convenience Store
+429	34.67	135.46	Train Station
+430	34.64	135.41	Subway
+431	34.64	135.41	Train Station
+432	34.63	135.43	Train Station
+433	-1.42	-48.45	Road
+434	-1.44	-48.46	General College & University
+435	-33.40	-70.71	Home (private)
+436	-33.39	-70.62	Building
+437	-0.01	-51.08	Racetrack
+438	43.07	141.35	Electronics Store
+439	14.56	121.05	Home (private)
+440	14.56	121.01	Office
+441	14.56	121.01	Office
+442	35.17	136.88	Subway
+443	35.40	136.72	Train Station
+444	34.85	135.62	Train Station
+445	34.73	135.43	Train Station
+446	34.75	135.36	Train Station
+447	34.74	135.36	Mall
+448	34.70	135.50	Electronics Store
+449	34.78	135.42	Train Station
+450	3.04	101.57	High School
+451	3.05	101.58	Miscellaneous Shop
+452	3.05	101.59	Fast Food Restaurant
+453	4.17	73.52	Residential Building (Apartment / Condo)
+454	-33.48	-70.62	Subway
+455	-33.52	-70.60	Home (private)
+456	-33.51	-70.59	Subway
+457	41.05	29.03	Bridge
+458	41.08	29.01	Mall
+459	41.07	29.00	Neighborhood
+460	32.82	130.84	Park
+461	32.80	130.77	Park
+462	34.70	135.60	Train Station
+463	41.12	29.00	University
+464	-33.44	-70.66	Subway
+465	-33.44	-70.65	Subway
+466	35.69	139.70	Train Station
+467	35.57	139.66	Train Station
+468	34.86	136.99	Bridge
+469	34.92	136.98	Bridge
+470	34.56	135.45	Bridge
+471	34.57	135.46	Convenience Store
+472	34.60	135.48	Bridge
+473	14.69	120.98	Mall
+474	14.68	120.97	Home (private)
+475	35.65	139.75	Train Station
+476	35.63	139.74	Train Station
+477	34.80	135.70	Train Station
+478	34.70	135.53	Train Station
+479	34.76	135.42	Train Station
+480	13.72	100.26	School
+481	13.69	100.37	Home (private)
+482	35.67	139.68	Train Station
+483	35.69	139.76	Subway
+484	35.69	139.70	Train Station
+485	13.83	100.55	Building
+486	32.81	-96.81	Neighborhood
+487	32.81	-96.80	Neighborhood
+488	32.81	-96.80	Home (private)
+489	32.81	-96.80	Home (private)
+490	35.28	139.66	Train Station
+491	35.71	139.70	Plaza
+492	35.71	139.70	Train Station
+493	35.81	139.46	Train Station
+494	35.63	139.74	Train Station
+495	35.28	139.67	Train Station
+496	-33.50	-70.66	Residential Building (Apartment / Condo)
+497	-33.42	-70.66	Medical Center
+498	35.01	137.04	Train Station
+499	51.21	3.31	Board Shop
+500	51.30	3.25	Automotive Shop
+501	14.07	100.60	University
+502	13.96	100.49	Home (private)
+503	-12.11	-77.00	Mall
+504	-12.11	-77.00	Hospital
+505	35.58	139.66	Train Station
+506	35.68	139.77	Train Station
+507	34.81	135.50	Train Station
+508	34.67	135.50	Subway
+509	34.68	135.50	Subway
+510	40.99	29.03	Other Great Outdoors
+511	40.99	29.02	Other Great Outdoors
+512	56.95	24.12	Bus Station
+513	35.59	139.35	Train Station
+514	35.60	139.34	Train Station
+515	35.59	139.35	Train Station
+516	-33.44	-70.64	University
+517	-33.44	-70.63	Subway
+518	-33.50	-70.61	University
+519	-33.44	-70.66	Subway
+520	-33.43	-70.65	Building
+521	-33.37	-70.71	Building
+522	13.72	100.53	Train Station
+523	-0.04	-51.08	Home (private)
+524	0.04	-51.06	Diner
+525	3.09	101.74	Mall
+526	3.11	101.74	Residential Building (Apartment / Condo)
+527	35.79	139.72	Bridge
+528	35.88	139.82	Train Station
+529	-33.93	151.14	Bus Station
+530	-33.76	151.10	Home (private)
+531	35.70	139.58	Electronics Store
+532	35.70	139.58	Train Station
+533	35.73	139.72	Building
+534	35.73	139.72	Building
+535	14.68	121.04	Home (private)
+536	14.55	121.05	Mall
+537	34.95	135.71	Train Station
+538	34.98	135.76	Train Station
+539	35.63	139.42	Train Station
+540	35.71	139.65	Train Station
+541	35.72	139.65	Sake Bar
+542	13.77	100.57	Mall
+543	13.74	100.56	Mall
+544	35.61	139.62	Train Station
+545	35.66	139.70	Hobby Shop
+546	34.40	132.43	Train Station
+547	34.40	132.48	Train Station
+548	32.15	131.53	Farm
+549	32.14	131.53	Meeting Room
+550	34.98	135.77	Train Station
+551	34.98	135.77	Train Station
+552	34.96	135.77	Train Station
+553	-30.05	-51.18	Home (private)
+554	-30.06	-51.19	Mall
+555	-25.44	-49.28	Building
+556	-25.44	-49.28	Office
+557	19.43	-99.08	Airport
+558	19.43	-99.08	Airport Terminal
+559	45.08	7.64	Electronics Store
+560	45.09	7.66	University
+561	35.70	139.81	Train Station
+562	35.73	139.91	Bus Line
+563	35.75	139.93	Bus Station
+564	-33.44	-70.66	Bus Station
+565	-32.89	-70.68	Church
+566	14.58	121.06	Gym / Fitness Center
+567	14.39	121.04	City Hall
+568	13.86	100.54	Mall
+569	13.91	100.51	High School
+570	-20.61	-54.59	Home (private)
+571	-20.41	-54.62	University
+572	-20.61	-54.59	Office
+573	35.70	139.41	Train Station
+574	35.69	139.73	Train Station
+575	38.41	27.03	Caf�
+576	38.39	27.07	Home (private)
+577	38.40	27.07	Plane
+578	1.30	103.83	Mall
+579	1.30	103.84	Mall
+580	1.30	103.83	Subway
+581	1.35	103.70	Home (private)
+582	35.67	139.46	Train Station
+583	35.65	139.75	Subway
+584	35.69	139.78	Subway
+585	35.65	139.75	Train Station
+586	36.09	139.68	Train Station
+587	32.81	130.75	Building
+588	32.77	130.73	Mall
+589	-23.52	-46.84	Train Station
+590	-23.53	-46.67	Train Station
+591	10.32	123.90	Mall
+592	10.32	123.90	Hotel
+593	35.17	136.88	Train Station
+594	34.86	136.82	Train Station
+595	34.86	136.81	Airport
+596	35.19	136.94	Train Station
+597	35.26	137.04	Train Station
+598	35.31	136.29	Train Station
+599	-35.44	-71.62	University
+600	-33.44	-70.65	Home (private)
+601	-33.44	-70.65	Office
+602	-6.22	106.80	Mall
+603	-6.20	106.82	Train Station
+604	9.11	-79.54	Other Great Outdoors
+605	9.11	-79.54	Pet Store
+606	8.91	-79.59	Office
+607	35.86	139.97	Train Station
+608	35.86	139.97	Train Station
+609	35.87	139.92	Train Station
+610	35.87	139.93	Mall
+611	35.80	140.08	Home (private)
+612	42.78	-86.09	Gym
+613	42.79	-86.10	Coffee Shop
+614	2.25	102.28	University
+615	2.21	102.25	Mall
+616	2.25	102.28	Fraternity House
+617	1.34	103.71	Bus Station
+618	1.34	103.71	Mall
+619	35.61	139.75	Train Station
+620	35.69	139.70	Electronics Store
+621	35.80	139.72	Train Station
+622	38.90	-77.04	Office
+623	-6.84	107.93	Arcade
+624	-6.86	107.92	Home (private)
+625	35.37	-82.49	Home (private)
+626	35.37	-82.49	Other Great Outdoors
+627	-3.12	-60.01	Building
+628	-3.09	-60.03	College & University
+629	-3.11	-60.01	Residential Building (Apartment / Condo)
+630	34.99	135.76	Electronics Store
+631	35.45	139.60	Train Station
+632	35.68	139.77	Platform
+633	37.40	140.39	Train Station
+634	35.23	139.70	Train Station
+635	35.47	139.62	Train Station
+636	-33.43	-70.62	Subway
+637	-33.43	-70.62	University
+638	47.07	-88.63	Other Great Outdoors
+639	47.06	-88.63	Home (private)
+640	14.61	121.08	Plaza
+641	14.62	121.05	Mall
+642	14.61	120.98	Home (private)
+643	35.70	139.78	Bookstore
+644	35.73	139.73	Train Station
+645	14.56	121.02	Office
+646	14.55	121.03	Mall
+647	14.55	121.03	Mall
+648	14.54	120.98	Mall
+649	13.74	100.64	Train Station
+650	13.76	100.53	Train Station
+651	13.75	100.53	Multiplex
+652	13.79	100.68	Home (private)
+653	35.71	139.67	Train Station
+654	35.69	139.69	Subway
+655	-38.76	-72.71	Road
+656	-38.76	-72.76	Other Great Outdoors
+657	-38.76	-72.75	Neighborhood
+658	-38.74	-72.59	Other Great Outdoors
+659	35.80	139.72	Train Station
+660	35.78	139.72	Train Station
+661	-6.19	106.78	Church
+662	-6.19	106.78	High School
+663	-6.18	106.79	Mall
+664	-6.19	106.78	Home (private)
+665	5.34	100.28	General College & University
+666	5.33	100.31	Mall
+667	13.74	100.53	Law School
+668	13.74	100.53	Mall
+669	13.74	100.53	College Residence Hall
+670	14.55	121.02	Gym
+671	14.52	121.01	Airport
+672	40.99	28.80	University
+673	40.96	28.84	Caf�
+674	40.98	28.87	Mall
+675	3.07	101.60	University
+676	35.66	139.67	Train Station
+677	-12.09	-77.03	Mall
+678	-12.13	-77.02	Bus Line
+679	-12.12	-77.03	Plaza
+680	35.55	139.54	Train Station
+681	35.57	139.55	Train Station
+682	35.67	139.48	Train Station
+683	35.60	139.61	Train Station
+684	35.58	139.57	Train Station
+685	30.17	-95.46	Gym
+686	30.05	-95.43	Drugstore / Pharmacy
+687	4.63	-74.07	Home (private)
+688	4.67	-74.06	Office
+689	38.95	-77.45	Airport
+690	-6.90	107.62	General College & University
+691	-6.88	107.58	Home (private)
+692	3.35	101.56	Coworking Space
+693	3.31	101.47	Home (private)
+694	35.64	139.74	Subway
+695	35.40	139.47	Train Station
+696	41.15	-81.51	Grocery Store
+697	41.14	-81.51	Home (private)
+698	34.69	135.51	Train Station
+699	34.69	135.51	Caf�
+700	34.69	135.51	Subway
+701	13.73	100.53	Mall
+702	13.76	100.57	Mall
+703	35.89	139.26	Train Station
+704	35.46	139.62	Bowling Alley
+705	35.44	139.64	Train Station
+706	-6.91	107.61	Office
+707	-6.86	107.59	Home (private)
+708	3.25	101.74	College Cafeteria
+709	3.25	101.73	College Academic Building
+710	-33.44	-70.67	Building
+711	35.17	136.88	Train Station
+712	35.17	136.90	Arcade
+713	20.67	-103.37	Road
+714	20.63	-103.43	Candy Store
+715	20.66	-103.35	Government Building
+716	35.70	139.81	Electronics Store
+717	35.70	139.81	Train Station
+718	41.40	2.20	Tech Startup
+719	35.91	139.62	Light Rail
+720	36.00	139.62	Light Rail
+721	34.73	137.44	Train Station
+722	34.76	137.38	Train Station
+723	3.07	101.49	General College & University
+724	3.07	101.50	College Communications Building
+725	3.07	101.49	Building
+726	-1.46	-48.50	Home (private)
+727	50.75	7.08	Other Great Outdoors
+728	50.74	7.07	Office
+729	50.75	7.10	Home (private)
+730	-34.60	-58.37	Gym
+731	-34.61	-58.37	Building
+732	-34.61	-58.37	Bank
+733	9.95	-84.20	Office
+734	9.98	-84.19	Other Great Outdoors
+735	9.95	-84.19	Building
+736	35.68	139.39	Train Station
+737	35.77	140.00	Park
+738	35.69	139.77	Train Station
+739	40.99	29.13	Other Great Outdoors
+740	40.97	29.04	Neighborhood
+741	40.97	29.04	Restaurant
+742	40.99	29.03	Bakery
+743	-8.11	-79.04	University
+744	-8.11	-79.04	College Arts Building
+745	35.17	136.88	Train Station
+746	34.73	135.50	Train Station
+747	13.61	100.85	Residential Building (Apartment / Condo)
+748	-33.49	-70.65	Subway
+749	-33.49	-70.65	University
+750	33.35	-86.89	Lake
+751	33.35	-86.90	Home (private)
+752	-12.15	-77.02	Plaza
+753	-12.15	-77.02	Coffee Shop
+754	-12.11	-77.04	Plaza
+755	-12.10	-77.04	Office
+756	4.25	117.90	Other Great Outdoors
+757	4.26	117.92	Other Great Outdoors
+758	34.91	135.21	Train Station
+759	34.69	135.48	Office
+760	34.67	135.52	Subway
+761	35.62	139.73	Train Station
+762	35.69	139.70	Subway
+763	35.69	139.67	Subway
+764	33.89	130.88	Train Station
+765	35.70	139.75	Concert Hall
+766	35.71	139.75	Baseball Stadium
+767	35.70	139.78	Home (private)
+768	35.70	139.77	Hobby Shop
+769	35.73	139.71	Train Station
+770	2.93	101.64	Residential Building (Apartment / Condo)
+771	2.91	101.65	Office
+772	35.65	139.75	Subway
+773	35.63	139.72	Train Station
+774	35.56	139.65	Train Station
+775	35.67	139.76	Subway
+776	-25.42	-49.26	Hospital
+777	-25.44	-49.28	Mall
+778	35.82	139.67	Train Station
+779	-36.81	-73.03	Strip Club
+780	35.45	139.63	Train Station
+781	48.21	15.62	Train Station
+782	35.69	139.72	Subway
+783	35.69	139.71	Subway
+784	19.44	-99.21	Mall
+785	19.37	-99.20	Home (private)
+786	19.44	-99.20	Mall
+787	35.70	139.56	Train Station
+788	35.66	139.34	Train Station
+789	35.67	139.36	Train Station
+790	-12.08	-77.08	Mall
+791	-12.11	-77.03	Tech Startup
+792	14.58	121.06	Office
+793	14.58	121.06	Coworking Space
+794	14.58	121.06	Office
+795	35.64	139.69	Train Station
+796	35.69	139.71	Subway
+797	35.69	139.70	Department Store
+798	35.69	139.70	Multiplex
+799	57.99	56.21	Coworking Space
+800	58.00	56.19	Home (private)
+801	0.03	-51.11	University
+802	0.03	-51.11	College Classroom
+803	41.00	28.87	University
+804	39.29	-76.61	Plaza
+805	39.29	-76.61	Pizza Place
+806	39.29	-76.58	Home (private)
+807	54.98	-1.74	Home (private)
+808	35.63	139.78	Train Station
+809	35.73	139.77	Train Station
+810	35.74	139.77	Train Station
+811	51.42	12.22	Airport
+812	51.38	12.41	Home (private)
+813	19.39	-99.17	Coworking Space
+814	19.39	-99.17	Office
+815	3.12	101.68	Mall
+816	3.12	101.68	Multiplex
+817	3.07	101.69	Home (private)
+818	35.69	139.78	Subway
+819	-21.78	-43.35	Mall
+820	-21.78	-43.35	Gym
+821	-6.15	106.84	School
+822	-6.14	106.84	Home (private)
+823	3.16	101.61	Scandinavian Restaurant
+824	3.15	101.71	Hotel
+825	51.33	12.32	Rental Car Location
+826	51.31	12.32	Home (private)
+827	35.21	136.89	Bridge
+828	35.45	139.63	Office
+829	35.45	139.63	Train Station
+830	35.82	139.74	Subway
+831	38.86	-77.07	Home (private)
+832	-23.54	-46.64	Subway
+833	-23.56	-46.66	Subway
+834	-23.60	-46.61	Subway
+835	-23.64	-46.60	Home (private)
+836	-23.64	-46.59	Building
+837	35.73	139.91	Train Station
+838	35.68	139.76	Electronics Store
+839	35.66	140.17	Train Station
+840	3.20	101.45	University
+841	3.06	101.50	College Academic Building
+842	1.48	103.66	Mall
+843	1.46	103.77	Government Building
+844	34.70	135.50	Subway
+845	34.97	138.39	Train Station
+846	35.10	139.08	Train Station
+847	35.26	139.15	Train Station
+848	35.37	139.23	Train Station
+849	35.73	139.42	Train Station
+850	35.64	139.42	Train Station
+851	35.17	136.90	Subway
+852	-33.02	-71.55	Plaza
+853	-33.03	-71.55	Other Great Outdoors
+854	-33.03	-71.53	University
+855	35.69	139.92	Subway
+856	1.45	103.82	Train Station
+857	1.44	103.80	Train Station
+858	1.45	103.82	Building
+859	3.19	101.61	Arcade
+860	3.19	101.63	Neighborhood
+861	3.19	101.63	Home (private)
+862	3.19	101.63	Home (private)
+863	3.19	101.63	Mall
+864	33.88	35.50	Bridge
+865	33.90	35.48	Road
+866	33.63	35.41	Home (private)
+867	21.13	-86.84	Residential Building (Apartment / Condo)
+868	21.13	-86.84	Home (private)
+869	0.04	-51.07	Home (private)
+870	0.04	-51.06	Food & Drink Shop
+871	0.04	-51.05	College & University
+872	35.89	139.95	Train Station
+873	35.71	139.78	Subway
+874	35.69	139.70	Subway
+875	35.67	139.66	Train Station
+876	35.69	139.70	Train Station
+877	35.70	139.99	Train Station
+878	59.83	30.14	Residential Building (Apartment / Condo)
+879	50.37	30.55	Neighborhood
+880	50.40	30.56	Bus Station
+881	1.33	124.84	Convenience Store
+882	1.32	124.83	Home (private)
+883	3.25	101.74	Mosque
+884	3.25	101.73	College Cafeteria
+885	-27.61	-48.58	Residential Building (Apartment / Condo)
+886	-27.60	-48.58	Home (private)
+887	13.73	100.78	College Technology Building
+888	13.73	100.77	College Residence Hall
+889	35.70	139.77	Bridge
+890	35.69	139.77	Road
+891	35.70	139.77	Bridge
+892	35.70	139.77	Electronics Store
+893	35.74	139.81	Bridge
+894	-12.02	-77.11	Airport
+895	9.07	-79.39	Airport
+896	35.71	140.23	Train Station
+897	1.35	103.87	Subway
+898	1.33	103.96	Mall
+899	1.32	103.89	Train Station
+900	-33.44	-70.61	University
+901	-33.42	-70.60	Salad Place
+902	-3.13	-60.02	Neighborhood
+903	-3.11	-60.04	Home (private)
+904	-3.08	-60.02	University
+905	-3.10	-60.01	Mall
+906	40.21	28.97	Home (private)
+907	13.74	100.56	Office
+908	13.73	100.58	Residential Building (Apartment / Condo)
+909	-23.56	-46.66	Road
+910	-23.54	-46.66	Mall
+911	52.09	5.11	Train Station
+912	1.39	103.74	Train Station
+913	1.44	103.77	Government Building
+914	-12.06	-77.11	Home (private)
+915	-7.22	-39.32	Car Dealership
+916	-7.22	-39.32	Mall
+917	-12.12	-77.03	Park
+918	-12.11	-77.04	Neighborhood
+919	19.30	-99.06	Home (private)
+920	19.35	-99.11	Home (private)
+921	0.04	-51.09	Home (private)
+922	0.04	-51.06	Hospital
+923	-22.91	-43.28	Gym
+924	-22.89	-43.27	Home (private)
+925	10.32	123.90	Gym / Fitness Center
+926	10.30	123.89	Residential Building (Apartment / Condo)
+927	33.80	35.51	Home (private)
+928	33.90	35.50	Office
+929	-3.09	-60.02	Mall
+930	-33.43	-70.63	College Academic Building
+931	-33.44	-70.64	Plaza
+932	55.63	37.52	Home (private)
+933	55.76	37.62	Office
+934	10.02	-84.05	Home (private)
+935	10.02	-84.05	Other Great Outdoors
+936	56.46	84.95	Residential Building (Apartment / Condo)
+937	-29.71	-53.72	University
+938	-8.06	-34.90	University
+939	-8.02	-34.93	Speakeasy
+940	1.55	103.80	Mall
+941	1.50	103.71	Mall
+942	1.46	103.76	Flea Market
+943	-8.05	-34.95	University
+944	-8.05	-34.95	Restaurant
+945	0.04	-51.06	School
+946	0.04	-51.06	Home (private)
+947	51.14	4.93	Home (private)
+948	-12.13	-76.99	Home (private)
+949	-12.10	-76.96	University
+950	-33.44	-70.63	Home (private)
+951	60.61	15.63	Office
+952	-3.06	-60.01	Home (private)
+953	-33.48	-70.75	Mall
+954	0.05	-51.06	Home (private)
+955	41.04	29.02	Other Great Outdoors
+956	51.44	6.94	Home (private)
+957	51.44	6.94	Home (private)
+958	3.37	-76.53	Bus Station
+959	3.16	101.61	Mall
+960	3.20	101.61	Home (private)
+961	40.93	29.13	Other Great Outdoors
+962	41.04	28.98	Office
+963	41.03	29.02	Other Great Outdoors
+964	-15.80	-47.88	Government Building
+965	-38.78	-72.59	Outdoors & Recreation
+966	-38.77	-72.59	Other Great Outdoors
+967	-3.75	-38.49	Department Store
+968	4.39	100.96	College Cafeteria
+969	2.74	101.72	Airport Terminal
+970	-23.57	-46.64	Hospital
+971	-20.45	-54.59	Grocery Store
+972	-33.45	-70.63	Subway
+973	-33.39	-70.55	Mall
+974	27.89	-82.67	Pizza Place
+975	28.02	-82.56	Home (private)
+976	43.48	-80.54	Coffee Shop
+977	43.48	-80.54	Office
+978	1.32	103.93	Bus Station
+979	1.36	103.99	Airport Terminal
+980	3.14	101.75	Home (private)
+981	-33.05	-71.48	Residential Building (Apartment / Condo)
+982	40.95	29.39	Home (private)
+983	40.95	29.39	Coffee Shop
+984	41.08	29.01	Mall
+985	51.21	3.22	Bar
+986	51.20	3.22	Train Station
+987	-3.13	-60.00	Home (private)
+988	-3.13	-60.02	Gift Shop
+989	-3.13	-60.02	Restaurant
+990	-9.67	-35.76	Historic Site
+991	-9.67	-35.76	Road
+992	0.03	-51.06	High School
+993	0.05	-51.06	General College & University
+994	0.05	-51.06	Home (private)
+995	0.05	-51.07	Airport
+996	0.03	-51.06	School
+997	-3.75	-38.52	Home (private)
+998	-3.74	-38.51	Gym / Fitness Center
+999	-3.76	-38.49	Mall
+1000	3.09	101.49	Home (private)
+1001	2.99	101.44	Mall
+1002	3.07	101.49	Malaysian Restaurant
+1003	-16.02	-48.07	Home (private)
+1004	51.94	5.92	Home (private)
+1005	2.93	101.76	College Academic Building
+1006	2.93	101.76	Home (private)
+1007	3.05	101.59	Home (private)
+1008	3.08	101.59	Mall
+1009	3.08	101.58	Dessert Shop
+1010	3.07	101.59	Indian Restaurant
+1011	3.07	101.59	Caf�
+1012	40.96	29.07	Other Great Outdoors
+1013	-1.43	-48.45	Bakery
+1014	-8.12	-34.91	Mall
+1015	51.10	5.00	Bus Station
+1016	51.17	4.99	Train Station
+1017	51.22	4.42	Train Station
+1018	51.22	4.42	Coffee Shop
+1019	51.21	4.41	Coworking Space
+1020	51.10	4.99	Home (private)
+1021	-1.29	-47.92	Speakeasy
+1022	-1.44	-48.48	University
+1023	-23.52	-46.63	Road
+1024	-23.52	-46.70	Bus Station
+1025	-23.54	-46.68	Building
+1026	-23.54	-46.68	Italian Restaurant
+1027	41.07	29.00	Mall
+1028	41.07	29.00	Gym / Fitness Center
+1029	40.98	29.06	Neighborhood
+1030	40.98	29.04	Restaurant
+1031	0.01	-51.07	Home (private)
+1032	0.01	-51.07	Home (private)
+1033	40.74	-73.99	Grocery Store
+1034	40.73	-73.99	American Restaurant
+1035	40.76	-73.98	Hotel
+1036	41.83	-87.86	Home (private)
+1037	41.83	-87.86	Home (private)
+1038	41.82	-87.87	Neighborhood
+1039	38.79	-9.33	Home (private)
+1040	9.93	-84.10	Coworking Space
+1041	9.96	-84.12	Coworking Space
+1042	9.99	-84.11	Mall
+1043	-26.91	-48.67	Home (private)
+1044	14.56	121.02	Office
+1045	14.57	121.00	Home (private)
+1046	42.84	-85.71	Home (private)
+1047	36.85	30.76	Home (private)
+1048	36.86	30.76	Neighborhood
+1049	41.01	28.63	Residential Building (Apartment / Condo)
+1050	41.01	28.69	Office
+1051	-3.13	-60.01	University
+1052	-3.12	-60.01	Home (private)
+1053	-3.12	-60.00	School
+1054	-12.10	-76.96	College Academic Building
+1055	49.91	8.48	Home (private)
+1056	50.11	8.66	Train Station
+1057	9.96	-84.06	Home (private)
+1058	19.39	-99.15	Government Building
+1059	19.38	-99.20	Home (private)
+1060	-23.57	-46.70	Train Station
+1061	-23.53	-46.67	Subway
+1062	-23.52	-46.70	Train Station
+1063	-23.54	-46.63	Train Station
+1064	-23.54	-46.63	Subway
+1065	-23.57	-46.70	Subway
+1066	-23.66	-46.71	Train Station
+1067	-23.53	-46.67	Bus Station
+1068	38.87	-77.16	Office
+1069	0.03	-51.06	Gym
+1070	9.92	-84.05	Home (private)
+1071	-7.30	-39.33	Home (private)
+1072	-7.22	-39.32	Automotive Shop
+1073	-7.24	-39.32	Outdoors & Recreation
+1074	51.44	5.48	Train Station
+1075	40.72	-111.87	Home (private)
+1076	40.72	-111.86	Grocery Store
+1077	35.76	139.73	Other Great Outdoors
+1078	35.76	139.73	Shrine
+1079	35.76	139.74	Home (private)
+1080	35.72	139.75	Subway
+1081	35.75	139.74	Subway
+1082	55.83	12.94	Home (private)
+1083	55.83	12.94	Home (private)
+1084	40.98	28.82	Airport
+1085	29.09	48.12	Gym
+1086	29.27	47.99	Mall
+1087	-33.02	-71.55	Home (private)
+1088	-33.05	-71.61	Wine Bar
+1089	-22.13	-51.39	Home (private)
+1090	-22.13	-51.39	Office
+1091	9.93	-84.18	Park
+1092	9.96	-84.19	Office
+1093	-1.46	-48.49	College & University
+1094	-1.45	-48.49	Residential Building (Apartment / Condo)
+1095	-1.45	-48.49	Home (private)
+1096	-5.81	-35.23	Neighborhood
+1097	40.95	29.12	University
+1098	40.87	29.23	Harbor / Marina
+1099	-33.59	-70.58	Subway
+1100	-33.59	-70.58	Home (private)
+1101	-36.75	-73.11	School
+1102	-36.79	-73.07	Mall
+1103	51.46	0.15	Home (private)
+1104	-1.35	-48.41	Home (private)
+1105	-3.74	-38.58	University
+1106	-33.42	-70.61	Subway
+1107	41.08	29.04	Neighborhood
+1108	0.04	-51.07	Home (private)
+1109	-1.39	-48.48	Airport
+1110	33.54	130.47	Park
+1111	-12.13	-77.02	Other Great Outdoors
+1112	-12.09	-77.00	Home (private)
+1113	9.37	-83.70	Other Great Outdoors
+1114	45.62	9.32	Train Station
+1115	45.57	9.36	Office
+1116	45.63	9.34	Home (private)
+1117	45.63	9.34	Home (private)
+1118	21.28	-157.79	Mall
+1119	21.27	-157.79	Post Office
+1120	38.90	-77.04	Subway
+1121	38.88	-77.02	Subway
+1122	38.83	-77.00	Home (private)
+1123	-33.39	-70.76	Factory
+1124	-33.44	-70.65	Residential Building (Apartment / Condo)
+1125	24.10	-110.33	Neighborhood
+1126	-33.45	-70.64	Residential Building (Apartment / Condo)
+1127	-33.45	-70.63	Subway
+1128	40.04	-75.14	Bus Station
+1129	39.96	-75.16	Subway
+1130	39.95	-75.17	Food Court
+1131	39.95	-75.17	Gourmet Shop
+1132	39.95	-75.17	Train Station
+1133	34.67	135.01	Convenience Store
+1134	34.68	135.01	Road
+1135	35.64	139.60	Train Station
+1136	35.62	139.57	Monument / Landmark
+1137	-30.02	-51.14	Home (private)
+1138	-30.02	-51.18	Office
+1139	-30.02	-51.18	Gym
+1140	30.15	31.42	Bus Station
+1141	51.84	4.69	Home (private)
+1142	-22.93	-43.18	Gym / Fitness Center
+1143	-22.91	-43.24	University
+1144	-36.83	-73.05	Other Great Outdoors
+1145	-36.94	-73.02	Home (private)
+1146	-36.83	-73.05	Student Center
+1147	59.45	18.06	Home (private)
+1148	50.20	9.19	Home (private)
+1149	50.20	9.19	Home (private)
+1150	38.88	-77.11	Residential Building (Apartment / Condo)
+1151	38.88	-77.11	Bar
+1152	-1.45	-48.49	Neighborhood
+1153	-1.47	-48.45	University
+1154	-1.45	-48.47	Road
+1155	38.20	140.31	Bridge
+1156	38.27	140.87	Road
+1157	11.78	124.88	City Hall
+1158	11.78	124.88	Office
+1159	11.77	124.88	Home (private)
+1160	34.73	135.50	Subway
+1161	34.92	137.20	Train Station
+1162	34.82	137.40	Train Station
+1163	-1.37	-48.45	Home (private)
+1164	-1.43	-48.46	Coworking Space
+1165	-1.44	-48.49	University
+1166	-33.46	-70.63	Coworking Space
+1167	-33.47	-70.63	Residential Building (Apartment / Condo)
+1168	-30.10	-51.24	Home (private)
+1169	-30.11	-51.26	Gym
+1170	-30.07	-51.24	Soccer Stadium
+1171	-23.62	-46.70	Train Station
+1172	-23.59	-46.69	Train Station
+1173	-23.60	-46.64	Mall
+1174	-22.91	-43.31	Building
+1175	10.33	123.91	Park
+1176	10.33	123.91	Tech Startup
+1177	34.87	138.32	Train Station
+1178	34.77	138.01	Train Station
+1179	-1.46	-48.48	Home (private)
+1180	-1.45	-48.48	Professional & Other Places
+1181	36.87	-76.16	Home (private)
+1182	41.03	28.97	Nightclub
+1183	34.65	134.99	Train Station
+1184	34.70	134.91	Train Station
+1185	34.70	134.91	Convenience Store
+1186	-8.63	115.23	Home (private)
+1187	-8.63	115.23	Residential Building (Apartment / Condo)
+1188	-8.67	115.23	University
+1189	35.73	139.77	Train Station
+1190	35.75	139.74	Train Station
+1191	34.83	135.41	Train Station
+1192	35.00	135.77	Train Station
+1193	34.72	135.48	Train Station
+1194	-20.22	-70.15	Gym / Fitness Center
+1195	-33.01	-71.55	Gym
+1196	-32.97	-71.54	Home (private)
+1197	-33.03	-71.55	Bus Station
+1198	-33.45	-70.69	Bus Station
+1199	26.21	127.65	Airport
+1200	31.23	121.48	Gym
+1201	35.47	139.62	Train Station
+1202	35.71	139.77	Train Station
+1203	35.46	139.62	Train Station
+1204	35.65	139.91	Hotel
+1205	36.21	139.54	Home (private)
+1206	36.21	139.53	Train Station
+1207	36.14	139.39	Train Station
+1208	36.25	139.53	Train Station
+1209	35.71	139.81	Train Station
+1210	35.78	139.79	Train Station
+1211	-21.78	-43.35	Residential Building (Apartment / Condo)
+1212	34.67	133.92	Train Station
+1213	34.35	134.05	Train Station
+1214	34.67	133.92	Platform
+1215	42.09	-71.02	Bus Station
+1216	42.09	-71.02	Home (private)
+1217	35.66	139.70	Arcade
+1218	3.06	101.59	Home (private)
+1219	3.06	101.59	Road
+1220	3.07	101.58	High School
+1221	38.73	139.82	Park
+1222	3.03	101.58	Home (private)
+1223	35.24	136.99	Train Station
+1224	35.17	137.01	Subway
+1225	35.16	136.91	Subway
+1226	35.17	137.01	Bus Station
+1227	35.17	136.94	Subway
+1228	35.66	139.58	Train Station
+1229	35.66	139.52	Train Station
+1230	-12.09	-76.97	Office
+1231	35.32	139.55	Light Rail
+1232	35.34	139.55	Temple
+1233	35.34	139.54	Temple
+1234	35.69	139.75	Stadium
+1235	35.32	139.55	Train Station
+1236	35.32	139.55	Train Station
+1237	35.66	139.73	Subway
+1238	35.67	139.72	Subway
+1239	35.63	139.63	Train Station
+1240	36.32	139.01	Train Station
+1241	36.32	139.01	Coffee Shop
+1242	35.68	139.76	Subway
+1243	-7.24	-39.32	Home (private)
+1244	-7.23	-39.32	Other Great Outdoors
+1245	1.37	103.83	High School
+1246	1.37	103.83	Snack Place
+1247	-0.01	-51.08	University
+1248	32.82	130.75	Office
+1249	32.78	130.76	Mall
+1250	-33.04	-71.63	Residential Building (Apartment / Condo)
+1251	1.39	103.90	Bus Station
+1252	1.40	103.85	Bus Line
+1253	1.44	103.79	Bus Station
+1254	1.44	103.79	Department Store
+1255	1.44	103.79	Train Station
+1256	1.36	103.99	Airport Terminal
+1257	35.91	139.62	Train Station
+1258	35.89	139.63	Train Station
+1259	-12.06	-77.12	University
+1260	-12.06	-77.12	College Classroom
+1261	3.22	101.72	Light Rail
+1262	3.21	101.73	Light Rail
+1263	3.20	101.74	Light Rail
+1264	3.16	101.71	Light Rail
+1265	3.16	101.72	Light Rail
+1266	36.08	140.11	Train Station
+1267	-36.82	-73.04	Residential Building (Apartment / Condo)
+1268	35.49	139.45	Train Station
+1269	35.76	139.63	Subway
+1270	35.47	139.62	Train Station
+1271	35.52	140.31	Bus Line
+1272	35.68	139.74	Subway
+1273	35.65	139.83	Train Station
+1274	35.58	140.13	Platform
+1275	35.67	139.74	Convenience Store
+1276	35.85	139.65	Train Station
+1277	36.07	139.68	Train Station
+1278	35.69	139.70	Train Station
+1279	35.54	139.45	Train Station
+1280	35.58	139.37	Train Station
+1281	41.98	-91.64	Home (private)
+1282	41.89	-91.70	Airport
+1283	-39.81	-73.25	High School
+1284	-39.81	-73.25	Office
+1285	35.60	139.72	Train Station
+1286	35.40	139.31	Train Station
+1287	35.45	139.39	Train Station
+1288	33.45	-86.73	Electronics Store
+1289	33.43	-86.81	Home (private)
+1290	35.73	139.51	Train Station
+1291	-1.39	-48.41	Road
+1292	-1.46	-48.49	Law School
+1293	-1.36	-48.36	Home (private)
+1294	-1.36	-48.41	Gym
+1295	-1.46	-48.50	Mall
+1296	37.90	139.07	Road
+1297	37.92	139.06	Convenience Store
+1298	43.09	141.53	Train Station
+1299	3.18	101.74	Light Rail
+1300	3.16	101.70	Light Rail
+1301	3.16	101.72	Bank
+1302	35.57	139.74	Convenience Store
+1303	-15.80	-47.88	Office
+1304	-15.82	-47.96	Residential Building (Apartment / Condo)
+1305	-6.91	107.62	Middle School
+1306	35.62	140.10	Train Station
+1307	37.50	127.03	General College & University
+1308	37.49	127.03	Office
+1309	3.04	101.55	Office
+1310	38.26	140.88	Train Station
+1311	38.26	140.88	Platform
+1312	13.71	100.41	Mall
+1313	13.76	100.48	Hospital
+1314	14.04	100.61	Building
+1315	14.04	100.61	Road
+1316	35.75	139.84	Train Station
+1317	35.71	139.94	Train Station
+1318	35.70	139.68	Subway
+1319	-23.60	-46.72	Soccer Stadium
+1320	-23.54	-46.65	Gym
+1321	-12.09	-77.01	Government Building
+1322	35.70	139.77	Office
+1323	35.44	139.66	General Travel
+1324	35.44	139.66	Park
+1325	35.44	139.65	Road
+1326	35.44	139.65	Train Station
+1327	35.64	139.70	Train Station
+1328	34.78	135.47	Train Station
+1329	34.69	135.50	Subway
+1330	34.78	135.46	Bookstore
+1331	-12.13	-77.03	Mall
+1332	-12.02	-77.11	Coffee Shop
+1333	-12.02	-77.11	Hotel
+1334	-12.12	-77.03	Record Shop
+1335	-12.13	-77.04	Diner
+1336	-8.05	-34.89	College & University
+1337	-19.63	-43.96	Airport
+1338	35.56	139.57	Subway
+1339	37.54	126.95	Bus Station
+1340	37.54	126.94	Residential Building (Apartment / Condo)
+1341	35.75	139.57	Train Station
+1342	35.77	139.52	Train Station
+1343	35.73	139.42	Train Station
+1344	35.65	140.04	Train Station
+1345	36.55	140.63	Train Station
+1346	36.57	140.64	College Engineering Building
+1347	36.38	140.42	Train Station
+1348	34.76	135.50	Subway
+1349	0.02	-51.07	Gym / Fitness Center
+1350	35.75	139.59	Train Station
+1351	35.73	139.71	Train Station
+1352	35.74	139.76	Train Station
+1353	35.71	139.73	Subway
+1354	36.58	136.65	Train Station
+1355	37.54	127.12	Doctor's Office
+1356	37.54	127.12	Subway
+1357	37.51	127.07	Baseball Stadium
+1358	37.54	127.12	Department Store
+1359	37.54	127.13	Grocery Store
+1360	37.54	127.13	General Entertainment
+1361	39.30	-76.44	Home (private)
+1362	39.30	-76.44	Home (private)
+1363	39.31	-76.48	Neighborhood
+1364	39.30	-76.44	Home (private)
+1365	39.31	-76.45	Road
+1366	35.70	140.09	Train Station
+1367	35.70	139.99	Office
+1368	35.67	139.92	Convenience Store
+1369	35.71	139.96	Train Station
+1370	35.68	140.02	Train Station
+1371	35.70	139.99	Train Station
+1372	35.71	139.96	Platform
+1373	-7.46	112.72	High School
+1374	-33.42	-70.60	Office
+1375	-33.46	-70.58	Home (private)
+1376	-33.42	-70.60	Subway
+1377	-6.89	107.60	Mall
+1378	-33.04	-71.59	Hostel
+1379	-12.08	-77.04	Housing Development
+1380	-12.08	-77.04	Home (private)
+1381	9.99	-84.18	Home (private)
+1382	-3.10	-60.01	Food Court
+1383	35.45	139.67	Road
+1384	13.82	100.45	Road
+1385	13.76	100.53	Building
+1386	-23.26	-45.95	Road
+1387	-23.31	-45.98	Home (private)
+1388	-23.54	-46.57	Home (private)
+1389	-23.52	-46.63	Capitol Building
+1390	-23.54	-46.58	Subway
+1391	0.04	-51.06	Home (private)
+1392	0.03	-51.06	Mall
+1393	0.03	-51.07	Miscellaneous Shop
+1394	0.04	-51.05	Plaza
+1395	-30.05	-51.23	Mall
+1396	35.55	139.67	Train Station
+1397	35.76	139.73	Train Station
+1398	-33.44	-70.64	Grocery Store
+1399	-33.45	-70.64	Gym
+1400	34.58	135.52	Subway
+1401	35.55	139.79	Airport Terminal
+1402	35.75	139.72	Train
+1403	42.79	141.68	Airport Terminal
+1404	35.61	139.73	Train Station
+1405	35.68	139.74	Subway
+1406	35.69	139.71	Subway
+1407	-12.12	-77.03	Office
+1408	-12.12	-77.03	Grocery Store
+1409	-12.14	-77.02	Bus Station
+1410	-33.45	-70.64	Home (private)
+1411	35.17	136.91	Electronics Store
+1412	3.14	101.74	Event Space
+1413	35.69	139.83	Subway
+1414	35.69	139.70	Subway
+1415	35.69	139.70	Train Station
+1416	35.72	139.93	Subway
+1417	-1.39	-48.41	University
+1418	-1.44	-48.49	Building
+1419	13.77	100.63	Neighborhood
+1420	13.77	100.63	School
+1421	3.07	101.59	General College & University
+1422	3.05	101.59	Malaysian Restaurant
+1423	35.69	139.71	Multiplex
+1424	34.75	135.53	Train Station
+1425	34.81	135.34	Train Station
+1426	34.81	135.34	Train Station
+1427	35.71	139.84	Train Station
+1428	35.68	139.69	Train Station
+1429	35.69	139.70	Train Station
+1430	35.71	139.85	Home (private)
+1431	13.72	100.51	Train Station
+1432	34.58	135.56	Train Station
+1433	35.68	139.77	Subway
+1434	35.84	139.80	Train Station
+1435	35.73	139.77	Train Station
+1436	35.83	139.80	Train Station
+1437	38.56	-121.49	Government Building
+1438	38.55	-121.50	Home (private)
+1439	40.73	-74.00	Subway
+1440	40.71	-73.95	Other Great Outdoors
+1441	40.72	-73.95	Smoke Shop
+1442	40.65	-73.95	Neighborhood
+1443	40.69	-73.93	Home (private)
+1444	40.69	-73.93	Home (private)
+1445	40.69	-73.93	General Travel
+1446	40.68	-73.93	Subway
+1447	40.73	-74.00	Park
+1448	40.73	-74.00	Road
+1449	33.50	-112.07	Theme Park
+1450	33.50	-112.07	Residential Building (Apartment / Condo)
+1451	35.40	139.47	Subway
+1452	35.40	139.47	Train Station
+1453	35.41	139.60	Subway
+1454	35.48	139.63	Train Station
+1455	-33.48	-70.75	Home (private)
+1456	35.69	139.73	Subway
+1457	13.76	100.54	School
+1458	13.75	100.53	Train Station
+1459	34.69	135.19	Train Station
+1460	34.71	135.20	Train Station
+1461	35.51	139.62	Train Station
+1462	36.11	140.11	Convenience Store
+1463	36.11	140.10	College Lab
+1464	34.72	137.85	Office
+1465	35.79	139.61	Train Station
+1466	10.24	123.81	Home (private)
+1467	14.65	121.03	Train Station
+1468	48.80	9.26	Home (private)
+1469	48.80	9.26	Home (private)
+1470	48.80	9.26	Home (private)
+1471	48.80	9.23	Coworking Space
+1472	34.70	135.50	Platform
+1473	34.74	135.52	Train Station
+1474	34.78	135.54	Train Station
+1475	35.85	139.67	Train Station
+1476	35.85	139.67	Train Station
+1477	35.66	139.76	Light Rail
+1478	34.65	135.52	Train Station
+1479	34.65	135.51	Subway
+1480	13.79	100.58	Building
+1481	13.73	100.57	Mall
+1482	13.76	100.57	Mall
+1483	40.96	29.07	Restaurant
+1484	40.98	29.15	Caf�
+1485	35.26	137.04	Train Station
+1486	51.42	6.89	Home (private)
+1487	51.43	6.88	Coffee Shop
+1488	33.83	130.87	Train Station
+1489	33.88	130.88	Train Station
+1490	33.88	130.88	Convenience Store
+1491	33.89	130.88	Train Station
+1492	35.53	139.44	Train Station
+1493	35.71	139.80	Subway
+1494	35.34	139.45	Train Station
+1495	35.64	140.09	Train Station
+1496	35.66	139.87	Subway
+1497	35.66	139.86	Subway
+1498	35.67	140.04	Train Station
+1499	35.77	139.64	Subway
+1500	13.73	100.53	Train Station
+1501	35.75	139.74	Bus Station
+1502	35.69	139.70	Hobby Shop
+1503	35.66	139.58	Train Station
+1504	-6.17	106.98	Pub
+1505	-6.16	106.91	Mall
+1506	36.38	139.73	High School
+1507	36.31	139.81	Train Station
+1508	36.31	139.81	Train Station
+1509	34.63	135.05	Train Station
+1510	35.66	139.70	Subway
+1511	37.39	127.11	Road
+1512	35.84	139.97	Train Station
+1513	35.00	135.95	Train Station
+1514	-23.56	-46.66	Greek Restaurant
+1515	-23.62	-46.70	Mall
+1516	-23.56	-46.66	Hotel
+1517	-23.56	-46.66	Gym / Fitness Center
+1518	-23.56	-46.66	Bakery
+1519	-23.59	-46.68	Office
+1520	-23.57	-46.70	Steakhouse
+1521	-23.56	-46.66	Residential Building (Apartment / Condo)
+1522	-6.93	107.67	Camera Store
+1523	-6.91	107.62	Middle School
+1524	-6.19	106.78	Home (private)
+1525	35.62	139.57	Bridge
+1526	35.69	139.70	Platform
+1527	35.69	139.70	Train Station
+1528	35.73	139.71	Road
+1529	35.73	139.72	Hobby Shop
+1530	35.85	139.81	Convenience Store
+1531	35.84	139.84	Bridge
+1532	51.13	4.23	Home (private)
+1533	35.64	139.61	Train Station
+1534	35.64	139.59	Train Station
+1535	35.65	139.64	Train Station
+1536	38.26	140.88	Mall
+1537	38.26	140.88	Electronics Store
+1538	34.67	135.50	Subway
+1539	34.67	135.48	Bus Station
+1540	13.75	100.56	Subway
+1541	13.74	100.56	Subway
+1542	13.75	100.57	Home (private)
+1543	35.61	139.58	Scenic Lookout
+1544	35.61	139.58	Monument / Landmark
+1545	35.66	139.75	Subway
+1546	35.58	139.66	Train Station
+1547	38.71	-9.14	Hotel
+1548	38.75	-9.16	Hotel
+1549	38.73	-9.16	Restaurant
+1550	38.72	-9.15	Coworking Space
+1551	34.75	135.36	Train Station
+1552	34.75	135.36	Train
+1553	34.75	135.36	Platform
+1554	51.20	4.43	Train Station
+1555	51.21	3.23	Office
+1556	35.79	139.47	Train Station
+1557	35.66	139.70	Video Store
+1558	13.76	100.53	School
+1559	35.76	139.82	Subway
+1560	35.71	139.77	Subway
+1561	34.99	135.76	Mall
+1562	34.99	135.76	Subway
+1563	35.02	135.76	Subway
+1564	35.02	135.76	Road
+1565	34.70	135.50	Train Station
+1566	34.70	135.50	Arcade
+1567	51.33	12.37	Grocery Store
+1568	51.33	12.32	Light Rail
+1569	51.32	12.33	Bus Line
+1570	35.70	139.65	Subway
+1571	35.70	139.68	Subway
+1572	35.65	139.74	Subway
+1573	-23.58	-46.66	Office
+1574	-23.66	-46.65	Home (private)
+1575	35.67	139.76	Plaza
+1576	35.53	139.70	Other Nightlife
+1577	34.61	135.51	Subway
+1578	35.69	139.70	Department Store
+1579	34.70	135.50	Platform
+1580	34.73	135.49	Train Station
+1581	34.82	135.56	Train Station
+1582	34.98	135.76	Train Station
+1583	34.66	135.50	Road
+1584	34.66	135.50	Toy / Game Store
+1585	41.01	39.73	Bridal Shop
+1586	43.07	141.50	Train Station
+1587	43.07	141.49	Home (private)
+1588	-6.17	106.79	University
+1589	1.32	103.77	Train Station
+1590	1.37	103.95	Mall
+1591	36.24	139.08	Bookstore
+1592	36.24	139.08	Convenience Store
+1593	35.69	139.70	Subway
+1594	35.77	139.66	Train Station
+1595	33.59	130.40	Mall
+1596	33.59	130.40	Arcade
+1597	-34.40	-70.85	Home (private)
+1598	-39.81	-73.24	Bus Station
+1599	34.75	134.87	Train Station
+1600	4.60	101.05	Home (private)
+1601	35.82	139.70	Train Station
+1602	35.68	140.00	Train Station
+1603	35.70	139.78	Subway
+1604	35.73	139.79	Subway
+1605	35.71	139.77	Train Station
+1606	37.50	127.00	Subway
+1607	5.37	100.44	Mall
+1608	5.38	100.42	University
+1609	36.00	139.56	Train Station
+1610	35.73	139.71	Subway
+1611	35.71	139.46	Train Station
+1612	35.51	139.62	Convenience Store
+1613	35.51	139.62	Subway
+1614	13.67	100.63	Mall
+1615	34.70	135.50	Subway
+1616	34.72	135.55	Subway
+1617	52.52	13.37	Train Station
+1618	35.63	139.72	Train Station
+1619	35.70	139.71	Subway
+1620	35.71	139.81	Train Station
+1621	35.50	139.45	Train Station
+1622	35.74	139.75	Train Station
+1623	35.73	139.75	Office
+1624	35.54	139.59	Subway
+1625	-23.53	-46.63	College Administrative Building
+1626	-23.53	-46.54	Home (private)
+1627	34.68	135.17	Train Station
+1628	34.72	135.15	Train Station
+1629	35.75	139.76	Light Rail
+1630	35.75	139.74	Light Rail
+1631	1.37	103.84	Home (private)
+1632	1.37	103.85	Mall
+1633	1.37	103.84	Home (private)
+1634	1.35	103.85	Mall
+1635	1.35	103.85	Subway
+1636	35.55	139.79	Train Station
+1637	35.72	139.75	Convenience Store
+1638	13.74	100.55	Train Station
+1639	13.74	100.54	School
+1640	13.81	100.57	Home (private)
+1641	13.75	100.53	Mall
+1642	14.07	100.61	College Engineering Building
+1643	14.06	100.60	Residential Building (Apartment / Condo)
+1644	35.67	139.81	Subway
+1645	35.66	139.70	Train Station
+1646	35.76	139.69	Train Station
+1647	35.51	139.44	Train Station
+1648	35.69	139.70	Arcade
+1649	-6.14	106.86	Home (private)
+1650	-6.14	106.86	Home (private)
+1651	-6.14	106.86	Home (private)
+1652	34.75	135.53	General Travel
+1653	35.00	135.76	Train Station
+1654	35.00	135.73	Road
+1655	35.00	135.73	Train Station
+1656	35.00	135.76	Subway
+1657	-3.75	-38.50	Office
+1658	-3.75	-38.50	Office
+1659	-3.75	-38.50	Office
+1660	59.62	17.86	Food & Drink Shop
+1661	59.62	17.85	Bus Station
+1662	59.63	17.86	Train Station
+1663	59.63	17.86	Bus Station
+1664	59.61	17.88	Office
+1665	-23.65	-46.53	Bus Station
+1666	-23.66	-46.52	Road
+1667	-23.69	-46.51	Home (private)
+1668	3.20	101.74	Gym
+1669	3.18	101.75	Mall
+1670	35.27	139.68	Train Station
+1671	35.26	139.69	Train Station
+1672	35.65	139.75	Subway
+1673	35.79	139.72	Bridge
+1674	38.25	140.33	Train Station
+1675	35.77	139.87	Road
+1676	35.77	139.87	Japanese Restaurant
+1677	35.77	139.87	Train Station
+1678	35.84	139.90	Train Station
+1679	35.84	139.90	Train Station
+1680	44.85	-73.09	Car Dealership
+1681	44.81	-73.16	Home (private)
+1682	35.73	139.80	Train Station
+1683	35.60	139.51	Train Station
+1684	34.49	135.42	Train Station
+1685	34.53	135.46	Train Station
+1686	34.65	135.52	Train Station
+1687	34.68	135.51	Subway
+1688	34.71	135.50	Subway
+1689	52.52	13.45	Home (private)
+1690	34.69	135.56	Train Station
+1691	35.61	139.73	Train Station
+1692	-23.49	-46.72	Neighborhood
+1693	-23.58	-46.64	Subway
+1694	35.51	139.57	Train Station
+1695	35.52	139.59	Factory
+1696	35.48	139.63	Train Station
+1697	35.68	139.77	Train Station
+1698	35.51	139.63	Train Station
+1699	35.51	139.59	Bridge
+1700	35.51	139.57	Convenience Store
+1701	35.51	139.56	Home (private)
+1702	35.16	136.92	Train Station
+1703	35.89	139.95	Mall
+1704	35.87	139.93	Train Station
+1705	34.99	135.76	Train Station
+1706	35.01	135.74	Train Station
+1707	35.01	135.74	Mall
+1708	34.93	135.69	Train Station
+1709	34.77	135.51	Train Station
+1710	34.82	135.58	Train Station
+1711	35.88	129.22	Coworking Space
+1712	35.87	129.21	Home (private)
+1713	35.07	136.68	Train Station
+1714	34.95	137.17	Train Station
+1715	39.23	-84.26	Home (private)
+1716	39.23	-84.26	Home (private)
+1717	39.17	-84.41	Office
+1718	41.02	29.02	University
+1719	40.96	29.08	Neighborhood
+1720	40.97	29.09	Home (private)
+1721	35.54	139.44	Train Station
+1722	35.44	139.36	Train Station
+1723	35.71	139.78	Train Station
+1724	35.86	139.97	Train Station
+1725	35.82	139.98	Train Station
+1726	35.65	139.55	Train Station
+1727	35.70	139.77	Arcade
+1728	35.65	139.54	Arcade
+1729	35.37	136.62	Train Station
+1730	34.83	134.69	Train Station
+1731	34.81	134.58	Train Station
+1732	33.59	130.40	Electronics Store
+1733	33.59	130.40	Electronics Store
+1734	28.71	-81.77	General Travel
+1735	28.67	-81.78	Road
+1736	28.62	-81.76	General Travel
+1737	28.56	-81.70	Home (private)
+1738	28.57	-81.70	Hiking Trail
+1739	28.57	-81.72	Road
+1740	28.57	-81.72	Road
+1741	28.58	-81.75	Road
+1742	28.59	-81.75	Road
+1743	35.75	139.72	Subway
+1744	35.68	139.78	Coffee Shop
+1745	40.99	28.85	Home (private)
+1746	34.72	135.26	Train Station
+1747	34.73	135.28	Train Station
+1748	34.77	135.51	University
+1749	34.73	135.28	Train Station
+1750	34.72	135.26	Train Station
+1751	34.69	135.26	Residential Building (Apartment / Condo)
+1752	-23.45	-46.62	Home (private)
+1753	-23.53	-46.61	Office
+1754	3.14	101.71	Mall
+1755	3.06	101.59	Mall
+1756	3.12	101.62	Indian Restaurant
+1757	33.61	130.47	Train Station
+1758	33.61	130.44	Gas Station / Garage
+1759	35.52	139.63	Train Station
+1760	35.52	139.63	Sake Bar
+1761	35.51	139.63	Train Station
+1762	35.62	139.68	Train Station
+1763	35.69	139.77	Subway
+1764	35.68	139.74	Subway
+1765	35.68	139.74	Bridge
+1766	35.88	139.99	Train Station
+1767	35.69	139.76	Subway
+1768	35.66	139.77	Bridge
+1769	37.56	126.94	Subway
+1770	37.55	126.97	Subway
+1771	35.75	139.81	University
+1772	35.70	139.77	Caf�
+1773	35.73	139.71	Arcade
+1774	41.01	28.54	Residential Building (Apartment / Condo)
+1775	41.01	28.54	Building
+1776	41.02	28.63	Mall
+1777	41.01	28.54	Other Great Outdoors
+1778	35.67	139.62	Convenience Store
+1779	35.67	139.62	Train Station
+1780	35.69	139.70	Subway
+1781	35.66	139.73	Subway
+1782	13.77	100.39	Coworking Space
+1783	13.78	100.42	Bus Station
+1784	35.56	139.72	Train Station
+1785	35.61	139.48	Train Station
+1786	35.56	139.71	Sake Bar
+1787	35.65	139.80	Subway
+1788	35.68	139.76	Train Station
+1789	10.70	122.55	Tech Startup
+1790	10.71	122.57	Home (private)
+1791	34.68	135.50	Subway
+1792	34.71	135.58	Residential Building (Apartment / Condo)
+1793	34.71	135.58	Subway
+1794	35.91	140.29	Other Great Outdoors
+1795	35.32	134.88	Train Station
+1796	34.99	137.09	Train Station
+1797	31.24	121.47	Subway
+1798	35.33	139.41	Train Station
+1799	35.53	139.70	Train Station
+1800	22.34	114.18	Train Station
+1801	22.31	114.22	Building
+1802	22.29	114.20	Pier
+1803	35.67	139.74	Subway
+1804	35.38	139.93	Train Station
+1805	34.70	135.51	Subway
+1806	35.67	139.72	Baseball Stadium
+1807	40.98	29.04	Neighborhood
+1808	40.99	28.73	University
+1809	35.68	139.64	Train Station
+1810	35.69	139.66	Bus Station
+1811	35.69	139.70	Subway
+1812	35.66	139.67	Train Station
+1813	35.58	139.48	Train Station
+1814	35.66	139.67	Train Station
+1815	35.69	139.66	Road
+1816	35.70	139.58	Parking
+1817	35.70	139.58	Train Station
+1818	35.91	139.63	Caf�
+1819	35.98	139.75	Train Station
+1820	35.17	136.94	Convenience Store
+1821	35.17	136.94	Park
+1822	35.81	139.42	Train Station
+1823	35.71	139.70	Train Station
+1824	35.69	139.78	Subway
+1825	35.56	139.67	Train Station
+1826	35.51	139.68	Train Station
+1827	35.51	139.68	Train Station
+1828	35.51	139.68	Train
+1829	35.50	139.70	Train Station
+1830	35.49	139.70	Train Station
+1831	35.75	139.75	Train Station
+1832	35.66	139.73	Subway
+1833	51.97	5.65	Office
+1834	-33.44	-70.54	Home (private)
+1835	-33.44	-70.57	Subway
+1836	-33.44	-70.65	Subway
+1837	2.97	101.72	Home (private)
+1838	2.97	101.73	University
+1839	35.83	139.67	Bus Line
+1840	35.98	140.14	Train Station
+1841	43.41	-80.44	Office
+1842	43.44	-80.49	Home (private)
+1843	41.11	29.03	Mall
+1844	40.97	29.15	University
+1845	41.05	28.99	Neighborhood
+1846	35.66	139.70	Train Station
+1847	35.70	139.77	Hardware Store
+1848	35.70	139.77	Electronics Store
+1849	35.71	139.77	Subway
+1850	35.67	139.79	Subway
+1851	-26.32	-48.82	Home (private)
+1852	-26.26	-48.85	Office
+1853	35.11	136.73	Train Station
+1854	34.99	137.01	Train Station
+1855	-33.45	-70.65	School
+1856	-33.43	-70.63	Subway
+1857	-33.43	-70.61	Subway
+1858	36.47	140.58	Home (private)
+1859	36.47	140.57	Train Station
+1860	35.42	139.49	Train Station
+1861	35.35	139.48	Train Station
+1862	35.47	139.46	Train Station
+1863	35.01	135.74	Subway
+1864	35.01	135.76	Subway
+1865	35.01	135.76	Road
+1866	35.01	135.76	Convenience Store
+1867	35.01	135.76	History Museum
+1868	35.01	135.75	Mall
+1869	35.01	135.74	Road
+1870	35.68	139.76	Convention Center
+1871	35.68	139.78	Subway
+1872	35.71	139.78	Train Station
+1873	36.11	139.43	Train Station
+1874	13.76	100.50	Road
+1875	13.83	100.57	Multiplex
+1876	40.96	29.07	Coffee Shop
+1877	34.51	135.79	Train Station
+1878	34.67	135.52	Train Station
+1879	34.67	135.51	Subway
+1880	34.66	135.51	Toy / Game Store
+1881	34.66	135.50	Hobby Shop
+1882	34.67	135.50	Electronics Store
+1883	34.67	135.50	Train Station
+1884	-15.78	-47.89	Building
+1885	-15.78	-47.89	Office
+1886	3.07	101.51	Food Court
+1887	3.07	101.51	College Residence Hall
+1888	34.93	135.76	Train Station
+1889	34.82	135.65	Train Station
+1890	35.70	139.77	Chinese Restaurant
+1891	35.70	139.77	Event Space
+1892	-8.14	-34.92	Office
+1893	-8.13	-34.92	Airport
+1894	-23.66	-46.73	College Technology Building
+1895	41.00	29.04	Caf�
+1896	34.62	135.52	Subway
+1897	34.65	135.51	Road
+1898	34.65	135.51	Park
+1899	33.51	130.47	Grocery Store
+1900	33.50	130.47	Grocery Store
+1901	35.67	139.76	Train Station
+1902	35.68	139.76	Subway
+1903	35.75	139.55	Train Station
+1904	35.75	139.55	Department Store
+1905	35.66	139.70	Subway
+1906	35.86	139.52	Train Station
+1907	-23.69	-46.58	Home (private)
+1908	-23.61	-46.64	Tech Startup
+1909	-33.41	-70.60	Office
+1910	-33.51	-70.76	Plaza
+1911	35.40	139.53	Train Station
+1912	-1.43	-48.46	Office
+1913	-1.37	-48.40	Home (private)
+1914	35.81	139.80	Train Station
+1915	35.70	139.78	Subway
+1916	35.70	139.77	Mall
+1917	35.73	139.72	Subway
+1918	36.56	139.90	Train Station
+1919	35.91	139.62	Platform
+1920	40.26	-74.72	Automotive Shop
+1921	40.25	-74.74	Gas Station / Garage
+1922	34.68	135.50	Subway
+1923	34.82	135.41	Train Station
+1924	35.61	139.57	Monument / Landmark
+1925	35.61	139.57	Monument / Landmark
+1926	35.61	139.57	Monument / Landmark
+1927	35.61	139.57	Monument / Landmark
+1928	35.61	139.57	Road
+1929	35.70	139.77	Train Station
+1930	1.32	103.89	Home (private)
+1931	1.32	103.87	Home (private)
+1932	47.51	19.02	Road
+1933	47.51	19.02	Plaza
+1934	39.87	32.73	Mall
+1935	39.92	32.86	Music Venue
+1936	-23.47	-46.58	Neighborhood
+1937	-23.56	-46.63	University
+1938	-23.58	-46.66	Professional & Other Places
+1939	35.37	139.18	Train Station
+1940	36.06	136.22	Train Station
+1941	36.70	137.21	Train Station
+1942	37.17	138.24	Train Station
+1943	35.55	139.77	Airport Terminal
+1944	1.30	103.86	Mall
+1945	1.30	103.85	Mall
+1946	3.07	101.59	Malaysian Restaurant
+1947	2.75	101.70	Airport
+1948	-33.41	-70.60	Office
+1949	35.67	139.74	Subway
+1950	35.75	139.81	Subway
+1951	35.77	139.81	Train
+1952	34.66	135.50	Subway
+1953	35.69	139.77	Train Station
+1954	-5.15	119.42	Mall
+1955	-5.16	119.39	Mall
+1956	34.69	135.50	Train Station
+1957	34.81	135.64	Train Station
+1958	37.86	23.75	General College & University
+1959	35.74	139.85	Train Station
+1960	35.76	139.73	Park
+1961	35.70	139.77	Bookstore
+1962	35.70	139.77	Japanese Restaurant
+1963	35.70	139.77	Mobile Phone Shop
+1964	35.70	139.77	Mobile Phone Shop
+1965	35.70	139.77	Platform
+1966	55.83	49.15	Residential Building (Apartment / Condo)
+1967	-30.08	-51.25	Mall
+1968	-30.08	-51.22	University
+1969	35.70	139.77	Subway
+1970	50.80	4.35	Home (private)
+1971	50.80	4.34	Train Station
+1972	50.80	4.34	Plaza
+1973	50.81	4.35	Light Rail
+1974	35.63	139.74	Train
+1975	35.63	139.74	Train Station
+1976	35.30	139.58	Train Station
+1977	35.67	139.76	Train Station
+1978	35.30	139.58	Bus Line
+1979	35.79	139.26	Train Station
+1980	35.72	139.34	Train Station
+1981	3.15	101.62	Mall
+1982	35.01	135.76	Convenience Store
+1983	35.61	139.52	Train Station
+1984	39.95	-75.16	Neighborhood
+1985	40.02	-75.08	Train Station
+1986	35.73	139.71	Arcade
+1987	33.88	35.49	Home (private)
+1988	33.87	35.53	Office
+1989	35.70	139.78	Bridge
+1990	35.70	139.77	Parking
+1991	35.70	139.77	Park
+1992	35.70	139.77	Electronics Store
+1993	35.70	139.77	Electronics Store
+1994	35.70	139.78	Road
+1995	35.60	139.72	Train
+1996	35.56	139.70	Bridge
+1997	35.55	139.69	Strip Club
+1998	36.00	139.40	Train Station
+1999	35.53	139.70	Bus Station
+2000	-26.95	-49.07	Office
+2001	3.08	101.50	Convention Center
+2002	34.70	135.49	Train Station
+2003	34.70	135.50	Train Station
+2004	34.70	135.50	Plaza
+2005	34.70	135.50	Event Space
+2006	34.70	135.50	Plaza
+2007	34.70	135.50	Train Station
+2008	34.70	135.50	Platform
+2009	34.82	135.56	Bus Station
+2010	34.82	135.55	Road
+2011	1.30	103.85	Flea Market
+2012	1.29	103.83	Mall
+2013	35.66	139.54	College Academic Building
+2014	35.75	139.42	Train Station
+2015	34.67	135.50	Subway
+2016	34.70	135.49	Electronics Store
+2017	37.91	139.06	Train Station
+2018	37.65	138.93	Gym
+2019	1.48	124.84	Road
+2020	1.47	124.83	Mall
+2021	-41.47	-72.91	University
+2022	33.59	130.42	Platform
+2023	33.54	130.47	Train Station
+2024	35.67	139.71	Subway
+2025	-6.18	106.83	Train Station
+2026	-6.21	106.87	Train Station
+2027	-33.05	-71.54	Home (private)
+2028	-33.05	-71.54	Neighborhood
+2029	13.80	100.50	Road
+2030	-33.43	-70.64	Neighborhood
+2031	-33.53	-70.60	Subway
+2032	-33.61	-70.58	Subway
+2033	33.59	130.40	Bus Station
+2034	13.81	100.51	Bridge
+2035	13.81	100.51	Office
+2036	13.80	100.54	Subway
+2037	13.79	100.52	Mall
+2038	52.25	-1.60	Other Great Outdoors
+2039	52.25	-1.60	Home (private)
+2040	35.67	138.57	Train Station
+2041	35.45	139.39	Train Station
+2042	35.73	139.72	Hobby Shop
+2043	35.73	139.71	Train Station
+2044	-33.44	-70.63	Building
+2045	35.59	139.71	Subway
+2046	35.27	139.67	Bus Line
+2047	35.23	139.66	Bus Station
+2048	35.74	139.47	Museum
+2049	35.67	139.71	Subway
+2050	35.64	139.67	Train Station
+2051	35.74	139.46	Train Station
+2052	1.60	103.80	Home (private)
+2053	13.72	100.50	Train Station
+2054	13.78	100.48	Mall
+2055	-6.37	106.82	University
+2056	-6.16	106.91	Mall
+2057	-33.49	-70.62	University
+2058	-33.44	-70.62	Factory
+2059	35.70	139.77	Nightclub
+2060	-3.03	-60.05	Airport
+2061	-3.12	-60.01	Office
+2062	14.52	121.00	Neighborhood
+2063	14.59	121.06	Mall
+2064	35.70	139.66	Subway
+2065	34.70	135.49	Train Station
+2066	34.99	135.76	Bus Line
+2067	34.39	135.33	Train Station
+2068	35.72	139.93	Train Station
+2069	35.91	139.48	Train Station
+2070	35.91	139.48	Train Station
+2071	35.74	139.66	Train Station
+2072	35.84	139.35	Train Station
+2073	35.85	139.32	Train Station
+2074	-33.45	-70.66	University
+2075	-33.44	-70.64	Subway
+2076	-33.45	-70.64	Building
+2077	-33.44	-70.64	Other Great Outdoors
+2078	-33.44	-70.64	Other Great Outdoors
+2079	14.56	121.02	Office
+2080	14.64	121.05	Home (private)
+2081	-33.42	-70.62	Tech Startup
+2082	-33.54	-70.59	Subway
+2083	35.52	140.31	Train Station
+2084	35.61	140.10	Train Station
+2085	-33.53	-70.58	Home (private)
+2086	-33.42	-70.66	Medical School
+2087	-33.40	-70.58	Park
+2088	-33.41	-70.58	Subway
+2089	-33.41	-70.57	Subway
+2090	4.17	73.51	Home (private)
+2091	4.17	73.51	Electronics Store
+2092	-3.12	-60.02	Automotive Shop
+2093	35.64	139.82	Convenience Store
+2094	35.63	139.72	Train Station
+2095	35.65	139.83	Train Station
+2096	35.65	140.04	Train Station
+2097	35.70	139.75	Subway
+2098	35.65	139.75	Subway
+2099	35.70	139.75	Building
+2100	35.70	139.58	Bus Line
+2101	35.68	139.57	Bus Station
+2102	35.70	139.62	Train Station
+2103	35.49	139.65	Train Station
+2104	35.47	139.62	Bookstore
+2105	35.48	139.63	Train Station
+2106	-30.09	-51.23	Home (private)
+2107	-30.06	-51.17	University
+2108	-30.04	-51.23	Courthouse
+2109	10.10	-84.47	Neighborhood
+2110	10.09	-84.47	Outdoors & Recreation
+2111	10.08	-84.47	Road
+2112	10.07	-84.47	Other Great Outdoors
+2113	10.09	-84.47	Park
+2114	35.29	139.64	Train Station
+2115	35.41	139.60	Train Station
+2116	35.71	139.71	Video Store
+2117	35.70	139.70	Train Station
+2118	35.65	139.71	Train Station
+2119	35.62	139.73	Train Station
+2120	35.62	139.74	Train Station
+2121	35.50	139.67	Train Station
+2122	35.39	139.61	Train Station
+2123	35.36	139.63	Train Station
+2124	35.33	139.62	Train Station
+2125	36.35	139.02	Train Station
+2126	35.70	139.58	Video Store
+2127	35.62	139.75	Light Rail
+2128	35.55	140.21	Train Station
+2129	35.70	139.81	Train Station
+2130	35.70	139.79	Train Station
+2131	35.58	140.13	Platform
+2132	35.55	140.21	Grocery Store
+2133	35.89	139.79	Train Station
+2134	35.75	139.80	Train Station
+2135	35.89	139.79	Bookstore
+2136	36.38	139.05	Train Station
+2137	36.32	139.01	Train Station
+2138	36.36	139.02	Train Station
+2139	36.13	139.38	Bridge
+2140	36.15	139.47	Train Station
+2141	36.15	139.47	Parking
+2142	36.14	139.39	Train Station
+2143	36.14	139.39	Parking
+2144	36.13	139.38	Bridge
+2145	35.70	139.79	Train Station
+2146	39.70	-84.16	Other Great Outdoors
+2147	39.77	-84.13	Home (private)
+2148	39.79	-84.13	Other Great Outdoors
+2149	50.05	8.79	Home (private)
+2150	50.05	8.75	Hotel
+2151	50.01	8.65	Government Building
+2152	15.17	120.58	Fast Food Restaurant
+2153	35.34	139.62	Train Station
+2154	28.81	-81.56	Scenic Lookout
+2155	35.83	139.93	Train Station
+2156	35.61	140.11	Train Station
+2157	35.73	139.97	Train Station
+2158	35.83	139.92	Train Station
+2159	35.67	139.69	Grocery Store
+2160	35.67	139.69	Train Station
+2161	35.71	140.04	Train Station
+2162	13.75	100.54	Department Store
+2163	13.74	100.54	Department Store
+2164	13.78	100.58	Home (private)
+2165	13.79	100.57	Subway
+2166	50.79	4.33	Train Station
+2167	50.80	4.34	Light Rail
+2168	14.57	121.03	Home (private)
+2169	14.53	121.02	Professional & Other Places
+2170	14.53	121.02	Office
+2171	35.88	139.92	Train Station
+2172	35.75	139.81	Train Station
+2173	40.79	-73.95	Subway
+2174	35.67	139.65	Train Station
+2175	35.67	139.75	Subway
+2176	41.07	29.01	Bus Station
+2177	41.00	28.89	Mall
+2178	35.73	139.71	Electronics Store
+2179	35.70	139.99	Train
+2180	-33.44	-70.65	Subway
+2181	-33.47	-70.63	Home (private)
+2182	7.97	-80.43	Other Great Outdoors
+2183	13.85	100.45	Home (private)
+2184	13.76	100.54	Train Station
+2185	13.84	100.49	Pier
+2186	35.45	139.39	Train Station
+2187	35.46	139.62	Arcade
+2188	35.47	139.62	Arcade
+2189	35.47	139.62	Electronics Store
+2190	-23.55	-46.64	Office
+2191	34.72	135.25	Train Station
+2192	51.52	7.46	Train Station
+2193	35.67	139.47	Train Station
+2194	35.78	139.49	Train Station
+2195	43.15	131.93	Residential Building (Apartment / Condo)
+2196	35.44	139.64	Baseball Stadium
+2197	10.29	123.89	Home (private)
+2198	-33.41	-70.58	Office
+2199	-33.44	-70.64	Law School
+2200	35.68	139.72	Train Station
+2201	35.69	139.70	Bus Station
+2202	3.14	101.71	Mall
+2203	35.76	139.68	Train Station
+2204	40.97	29.06	Neighborhood
+2205	34.97	138.39	Train Station
+2206	34.77	138.01	Train Station
+2207	35.17	136.88	Platform
+2208	35.63	139.74	Platform
+2209	35.67	139.48	Train Station
+2210	13.78	100.55	Mall
+2211	35.43	139.66	Building
+2212	35.73	139.71	Subway
+2213	35.73	139.71	Subway
+2214	-23.55	-46.69	Subway
+2215	-23.65	-46.64	Bus Station
+2216	35.72	140.14	Train Station
+2217	-33.45	-70.69	Subway
+2218	13.76	100.49	Field
+2219	35.17	136.91	Mall
+2220	34.78	135.63	Train Station
+2221	34.69	135.53	Train Station
+2222	35.70	139.98	Train Station
+2223	3.01	101.78	Burger Joint
+2224	3.01	101.79	Home (private)
+2225	35.68	139.74	Subway
+2226	39.32	-76.45	Road
+2227	35.78	139.90	Train Station
+2228	-12.15	-77.02	Bakery
+2229	-12.15	-77.02	Bus Station
+2230	-6.91	107.60	Train Station
+2231	-33.45	-70.68	Train Station
+2232	-33.59	-70.70	Train Station
+2233	41.02	29.13	Furniture / Home Store
+2234	41.01	29.03	Building
+2235	59.62	17.85	Home (private)
+2236	59.62	17.85	Grocery Store
+2237	-33.51	-70.76	Subway
+2238	43.08	141.31	Train Station
+2239	3.58	98.67	Mall
+2240	3.58	98.67	Multiplex
+2241	35.63	139.79	Train Station
+2242	35.70	139.58	Train Station
+2243	-6.15	106.89	Mall
+2244	-6.15	106.89	Multiplex
+2245	41.04	29.01	Other Great Outdoors
+2246	13.76	100.57	Subway
+2247	34.70	135.53	Train Station
+2248	35.61	139.73	Train Station
+2249	3.15	101.71	Neighborhood
+2250	3.15	101.71	Food Truck
+2251	-6.89	107.60	Mall
+2252	53.96	-1.09	Train Station
+2253	52.52	13.41	Train Station
+2254	52.53	13.44	Home (private)
+2255	-19.93	-43.95	Mall
+2256	-19.93	-43.94	Plaza
+2257	-23.50	-46.52	Speakeasy
+2258	3.17	101.74	Wings Joint
+2259	3.16	101.75	Soccer Field
+2260	51.69	5.29	Train Station
+2261	51.59	4.78	Train Station
+2262	40.98	29.02	Neighborhood
+2263	-33.52	-70.60	Mall
+2264	42.82	-1.64	Bar
+2265	-38.73	-72.61	Mall
+2266	-38.74	-72.59	Clothing Store
+2267	41.09	29.06	Breakfast Spot
+2268	-33.52	-70.60	Subway
+2269	35.54	139.44	Bus Line
+2270	-33.46	-70.72	Bus Station
+2271	9.38	-83.71	Office
+2272	9.37	-83.70	Home (private)
+2273	-33.40	-70.58	Mall
+2274	-33.36	-70.52	Mall
+2275	-23.67	-70.40	Grocery Store
+2276	-23.45	-70.44	Airport
+2277	35.67	139.70	Train Station
+2278	28.38	-81.55	Theme Park
+2279	28.42	-81.58	Theme Park
+2280	40.88	-74.12	Home (private)
+2281	34.68	135.18	Train Station
+2282	-23.56	-46.66	Road
+2283	14.58	-60.98	Other Great Outdoors
+2284	39.56	-84.30	Electronics Store
+2285	39.36	-84.59	Home (private)
+2286	-23.63	-46.66	Airport
+2287	-12.09	-76.98	Mall
+2288	34.70	137.73	Smoke Shop
+2289	34.72	137.71	Elementary School
+2290	9.93	-84.06	Mall
+2291	9.93	-84.05	Other Great Outdoors
+2292	10.00	-84.20	Airport
+2293	9.93	-84.08	Bus Line
+2294	9.87	-83.92	Other Great Outdoors
+2295	35.71	139.78	Train Station
+2296	35.33	139.35	Train Station
+2297	-23.55	-46.63	Subway
+2298	35.71	139.78	Platform
+2299	35.63	139.79	Convention Center
+2300	35.63	139.80	Convention Center
+2301	32.74	-117.06	Gym / Fitness Center
+2302	32.77	-117.07	College Residence Hall
+2303	40.76	-73.99	Plaza
+2304	-1.46	-48.48	Home (private)
+2305	-29.99	-51.18	Airport
+2306	-29.92	-51.15	Residential Building (Apartment / Condo)
+2307	35.59	139.67	Train Station
+2308	35.73	139.59	Train Station
+2309	-23.53	-46.68	General Entertainment
+2310	-23.44	-46.55	Home (private)
+2311	43.06	141.35	Subway
+2312	27.33	-82.51	Home (private)
+2313	3.05	101.50	Bus Station
+2314	35.87	140.04	Train Station
+2315	35.90	140.06	Train Station
+2316	35.93	140.14	Train Station
+2317	36.01	140.16	Train Station
+2318	34.92	135.70	Train Station
+2319	34.73	135.50	Train Station
+2320	13.70	100.48	Home (private)
+2321	-23.60	-46.56	Home (private)
+2322	-23.58	-46.62	Residential Building (Apartment / Condo)
+2323	33.59	130.42	Train Station
+2324	47.50	19.11	Bus Station
+2325	-25.44	-49.32	Mall
+2326	-25.43	-49.30	Residential Building (Apartment / Condo)
+2327	-25.44	-49.31	Home (private)
+2328	35.29	139.58	Train Station
+2329	35.30	139.57	Shrine
+2330	3.15	101.70	Bus Station
+2331	3.14	101.74	Mall
+2332	3.10	101.71	Residential Building (Apartment / Condo)
+2333	33.98	-118.12	Parking
+2334	35.74	139.65	Train Station
+2335	35.74	139.65	Train Station
+2336	33.69	-117.88	Lake
+2337	-33.44	-70.64	Neighborhood
+2338	-33.44	-70.63	Park
+2339	14.59	121.03	Home (private)
+2340	3.11	101.73	Flea Market
+2341	-11.98	-77.06	Bus Station
+2342	-12.09	-77.00	Train Station
+2343	41.00	28.87	Neighborhood
+2344	36.07	139.68	Train Station
+2345	-33.44	-70.64	Performing Arts Venue
+2346	-6.13	106.71	Home (private)
+2347	-6.13	106.66	Airport
+2348	-6.89	107.58	Building
+2349	1.51	103.65	Home (private)
+2350	3.02	101.45	Home (private)
+2351	33.59	130.42	Train Station
+2352	33.59	130.40	Concert Hall
+2353	-6.89	107.60	Multiplex
+2354	1.38	103.96	Mall
+2355	35.52	139.57	Mall
+2356	13.86	100.52	Road
+2357	14.56	-60.94	Other Great Outdoors
+2358	14.56	-60.94	Resort
+2359	35.70	139.77	Shrine
+2360	34.67	133.92	Neighborhood
+2361	13.72	100.52	Train Station
+2362	14.65	121.03	Mall
+2363	14.66	121.03	Mall
+2364	35.45	139.40	Arcade
+2365	35.69	139.70	Department Store
+2366	-6.12	106.79	Mall
+2367	-6.12	106.79	Church
+2368	-6.20	106.82	Mall
+2369	42.92	143.20	Train Station
+2370	42.92	143.20	Bus Station
+2371	34.73	135.50	Subway
+2372	35.71	139.78	Train Station
+2373	3.59	98.69	Mall
+2374	35.70	139.77	Platform
+2375	3.05	101.58	Building
+2376	38.88	139.83	Convenience Store
+2377	35.70	139.45	Train Station
+2378	3.06	101.67	Malaysian Restaurant
+2379	35.17	136.88	Electronics Store
+2380	35.51	139.54	Train Station
+2381	13.75	100.54	Multiplex
+2382	35.66	139.53	Soccer Stadium
+2383	35.82	139.41	Train Station
+2384	35.78	139.50	Train Station
+2385	1.47	103.67	Housing Development
+2386	1.47	103.68	Home (private)
+2387	55.41	37.90	Airport
+2388	51.47	-0.46	Airport
+2389	3.21	101.72	Malaysian Restaurant
+2390	3.21	101.72	Mall
+2391	3.16	101.74	Mall
+2392	41.02	29.05	Other Great Outdoors
+2393	34.60	135.70	Train Station
+2394	35.64	139.35	Train Station
+2395	35.66	139.34	Train Station
+2396	38.34	27.13	Mall
+2397	38.39	27.10	Park
+2398	35.76	140.38	Airport
+2399	34.67	135.53	Train Station
+2400	35.27	136.25	Plaza
+2401	35.27	136.25	Mall
+2402	35.70	139.77	Tech Startup
+2403	35.02	135.96	Train Station
+2404	34.99	135.93	Train Station
+2405	34.43	135.24	Airport
+2406	3.57	98.68	Airport
+2407	5.53	95.28	Home (private)
+2408	35.70	139.77	Subway
+2409	35.73	139.47	Train Station
+2410	35.70	139.77	Japanese Restaurant
+2411	35.88	139.63	Train Station
+2412	35.88	139.63	Food Court
+2413	35.44	139.64	Train Station
+2414	35.63	139.53	Train Station
+2415	35.63	139.54	Train Station
+2416	36.37	140.48	Platform
+2417	36.35	140.31	Train Station
+2418	36.37	140.25	Train Station
+2419	34.85	135.62	Train Station
+2420	34.98	135.70	Train Station
+2421	35.73	139.74	Train Station
+2422	41.05	29.03	Nightclub
+2423	35.40	137.01	Train Station
+2424	35.70	139.77	Electronics Store
+2425	35.70	139.77	Electronics Store
+2426	13.86	100.51	Home (private)
+2427	35.70	139.77	Bookstore
+2428	35.46	139.63	Mall
+2429	35.46	139.63	Train Station
+2430	33.90	130.93	Train Station
+2431	41.03	28.98	Mall
+2432	41.00	39.78	Airport
+2433	35.16	136.91	Subway
+2434	3.15	101.59	Mall
+2435	3.15	101.61	Home (private)
+2436	33.59	130.41	Shrine
+2437	37.45	138.85	Train Station
+2438	36.94	138.81	Train Station
+2439	35.65	140.03	Baseball Stadium
+2440	35.70	139.77	Train Station
+2441	35.70	139.77	Bookstore
+2442	35.70	139.77	Fast Food Restaurant
+2443	35.69	139.60	Train Station
+2444	14.42	121.03	Mall
+2445	-23.67	-46.74	Residential Building (Apartment / Condo)
+2446	29.32	47.99	Miscellaneous Shop
+2447	34.70	135.50	Hobby Shop
+2448	34.74	135.50	Food & Drink Shop
+2449	35.64	139.73	Subway
+2450	34.94	135.77	Train Station
+2451	35.17	136.91	Arcade
+2452	35.76	139.71	Subway
+2453	35.71	139.75	Subway
+2454	35.68	139.70	Train Station
+2455	35.70	139.77	Miscellaneous Shop
+2456	35.68	139.77	Platform
+2457	34.98	135.90	Train Station
+2458	35.67	139.76	Light Rail
+2459	34.98	135.76	Train Station
+2460	3.13	101.63	Mall
+2461	3.13	101.63	Multiplex
+2462	41.03	28.98	Other Great Outdoors
+2463	41.03	28.97	Bar
+2464	35.70	139.77	Arcade
+2465	35.70	139.77	Arcade
+2466	35.70	139.77	Pub
+2467	34.69	135.19	Train Station
+2468	35.66	139.87	Bus Station
+2469	35.70	139.77	Electronics Store
+2470	35.70	139.77	Train Station
+2471	-6.14	106.83	Mall
+2472	-6.12	106.66	Airport Terminal
+2473	35.55	139.72	Train Station
+2474	35.69	139.78	Subway
+2475	35.67	139.62	Train Station
+2476	35.67	139.63	Train Station
+2477	-39.54	-72.96	Other Great Outdoors
+2478	35.47	139.62	Department Store
+2479	55.75	37.54	Mall
+2480	55.76	37.66	Mall
+2481	34.68	135.49	Convenience Store
+2482	34.75	135.42	Train Station
+2483	3.12	101.68	Mall
+2484	14.47	121.03	Convenience Store
+2485	35.34	139.49	Train Station
+2486	33.59	130.41	Subway
+2487	33.59	130.40	Subway
+2488	35.70	139.77	Arcade
+2489	40.14	-74.44	Theme Park
+2490	5.38	100.32	Grocery Store
+2491	5.29	100.27	Airport
+2492	34.74	135.57	Train Station
+2493	34.71	135.62	Train Station
+2494	34.83	135.73	Train Station
+2495	34.70	135.50	Train Station
+2496	34.70	135.53	Arcade
+2497	34.75	135.61	Grocery Store
+2498	13.74	100.63	Mall
+2499	35.67	139.69	Shrine
+2500	35.53	139.49	Train Station
+2501	35.66	139.70	Train Station
+2502	35.67	139.69	Train Station
+2503	36.12	-115.18	Casino
+2504	40.75	-73.99	Stadium
+2505	35.54	139.63	Train Station
+2506	35.55	139.65	Train Station
+2507	35.69	139.77	Subway
+2508	40.96	29.08	Restaurant
+2509	1.39	103.90	Mall
+2510	1.40	103.91	Home (private)
+2511	3.16	101.71	Caf�
+2512	3.15	101.75	Food Court
+2513	35.38	139.58	Train Station
+2514	35.65	139.75	Train Station
+2515	35.47	139.63	Department Store
+2516	35.46	139.62	Department Store
+2517	14.23	121.14	Home (private)
+2518	3.12	101.72	Mall
+2519	3.08	101.58	Mall
+2520	34.83	136.59	Train Station
+2521	34.97	136.62	Train Station
+2522	13.77	100.44	Mall
+2523	13.82	100.45	Mall
+2524	36.17	139.33	Train Station
+2525	35.69	139.74	Subway
+2526	40.99	28.83	Mall
+2527	41.04	28.99	Plaza
+2528	35.70	139.77	Italian Restaurant
+2529	35.46	139.62	Arcade
+2530	35.65	139.80	Light Rail
+2531	35.65	139.80	Subway
+2532	41.08	29.03	Mall
+2533	41.11	29.03	Restaurant
+2534	41.08	29.04	Restaurant
+2535	3.16	101.71	Indian Restaurant
+2536	43.07	141.35	Electronics Store
+2537	43.06	141.35	Road
+2538	41.04	29.00	Other Great Outdoors
+2539	41.04	28.80	Neighborhood
+2540	35.64	139.77	Bridge
+2541	13.75	100.53	School
+2542	35.66	139.75	Subway
+2543	35.66	139.76	Train Station
+2544	35.66	139.70	Plaza
+2545	-25.44	-49.27	Mall
+2546	-25.46	-49.29	Other Great Outdoors
+2547	-8.75	115.17	Airport
+2548	-6.16	106.91	Home (private)
+2549	36.37	139.84	Train Station
+2550	35.77	139.42	Baseball Stadium
+2551	35.66	139.70	Train Station
+2552	13.91	100.59	Home (private)
+2553	-1.46	-48.49	Gym / Fitness Center
+2554	33.54	-82.13	Breakfast Spot
+2555	3.15	101.62	Mall
+2556	35.70	139.77	Caf�
+2557	3.15	101.71	Multiplex
+2558	12.73	101.05	Home (private)
+2559	-12.23	-76.90	Home (private)
+2560	35.70	139.77	Fast Food Restaurant
+2561	35.07	136.02	Train Station
+2562	35.00	135.86	Train Station
+2563	34.67	134.96	Train Station
+2564	34.99	135.82	Train Station
+2565	35.27	136.26	Train Station
+2566	35.96	139.77	Train Station
+2567	35.88	139.79	Train Station
+2568	35.80	139.56	Train Station
+2569	35.79	139.51	Train Station
+2570	35.94	139.77	Train Station
+2571	-6.26	106.81	Home (private)
+2572	-6.24	106.78	Mall
+2573	35.67	139.67	Train Station
+2574	35.64	139.28	Train Station
+2575	40.97	29.04	Caf�
+2576	41.01	29.04	Neighborhood
+2577	40.96	29.06	Beach
+2578	13.85	100.55	Home (private)
+2579	35.34	136.87	Train Station
+2580	35.17	136.89	Arcade
+2581	35.70	139.77	Arcade
+2582	35.43	139.40	Rest Area
+2583	35.43	139.40	Rest Area
+2584	41.03	29.13	Mall
+2585	41.02	29.04	Mall
+2586	41.03	29.02	Boat or Ferry
+2587	41.08	29.01	Other Great Outdoors
+2588	35.70	139.52	Train Station
+2589	35.63	139.79	Light Rail
+2590	35.67	139.76	Subway
+2591	33.59	130.42	Subway
+2592	34.98	135.76	Train Station
+2593	33.60	130.45	Airport
+2594	2.99	101.52	Home (private)
+2595	3.04	101.52	Flea Market
+2596	3.06	101.49	Malaysian Restaurant
+2597	-19.93	-43.95	Office
+2598	34.08	-80.89	Residential Building (Apartment / Condo)
+2599	35.17	136.88	Electronics Store
+2600	35.17	136.88	Hobby Shop
+2601	35.17	136.88	Monument / Landmark
+2602	35.16	136.91	Hobby Shop
+2603	34.64	135.51	Mall
+2604	35.75	139.82	Bridge
+2605	35.75	139.83	Train Station
+2606	35.13	138.91	Train Station
+2607	1.58	110.30	Home (private)
+2608	34.73	135.50	Train Station
+2609	34.79	135.44	Airport
+2610	34.79	135.46	Train Station
+2611	3.12	101.77	Home (private)
+2612	35.73	139.72	Arcade
+2613	35.78	139.63	Train Station
+2614	35.70	139.76	Train Station
+2615	38.36	140.86	Home (private)
+2616	35.87	139.51	Train Station
+2617	41.05	29.03	Nightclub
+2618	40.99	29.04	Soccer Stadium
+2619	41.03	28.99	Neighborhood
+2620	35.65	139.68	Train Station
+2621	35.57	139.73	Train Station
+2622	37.75	140.46	Train Station
+2623	40.94	29.33	Mall
+2624	41.08	29.01	Mall
+2625	41.07	29.00	Other Great Outdoors
+2626	40.78	30.40	Other Great Outdoors
+2627	40.70	30.22	Home (private)
+2628	35.63	139.72	Train Station
+2629	40.97	29.09	Mall
+2630	41.05	29.03	Other Great Outdoors
+2631	41.05	28.90	Mall
+2632	40.99	29.09	Mall
+2633	1.33	124.78	Home (private)
+2634	1.32	124.83	Home (private)
+2635	43.04	-88.14	Italian Restaurant
+2636	43.11	-88.05	Gay Bar
+2637	-33.47	-70.60	Grocery Store
+2638	-33.46	-70.61	Soccer Stadium
+2639	38.93	-77.04	Coffee Shop
+2640	38.90	-77.01	Train Station
+2641	41.01	29.04	Home (private)
+2642	13.90	100.41	Housing Development
+2643	-23.69	-70.41	Home (private)
+2644	13.75	100.53	Mall
+2645	13.78	100.51	School
+2646	40.99	28.87	Caf�
+2647	41.11	29.06	Breakfast Spot
+2648	40.96	28.82	Neighborhood
+2649	13.75	100.33	Home (private)
+2650	34.27	-118.56	Pizza Place
+2651	34.25	-118.52	Other Great Outdoors
+2652	41.03	28.94	Residential Building (Apartment / Condo)
+2653	-12.13	-76.97	Home (private)
+2654	40.74	-73.99	Park
+2655	41.06	28.99	Mall
+2656	41.01	29.04	Caf�
+2657	5.32	100.28	Residential Building (Apartment / Condo)
+2658	-23.57	-46.65	Subway
+2659	-23.52	-46.63	Subway
+2660	-23.52	-46.62	Bus Station
+2661	-22.90	-43.21	Bus Station
+2662	47.52	19.02	Other Great Outdoors
+2663	22.32	113.93	Airport
+2664	41.98	-87.90	Airport
+2665	39.85	32.83	Mall
+2666	39.91	32.78	Mall
+2667	39.90	32.81	Other Great Outdoors
+2668	41.02	29.04	Neighborhood
+2669	0.04	-51.06	Road
+2670	-19.89	-43.90	Home (private)
+2671	10.09	-84.47	Church
+2672	19.37	-99.17	Mall
+2673	19.37	-99.17	Multiplex
+2674	19.36	-99.17	Mall
+2675	35.55	139.78	Airport
+2676	51.42	-0.76	Home (private)
+2677	-30.03	-51.20	Other Great Outdoors
+2678	-30.01	-51.15	Home (private)
+2679	51.04	3.74	Home (private)
+2680	9.87	-83.92	Bus Line
+2681	35.70	139.79	Train Station
+2682	52.31	4.76	Airport
+2683	-9.67	-35.76	Home (private)
+2684	-9.65	-35.72	Mall
+2685	34.78	137.61	Rest Area
+2686	33.64	-84.44	Airport
+2687	19.30	-99.19	Mall
+2688	-33.45	-70.63	Cocktail Bar
+2689	-33.41	-70.57	Mall
+2690	51.66	7.85	Housing Development
+2691	35.07	136.68	Taxi
+2692	35.17	136.88	Miscellaneous Shop
+2693	39.95	-75.16	Other Great Outdoors
+2694	34.70	135.50	Bus Station
+2695	35.55	139.65	College Academic Building
+2696	35.55	139.65	Convenience Store
+2697	14.56	121.05	Home (private)
+2698	-33.41	-70.58	Mall
+2699	-33.41	-70.58	Military Base
+2700	-15.87	-47.92	Airport
+2701	-3.78	-38.54	Airport
+2702	-3.73	-38.49	Beach
+2703	35.57	139.55	Train Station
+2704	-33.45	-70.62	Home (private)
+2705	35.46	139.53	Train Station
+2706	35.47	139.46	Train Station
+2707	-1.45	-48.49	Grocery Store
+2708	-23.65	-46.53	Train Station
+2709	-23.59	-46.59	Train Station
+2710	-23.55	-46.67	Subway
+2711	-23.55	-46.66	Soccer Stadium
+2712	35.72	140.04	Train Station
+2713	40.77	-74.26	Home (private)
+2714	35.72	140.66	Train Station
+2715	35.63	139.05	Rest Area
+2716	40.97	29.04	Caf�
+2717	35.65	139.45	Train Station
+2718	35.65	139.45	Bus Station
+2719	1.39	103.90	High School
+2720	43.11	-88.05	Residential Building (Apartment / Condo)
+2721	-23.56	-46.66	Mall
+2722	-3.75	-38.50	Home (private)
+2723	-3.13	-59.98	Mall
+2724	34.71	135.26	Train Station
+2725	44.12	12.24	Home (private)
+2726	35.28	139.67	Mall
+2727	35.23	139.70	Department Store
+2728	34.71	135.51	Subway
+2729	35.69	139.74	Train Station
+2730	14.65	121.07	University
+2731	35.56	139.58	University
+2732	-8.11	-34.90	Home (private)
+2733	40.99	28.82	Airport Terminal
+2734	-7.22	-39.32	Automotive Shop
+2735	3.08	101.55	University
+2736	-23.57	-46.70	Mall
+2737	-25.54	-49.17	Airport
+2738	35.70	139.77	Subway
+2739	35.68	139.71	Train Station
+2740	35.71	139.69	Train Station
+2741	35.70	139.64	Train Station
+2742	14.59	121.06	Mall
+2743	13.36	101.00	Home (private)
+2744	35.70	139.77	Toy / Game Store
+2745	-8.05	-34.95	University
+2746	33.76	-118.13	Neighborhood
+2747	-23.54	-46.64	Design Studio
+2748	38.73	-9.31	Home (private)
+2749	38.71	-9.30	Office
+2750	3.16	101.61	Furniture / Home Store
+2751	35.68	140.02	Platform
+2752	34.99	135.76	Platform
+2753	19.59	-99.02	Bus Line
+2754	40.89	-74.11	Miscellaneous Shop
+2755	40.92	-74.08	Mall
+2756	47.63	-122.15	Office
+2757	41.66	-91.54	College Rec Center
+2758	36.14	139.69	Train Station
+2759	36.34	139.70	Train Station
+2760	51.84	5.85	Train Station
+2761	51.98	5.90	Train Station
+2762	-6.94	107.63	Home (private)
+2763	35.73	139.71	Electronics Store
+2764	51.84	4.69	Grocery Store
+2765	33.34	-86.89	Lighthouse
+2766	33.34	-86.90	Neighborhood
+2767	33.34	-86.90	Home (private)
+2768	35.63	139.74	Train Station
+2769	34.83	135.71	Train Station
+2770	-33.46	-70.90	Road
+2771	-33.45	-70.69	Bus Station
+2772	35.71	139.75	Subway
+2773	35.89	139.50	Train Station
+2774	-23.60	-46.60	Bus Station
+2775	-23.60	-46.60	Subway
+2776	-23.59	-46.59	Subway
+2777	35.14	136.90	Arcade
+2778	3.08	101.55	Stadium
+2779	-12.06	-77.04	Bus Station
+2780	-11.96	-77.06	Electronics Store
+2781	-23.43	-46.48	Airport
+2782	-7.17	-34.86	City Hall
+2783	14.57	121.00	Home (private)
+2784	14.55	121.02	Mall
+2785	43.06	141.35	Subway
+2786	3.09	101.67	Mall
+2787	40.99	29.10	Mall
+2788	3.16	101.71	Nightclub
+2789	3.10	101.71	Indian Restaurant
+2790	19.17	-96.13	Tech Startup
+2791	41.04	28.91	Boutique
+2792	40.98	28.87	Other Great Outdoors
+2793	13.69	100.75	Airport
+2794	7.13	125.65	Airport
+2795	14.51	121.01	Airport
+2796	41.04	28.98	Other Great Outdoors
+2797	50.93	3.25	Home (private)
+2798	13.79	100.42	Home (private)
+2799	35.60	139.73	Home (private)
+2800	36.10	-115.17	Casino
+2801	-6.40	-38.86	Other Great Outdoors
+2802	39.90	32.69	Mall
+2803	39.92	32.83	Other Great Outdoors
+2804	39.95	32.83	Mall
+2805	36.85	30.76	Mall
+2806	36.86	30.73	Coffee Shop
+2807	-12.10	-77.03	Office
+2808	51.53	-0.12	Subway
+2809	51.53	-0.13	Train Station
+2810	-19.97	-43.94	Mall
+2811	36.64	138.19	Train Station
+2812	10.00	-84.12	General Travel
+2813	9.99	-84.15	Office
+2814	35.30	136.80	Train Station
+2815	47.02	-88.53	Other Great Outdoors
+2816	47.11	-88.59	Department Store
+2817	52.15	5.37	Train Station
+2818	-3.01	-60.03	Building
+2819	-3.06	-60.03	Road
+2820	-19.94	-43.94	Neighborhood
+2821	-19.92	-43.94	Plaza
+2822	35.47	139.61	Road
+2823	-25.09	-50.15	Mall
+2824	-33.38	-70.54	Home (private)
+2825	1.54	110.36	Mall
+2826	1.57	110.30	Mall
+2827	-31.73	-52.35	Residential Building (Apartment / Condo)
+2828	41.19	-81.52	Home (private)
+2829	41.14	-81.52	Moving Target
+2830	34.73	135.31	Train Station
+2831	34.17	-77.90	Residential Building (Apartment / Condo)
+2832	34.20	-77.90	Office
+2833	32.80	-96.73	Home (private)
+2834	41.55	-87.47	Home (private)
+2835	35.69	139.70	Train Station
+2836	-30.06	-51.18	Law School
+2837	1.49	103.76	Mall
+2838	-23.55	-46.64	Subway
+2839	-23.57	-46.64	Mall
+2840	3.17	101.74	Light Rail
+2841	-23.02	-45.58	Mall
+2842	35.22	136.88	Mall
+2843	3.14	101.71	Mall
+2844	35.53	139.50	Train Station
+2845	-12.09	-77.05	Trade School
+2846	35.46	139.62	Hobby Shop
+2847	-33.38	-70.54	Home (private)
+2848	28.43	-81.31	Airport
+2849	39.76	-75.53	Home (private)
+2850	3.15	101.70	Light Rail
+2851	3.19	101.70	Light Rail
+2852	3.14	101.71	Light Rail
+2853	-3.13	-60.01	University
+2854	-3.07	-60.07	Home (private)
+2855	34.76	135.52	Train Station
+2856	34.76	135.52	Library
+2857	11.00	-74.83	Home (private)
+2858	11.01	-74.80	Coworking Space
+2859	-3.08	-60.01	Home (private)
+2860	37.56	126.80	Airport
+2861	39.85	32.68	Residential Building (Apartment / Condo)
+2862	36.02	139.73	Train Station
+2863	14.55	121.02	Mall
+2864	14.55	121.02	Multiplex
+2865	14.54	121.00	Train Station
+2866	21.11	-86.76	Mall
+2867	21.14	-86.83	General College & University
+2868	35.66	139.73	Building
+2869	35.23	136.82	Train Station
+2870	40.76	-73.99	Bus Station
+2871	35.65	139.57	Train Station
+2872	39.70	141.14	Bridge
+2873	39.70	141.14	Train Station
+2874	39.68	141.13	Mall
+2875	39.73	141.12	Road
+2876	39.80	141.14	University
+2877	39.80	141.14	Parking
+2878	-22.83	-43.31	Building
+2879	1.38	103.75	Trade School
+2880	1.39	103.77	Home (private)
+2881	41.09	29.10	Fast Food Restaurant
+2882	-23.64	-70.39	Home (private)
+2883	3.16	101.70	Mall
+2884	55.75	37.62	Plaza
+2885	55.65	37.50	University
+2886	39.91	32.86	Road
+2887	40.11	32.99	Airport
+2888	3.14	101.59	Caf�
+2889	3.12	101.64	Theme Park
+2890	-36.82	-73.05	Spiritual Center
+2891	3.07	101.61	Coffee Shop
+2892	-6.20	106.78	University
+2893	14.00	100.51	Home (private)
+2894	34.63	135.55	Train Station
+2895	3.59	98.69	Chinese Restaurant
+2896	3.59	98.69	Home (private)
+2897	51.99	5.95	College Academic Building
+2898	25.74	-80.37	Outdoors & Recreation
+2899	25.75	-80.37	Bus Line
+2900	25.79	-80.14	Grocery Store
+2901	34.09	131.40	Train Station
+2902	35.00	135.78	Shrine
+2903	3.13	101.67	Mall
+2904	13.74	100.54	Bridge
+2905	39.80	141.14	College Academic Building
+2906	35.19	136.95	Subway
+2907	35.60	139.70	Train Station
+2908	13.68	100.61	Train Station
+2909	13.95	100.49	Home (private)
+2910	44.08	-116.91	Home (private)
+2911	43.14	-115.66	Gas Station / Garage
+2912	34.66	135.50	Mall
+2913	34.65	135.52	Train Station
+2914	-3.76	-38.49	Multiplex
+2915	-3.77	-38.48	University
+2916	0.04	-51.06	Home (private)
+2917	2.22	102.25	Bus Line
+2918	1.33	103.78	General College & University
+2919	1.43	103.84	Mall
+2920	33.59	130.36	Concert Hall
+2921	35.84	139.55	Train Station
+2922	35.73	139.71	Bookstore
+2923	1.29	103.85	Subway
+2924	34.69	135.50	Subway
+2925	13.69	100.65	Mall
+2926	41.12	29.06	Home (private)
+2927	41.07	29.01	Mall
+2928	3.13	101.55	Airport
+2929	35.35	139.53	Train Station
+2930	35.35	139.53	Train Station
+2931	35.32	139.55	Grocery Store
+2932	35.47	139.46	Train Station
+2933	35.91	139.62	Train Station
+2934	35.97	139.73	Train Station
+2935	41.11	29.03	Student Center
+2936	13.70	100.75	Subway
+2937	3.07	101.49	Malaysian Restaurant
+2938	35.53	139.70	Performing Arts Venue
+2939	13.75	100.54	Building
+2940	3.59	98.65	Grocery Store
+2941	35.53	139.70	Electronics Store
+2942	32.83	130.78	Home (private)
+2943	34.66	135.51	Subway
+2944	35.65	139.55	Convenience Store
+2945	-34.97	-57.98	Home (private)
+2946	-34.93	-57.95	High School
+2947	36.72	137.25	Road
+2948	36.67	137.19	Bridge
+2949	35.68	139.77	Mall
+2950	35.68	139.77	Department Store
+2951	13.81	100.65	Mall
+2952	13.83	100.67	Home (private)
+2953	35.65	140.07	Train Station
+2954	35.88	139.79	Train Station
+2955	34.03	131.39	Bridge
+2956	3.06	101.62	College Library
+2957	13.72	100.55	Building
+2958	-22.87	-43.17	Bridge
+2959	-22.90	-43.18	Neighborhood
+2960	35.68	139.79	Office
+2961	35.68	139.78	Subway
+2962	34.67	135.50	Mall
+2963	34.67	135.50	Train Station
+2964	34.63	135.55	Grocery Store
+2965	34.65	135.50	Train Station
+2966	13.85	100.57	College Library
+2967	13.76	100.57	Gym / Fitness Center
+2968	3.11	101.54	Malaysian Restaurant
+2969	3.08	101.55	Convenience Store
+2970	-6.13	106.79	Mall
+2971	-6.13	106.79	Home (private)
+2972	34.70	137.79	Coworking Space
+2973	34.70	137.73	Electronics Store
+2974	40.42	-86.80	Church
+2975	0.02	-51.07	High School
+2976	35.67	139.74	Building
+2977	35.71	139.79	Train Station
+2978	35.66	139.78	Subway
+2979	-30.03	-51.23	Neighborhood
+2980	-22.91	-43.21	Other Great Outdoors
+2981	41.06	29.04	Caf�
+2982	41.05	28.99	Mall
+2983	-6.17	106.79	Mall
+2984	-33.51	-70.61	Mall
+2985	42.84	-71.49	Coffee Shop
+2986	3.07	101.69	Home (private)
+2987	3.08	101.59	Malaysian Restaurant
+2988	-7.22	-39.31	Women's Store
+2989	25.73	-100.38	University
+2990	25.73	-100.38	College Library
+2991	25.73	-100.38	College Academic Building
+2992	14.72	121.04	Home (private)
+2993	35.74	139.61	Train Station
+2994	35.74	139.68	Train Station
+2995	14.66	121.03	Mall
+2996	14.61	121.08	Mall
+2997	14.62	121.10	Gym
+2998	40.98	28.87	Plaza
+2999	41.02	28.97	Plaza
+3000	41.05	28.81	Residential Building (Apartment / Condo)
+3001	28.25	-81.29	Caf�
+3002	-12.15	-77.02	Bar
+3003	40.96	29.07	Restaurant
+3004	-19.94	-43.93	Mall
+3005	-1.44	-48.46	Government Building
+3006	-1.45	-48.44	University
+3007	38.76	-76.08	Gym / Fitness Center
+3008	38.77	-76.06	Convenience Store
+3009	4.70	-74.14	Airport
+3010	-6.20	106.80	High School
+3011	-6.21	106.79	Home (private)
+3012	-23.65	-46.54	Other Great Outdoors
+3013	21.29	-157.84	Coffee Shop
+3014	1.43	103.84	Bus Station
+3015	1.35	103.75	Bus Station
+3016	1.36	103.99	Subway
+3017	1.36	103.99	Airport Terminal
+3018	41.00	29.03	Mall
+3019	-15.59	-56.08	Salon / Barbershop
+3020	-33.45	-70.66	Subway
+3021	41.00	39.67	Track Stadium
+3022	41.00	39.76	Mall
+3023	40.99	39.67	Other Great Outdoors
+3024	3.15	101.70	Mall
+3025	-12.08	-77.04	Other Great Outdoors
+3026	-33.42	-70.61	Building
+3027	9.94	-84.15	Mall
+3028	-33.45	-70.68	Coworking Space
+3029	-33.44	-70.65	Home (private)
+3030	3.15	101.71	Mall
+3031	-15.79	-47.89	Mall
+3032	40.57	-74.63	Embassy / Consulate
+3033	40.58	-74.63	Road
+3034	9.90	-84.00	Mall
+3035	9.94	-84.05	College Quad
+3036	9.94	-84.05	Bus Station
+3037	9.91	-83.98	Other Great Outdoors
+3038	37.45	126.45	Airport
+3039	37.62	-122.39	Airport
+3040	40.49	-3.87	Strip Club
+3041	38.26	-85.75	Spiritual Center
+3042	41.79	-87.74	Airport
+3043	35.61	139.73	Train Station
+3044	35.78	139.90	Train Station
+3045	36.08	140.21	Train Station
+3046	52.47	-1.92	Residential Building (Apartment / Condo)
+3047	-33.02	-71.64	Home (private)
+3048	-33.04	-71.63	Office
+3049	38.28	140.89	Train Station
+3050	38.27	140.76	Train Station
+3051	35.70	139.77	Parking
+3052	-33.45	-70.66	Residential Building (Apartment / Condo)
+3053	37.70	140.97	Train
+3054	37.80	140.93	Train Station
+3055	51.43	5.40	Home (private)
+3056	35.55	139.68	Train Station
+3057	35.51	139.62	Train Station
+3058	35.58	139.66	Train Station
+3059	-20.23	-70.14	Mall
+3060	35.58	139.73	Train Station
+3061	35.55	139.74	Convenience Store
+3062	34.68	135.53	Train Station
+3063	35.31	139.54	Park
+3064	34.90	132.09	Convenience Store
+3065	-6.13	106.73	Home (private)
+3066	-6.22	106.82	University
+3067	-1.34	-48.41	Home (private)
+3068	0.03	-51.05	Boutique
+3069	-33.47	-70.60	University
+3070	-33.46	-70.60	Mall
+3071	35.68	139.77	Gift Shop
+3072	35.68	139.77	Mall
+3073	3.59	98.70	General College & University
+3074	1.30	103.84	Mall
+3075	-6.24	106.66	School
+3076	41.84	140.77	University
+3077	43.82	143.90	University
+3078	35.64	139.70	Subway
+3079	35.64	139.70	Train Station
+3080	19.34	-99.17	Home (private)
+3081	35.46	139.64	Convention Center
+3082	14.46	121.04	Fast Food Restaurant
+3083	35.67	139.82	Subway
+3084	5.57	95.34	Capitol Building
+3085	36.09	140.11	University
+3086	1.35	103.87	Mall
+3087	-20.50	-54.66	Home (private)
+3088	-25.43	-49.26	Home (private)
+3089	34.99	135.76	Train
+3090	34.98	135.76	Mall
+3091	34.65	135.51	Hobby Shop
+3092	34.54	135.45	Home (private)
+3093	52.17	5.60	Building
+3094	52.18	5.43	Road
+3095	19.44	-99.20	Multiplex
+3096	19.44	-99.21	Neighborhood
+3097	35.71	139.72	Subway
+3098	35.57	139.69	Train Station
+3099	14.53	121.00	Home (private)
+3100	5.35	100.35	Bridge
+3101	5.41	100.33	Mall
+3102	14.52	-60.90	Professional & Other Places
+3103	38.26	140.88	Bookstore
+3104	21.45	-158.01	Coffee Shop
+3105	21.44	-158.02	Grocery Store
+3106	34.68	135.48	Hospital
+3107	35.70	139.99	Train
+3108	35.78	140.00	Train Station
+3109	35.70	139.77	Train Station
+3110	52.08	5.01	Home (private)
+3111	52.03	4.68	Office
+3112	49.46	11.13	Office
+3113	48.71	9.66	City Hall
+3114	34.72	135.42	Train Station
+3115	34.69	135.19	Train Station
+3116	35.25	139.70	Bus Station
+3117	35.23	139.70	Train Station
+3118	13.71	100.48	Mall
+3119	13.71	100.51	High School
+3120	29.27	48.05	University
+3121	14.04	100.61	University
+3122	35.79	139.47	Platform
+3123	35.81	139.46	Train Station
+3124	35.81	139.46	Train Station
+3125	35.79	139.47	Train Station
+3126	35.74	139.72	Train Station
+3127	35.74	139.71	High School
+3128	34.68	135.50	Subway
+3129	3.15	101.71	Convention Center
+3130	3.16	101.71	Food Court
+3131	3.16	101.71	Multiplex
+3132	35.70	139.77	Office
+3133	-6.18	106.98	Home (private)
+3134	14.55	121.06	Mall
+3135	14.56	121.02	Office
+3136	14.57	121.05	Train Station
+3137	14.55	121.03	Train Station
+3138	14.55	121.03	Mall
+3139	35.66	139.75	Monument / Landmark
+3140	13.66	100.44	Mall
+3141	33.50	130.52	Train Station
+3142	3.07	101.61	Multiplex
+3143	39.72	141.15	Road
+3144	13.74	100.54	Train Station
+3145	13.78	100.54	Train Station
+3146	13.78	100.53	High School
+3147	13.77	100.57	Subway
+3148	40.98	28.85	Mall
+3149	35.76	139.47	Train Station
+3150	51.43	6.89	Train Station
+3151	51.43	6.94	Subway
+3152	35.69	139.70	Electronics Store
+3153	-22.34	-49.06	School
+3154	36.76	137.05	Bridge
+3155	36.69	137.15	Road
+3156	-6.23	106.80	Mall
+3157	3.16	101.71	Food Court
+3158	-22.74	-46.90	Home (private)
+3159	22.31	114.22	Pier
+3160	35.47	139.62	Platform
+3161	37.55	126.97	Train Station
+3162	40.99	29.05	University
+3163	40.99	29.05	Caf�
+3164	35.57	139.66	Train Station
+3165	3.20	101.73	Mall
+3166	51.08	4.43	Home (private)
+3167	13.80	100.55	Flea Market
+3168	13.97	100.59	University
+3169	-19.87	-43.96	College Math Building
+3170	35.57	139.75	Light Rail
+3171	34.84	135.59	Train Station
+3172	45.25	-93.40	Gas Station / Garage
+3173	45.25	-93.42	Home (private)
+3174	45.23	-93.47	Office
+3175	35.17	136.91	Caf�
+3176	35.46	139.62	Subway
+3177	37.98	23.73	Plaza
+3178	-34.81	-58.54	Airport
+3179	35.59	139.63	Train Station
+3180	13.75	100.54	Mall
+3181	35.69	139.70	Platform
+3182	47.23	39.73	University
+3183	41.14	-73.99	Coffee Shop
+3184	-33.45	-70.57	Movie Theater
+3185	-33.43	-70.62	College Communications Building
+3186	-33.42	-70.61	Coworking Space
+3187	59.93	30.36	Train Station
+3188	55.78	37.65	Train Station
+3189	55.75	37.59	Donut Shop
+3190	55.75	37.59	Restaurant
+3191	-1.45	-48.49	Student Center
+3192	35.67	139.75	Subway
+3193	1.48	124.83	Park
+3194	41.42	-81.77	Coworking Space
+3195	3.46	-76.54	Neighborhood
+3196	3.46	-76.54	Gastropub
+3197	2.76	101.74	Racetrack
+3198	3.14	101.67	Mall
+3199	34.66	135.50	Concert Hall
+3200	34.65	135.50	Train Station
+3201	35.66	139.75	Subway
+3202	35.70	139.83	Train Station
+3203	-30.02	-51.16	Mall
+3204	35.76	139.82	Train Station
+3205	21.90	-102.30	Hospital
+3206	-20.43	-54.59	Bus Station
+3207	37.67	-1.70	General Entertainment
+3208	34.04	-118.44	Building
+3209	34.09	-118.00	Home (private)
+3210	34.05	-118.43	Road
+3211	34.04	-118.43	Road
+3212	34.04	-118.44	Road
+3213	34.04	-118.44	Parking
+3214	14.56	121.05	Residential Building (Apartment / Condo)
+3215	35.23	-101.83	Home (private)
+3216	40.33	-75.92	Bus Line
+3217	3.20	101.74	Indian Restaurant
+3218	-22.91	-43.17	Airport
+3219	-22.99	-43.20	Beach
+3220	-19.93	-43.93	Grocery Store
+3221	-19.94	-43.93	Home (private)
+3222	-33.44	-70.67	Subway
+3223	29.98	-90.26	Airport
+3224	40.69	-73.93	Home (private)
+3225	3.11	101.67	Residential Building (Apartment / Condo)
+3226	3.16	101.63	Food Court
+3227	3.16	101.70	University
+3228	-27.61	-48.63	High School
+3229	40.98	28.88	Home (private)
+3230	0.03	-51.06	Bakery
+3231	0.02	-51.06	River
+3232	-3.78	-38.59	Residential Building (Apartment / Condo)
+3233	-3.74	-38.50	University
+3234	50.98	5.05	Office
+3235	40.98	29.10	Mall
+3236	4.19	73.53	Airport
+3237	-12.10	-77.02	Office
+3238	0.01	-51.09	Home (private)
+3239	-22.34	-49.07	Home (private)
+3240	35.53	139.70	Train Station
+3241	33.75	-84.39	Other Great Outdoors
+3242	36.73	137.25	Miscellaneous Shop
+3243	21.16	-86.82	Seafood Restaurant
+3244	35.03	135.77	Train Station
+3245	3.08	101.63	Medical Center
+3246	10.31	123.92	Mall
+3247	10.31	123.92	Mall
+3248	-3.11	-60.02	Home (private)
+3249	-3.11	-60.01	College Academic Building
+3250	41.23	-73.15	Grocery Store
+3251	-33.45	-70.64	Other Great Outdoors
+3252	-20.41	-54.62	College Academic Building
+3253	33.52	130.47	Mall
+3254	43.13	141.25	University
+3255	19.40	-99.15	Mall
+3256	35.67	139.82	Bridge
+3257	41.57	-87.55	Home (private)
+3258	13.70	100.54	Mall
+3259	-1.45	-48.49	Food Court
+3260	28.36	-81.56	Theme Park
+3261	35.57	139.69	Train Station
+3262	35.56	139.72	City Hall
+3263	35.33	139.46	Convenience Store
+3264	-33.58	-70.57	Home (private)
+3265	35.68	139.79	Subway
+3266	55.76	37.61	Mall
+3267	-23.59	-46.66	Park
+3268	19.26	-99.13	Home (private)
+3269	19.36	-99.12	University
+3270	51.69	4.88	Bus Station
+3271	52.09	5.11	Coffee Shop
+3272	52.08	5.12	School
+3273	51.70	4.88	Home (private)
+3274	-6.15	106.71	High School
+3275	13.76	100.54	Multiplex
+3276	13.72	100.59	Train Station
+3277	35.71	139.67	Home (private)
+3278	37.40	-5.99	Church
+3279	37.40	-5.99	Professional & Other Places
+3280	37.40	-5.99	Historic Site
+3281	37.38	-5.99	General Entertainment
+3282	37.38	-5.99	General Entertainment
+3283	37.38	-5.99	College Arts Building
+3284	37.38	-5.99	Student Center
+3285	37.38	-5.99	College Lab
+3286	37.38	-5.99	College Lab
+3287	37.38	-5.99	University
+3288	37.38	-5.99	College Classroom
+3289	37.38	-5.99	College & University
+3290	37.38	-5.99	College Quad
+3291	37.38	-5.99	College & University
+3292	13.82	100.68	Mall
+3293	43.26	76.95	Building
+3294	37.51	-77.52	Professional & Other Places
+3295	35.77	140.39	Airport Terminal
+3296	34.91	135.80	Train Station
+3297	59.36	17.88	Subway
+3298	59.31	18.01	Subway
+3299	35.73	139.71	Train Station
+3300	35.71	139.66	Convention Center
+3301	35.69	139.70	Platform
+3302	45.09	7.66	Bakery
+3303	37.56	126.80	Subway
+3304	37.51	126.89	Subway
+3305	37.49	126.89	Subway
+3306	37.48	126.98	Subway
+3307	37.50	127.05	Subway
+3308	3.11	101.64	Mall
+3309	35.34	139.45	Mall
+3310	33.86	130.71	Train Station
+3311	33.59	130.40	Post Office
+3312	39.48	-0.34	University
+3313	44.85	11.61	Park
+3314	44.84	11.61	Home (private)
+3315	3.16	101.61	Mall
+3316	52.21	4.50	Professional & Other Places
+3317	37.03	140.89	High School
+3318	3.10	101.64	Road
+3319	35.43	139.40	Rest Area
+3320	34.79	135.45	Train Station
+3321	3.08	101.59	Gym
+3322	40.99	29.03	Caf�
+3323	40.98	28.72	Other Great Outdoors
+3324	38.76	-9.23	Bus Station
+3325	38.72	-9.24	Home (private)
+3326	13.34	100.97	Mall
+3327	40.96	29.08	Lounge
+3328	40.96	29.08	Bar
+3329	40.98	29.05	Neighborhood
+3330	36.88	30.71	Other Great Outdoors
+3331	36.88	30.66	Mall
+3332	34.68	135.50	Subway
+3333	10.30	123.89	Home (private)
+3334	34.70	135.50	Bowling Alley
+3335	35.70	139.77	Train Station
+3336	41.00	28.92	Basketball Stadium
+3337	40.76	-74.01	Road
+3338	34.68	135.53	Train Station
+3339	51.16	5.02	Home (private)
+3340	3.17	101.71	Middle Eastern Restaurant
+3341	2.94	101.71	Mall
+3342	36.74	137.02	Train Station
+3343	52.25	-1.60	Hotel
+3344	52.24	-1.61	Pub
+3345	3.60	98.69	High School
+3346	35.65	139.45	Grocery Store
+3347	35.65	139.44	Home (private)
+3348	35.65	139.45	Arts & Crafts Store
+3349	13.74	100.53	University
+3350	33.66	130.45	Home (private)
+3351	33.63	130.43	Subway
+3352	3.24	101.42	Residential Building (Apartment / Condo)
+3353	3.24	101.42	Residential Building (Apartment / Condo)
+3354	3.07	101.52	Mall
+3355	3.09	101.52	Mall
+3356	51.66	-3.02	Home (private)
+3357	39.91	32.78	Mall
+3358	41.03	28.98	Neighborhood
+3359	1.33	103.77	Home (private)
+3360	1.44	103.79	General College & University
+3361	1.31	103.83	Mall
+3362	13.70	100.59	Home (private)
+3363	-3.06	-59.99	Road
+3364	34.72	135.36	Train Station
+3365	34.70	135.50	Department Store
+3366	34.67	133.92	Platform
+3367	13.85	100.57	School
+3368	35.25	139.74	Bridge
+3369	35.25	139.73	Brewery
+3370	-33.44	-70.66	Building
+3371	-33.45	-70.65	Grocery Store
+3372	43.05	-76.06	Office
+3373	34.72	135.50	Bridge
+3374	35.67	139.82	Bus Station
+3375	34.80	135.42	Motorcycle Shop
+3376	34.64	135.23	Airport
+3377	-5.09	-42.81	Professional & Other Places
+3378	36.14	139.39	Mall
+3379	35.70	139.71	Japanese Restaurant
+3380	41.10	29.10	Other Great Outdoors
+3381	40.97	29.07	Coffee Shop
+3382	25.82	-80.28	Coffee Shop
+3383	9.93	-84.06	Government Building
+3384	10.01	-84.14	Home (private)
+3385	10.01	-84.12	Grocery Store
+3386	-8.06	-34.95	College Academic Building
+3387	35.90	139.62	Electronics Store
+3388	42.37	-71.02	Airport
+3389	55.68	12.57	Train Station
+3390	-23.67	-46.74	Home (private)
+3391	35.31	138.96	Rest Area
+3392	40.99	39.77	College Academic Building
+3393	39.18	-76.67	Airport
+3394	38.90	-77.02	Subway
+3395	2.96	101.73	General College & University
+3396	2.97	101.73	College Cafeteria
+3397	35.64	139.86	Train Station
+3398	41.07	28.99	Mall
+3399	35.41	136.75	Mall
+3400	19.28	-99.14	Professional & Other Places
+3401	34.76	135.50	Park
+3402	14.58	121.06	Mall
+3403	14.58	121.05	Mall
+3404	0.04	-51.06	Office
+3405	0.04	-51.06	Government Building
+3406	-33.44	-70.65	Coffee Shop
+3407	38.90	-77.03	Office
+3408	37.98	23.74	Neighborhood
+3409	38.04	23.74	Outdoors & Recreation
+3410	18.78	98.99	Home (private)
+3411	35.70	139.77	Concert Hall
+3412	3.08	101.59	Neighborhood
+3413	3.04	101.58	Malaysian Restaurant
+3414	3.05	101.59	Pool Hall
+3415	3.05	101.59	Caf�
+3416	-33.43	-70.61	School
+3417	9.93	-84.05	Park
+3418	9.94	-84.05	University
+3419	-3.10	-60.02	Road
+3420	-3.10	-60.03	Mall
+3421	38.31	21.80	Home (private)
+3422	-8.12	-34.89	Road
+3423	39.92	32.83	Coffee Shop
+3424	39.87	32.73	University
+3425	39.92	32.81	Bus Station
+3426	-36.82	-73.02	Bus Station
+3427	-6.18	106.79	Mall
+3428	-6.16	106.91	Mall
+3429	-3.74	-38.49	Mall
+3430	-3.74	-38.57	Mall
+3431	40.97	29.09	Residential Building (Apartment / Condo)
+3432	-30.06	-51.21	Soccer Stadium
+3433	-30.03	-51.16	Mall
+3434	33.82	-118.19	Doctor's Office
+3435	-33.35	-70.74	Residential Building (Apartment / Condo)
+3436	-33.38	-70.65	Bus Station
+3437	-36.78	-73.06	Airport
+3438	35.23	139.70	Bus Station
+3439	35.59	139.73	Caf�
+3440	35.59	139.73	Train Station
+3441	40.78	-74.59	Home (private)
+3442	34.70	135.50	Train Station
+3443	34.71	135.50	Building
+3444	-33.56	-70.59	Subway
+3445	-33.52	-70.60	Subway
+3446	-3.75	-38.47	Home (private)
+3447	10.09	-84.48	University
+3448	35.86	139.66	Train Station
+3449	35.86	139.66	Department Store
+3450	35.64	139.88	Train Station
+3451	41.29	2.07	Airport Terminal
+3452	9.93	-84.04	University
+3453	34.66	135.50	Electronics Store
+3454	34.62	135.48	Subway
+3455	35.63	139.33	Train Station
+3456	39.90	32.87	Other Great Outdoors
+3457	-23.53	-46.65	Bakery
+3458	-23.57	-46.65	Gym
+3459	35.69	139.74	Train Station
+3460	39.85	-104.67	Airport
+3461	35.62	139.75	Train Station
+3462	4.52	101.12	Home (private)
+3463	3.07	101.49	Caf�
+3464	-33.68	-71.23	Home (private)
+3465	-33.68	-71.21	Mall
+3466	-33.68	-71.21	Mall
+3467	14.54	121.02	Bridge
+3468	2.19	102.25	Mall
+3469	-6.24	106.65	Mall
+3470	38.39	140.38	Coworking Space
+3471	5.44	100.31	Mall
+3472	-33.43	-70.59	Medical Center
+3473	35.18	137.01	Grocery Store
+3474	-25.42	-57.56	Home (private)
+3475	-23.53	-46.66	Subway
+3476	-6.18	106.79	Multiplex
+3477	52.55	13.41	Home (private)
+3478	3.14	101.61	Fast Food Restaurant
+3479	13.76	100.47	Bus Line
+3480	13.76	100.50	Tech Startup
+3481	35.59	139.73	Bus Station
+3482	35.68	139.77	Subway
+3483	-23.66	-46.72	Train Station
+3484	-38.74	-72.60	College Administrative Building
+3485	20.68	-103.35	Monument / Landmark
+3486	1.30	103.91	Mall
+3487	33.21	130.51	Furniture / Home Store
+3488	35.67	139.63	College Lab
+3489	33.50	-111.93	Office
+3490	10.10	-84.47	Building
+3491	10.70	122.55	Other Nightlife
+3492	35.51	139.44	Train Station
+3493	35.54	139.44	Bowling Alley
+3494	35.53	139.73	Temple
+3495	35.54	139.73	Train Station
+3496	3.42	101.79	General Entertainment
+3497	17.41	102.80	Mall
+3498	13.72	100.59	Train Station
+3499	35.61	139.74	Train Station
+3500	34.68	135.47	Train Station
+3501	34.56	135.51	Subway
+3502	35.73	139.74	Subway
+3503	45.07	7.67	College Academic Building
+3504	7.09	125.61	Mall
+3505	49.59	11.02	Home (private)
+3506	35.70	139.56	Bus Station
+3507	40.99	28.83	University
+3508	41.00	28.62	Cocktail Bar
+3509	1.38	103.75	College Cafeteria
+3510	1.39	103.74	Mall
+3511	1.30	103.84	Mall
+3512	40.54	-3.62	Office
+3513	55.80	37.81	Fraternity House
+3514	35.65	139.54	Grocery Store
+3515	35.66	139.54	Dumpling Restaurant
+3516	35.66	139.54	College Classroom
+3517	35.32	139.55	Shrine
+3518	35.50	139.69	Train Station
+3519	35.53	139.70	Bus Station
+3520	35.51	139.67	Arcade
+3521	35.50	139.69	Field
+3522	35.68	139.77	Train Station
+3523	35.62	139.54	Home (private)
+3524	35.70	140.55	Train Station
+3525	35.79	139.69	Train Station
+3526	35.79	139.71	Train Station
+3527	35.69	139.70	Platform
+3528	35.17	136.88	Bus Line
+3529	-8.72	115.18	Mall
+3530	35.69	139.70	Record Shop
+3531	35.62	139.70	Train Station
+3532	35.34	137.12	Train Station
+3533	35.34	137.12	Bus Station
+3534	56.95	24.12	Bus Line
+3535	35.60	139.37	Train Station
+3536	35.70	139.77	Platform
+3537	36.31	139.81	Train Station
+3538	35.71	139.78	Platform
+3539	39.87	32.73	College Gym
+3540	40.85	-73.95	Bridge
+3541	40.78	-74.06	Post Office
+3542	34.83	134.69	Train Station
+3543	34.92	134.55	Train Station
+3544	35.94	136.19	Train Station
+3545	36.11	140.10	College Academic Building
+3546	33.61	130.42	Train Station
+3547	1.26	103.82	Mall
+3548	41.10	29.03	College Engineering Building
+3549	35.69	139.70	Hobby Shop
+3550	35.69	139.70	Bookstore
+3551	-6.17	106.79	University
+3552	-6.18	106.79	Multiplex
+3553	-6.17	106.79	University
+3554	35.34	139.49	Bus Station
+3555	34.97	138.39	Bus Station
+3556	35.84	139.85	Miscellaneous Shop
+3557	35.69	140.02	Mall
+3558	13.77	100.57	Multiplex
+3559	35.47	139.62	Train Station
+3560	36.92	137.43	Shrine
+3561	55.85	37.45	Office
+3562	2.93	101.64	University
+3563	3.22	101.56	Home (private)
+3564	-6.21	106.73	Home (private)
+3565	34.69	135.19	Subway
+3566	-33.45	-70.68	Bus Station
+3567	-33.52	-70.72	Mall
+3568	-33.67	-70.84	Home (private)
+3569	34.39	132.46	Light Rail
+3570	35.67	139.78	Train Station
+3571	35.69	139.78	Train Station
+3572	35.53	139.70	Bus Station
+3573	43.07	141.49	University
+3574	34.64	135.50	Train Station
+3575	1.30	103.84	Mall
+3576	1.30	103.85	Subway
+3577	38.74	-9.14	University
+3578	35.16	136.96	Subway
+3579	56.02	92.77	Home (private)
+3580	35.67	139.64	Park
+3581	37.49	126.92	Coworking Space
+3582	51.35	5.48	Office
+3583	35.68	139.77	Train Station
+3584	35.66	139.76	Plaza
+3585	35.53	139.70	Mall
+3586	43.11	141.32	Convenience Store
+3587	35.39	139.95	Train Station
+3588	35.38	139.96	General College & University
+3589	35.64	140.09	Grocery Store
+3590	37.12	138.24	Train Station
+3591	36.93	138.23	Train Station
+3592	35.14	136.90	Subway
+3593	35.82	139.58	Train Station
+3594	35.83	139.90	Park
+3595	35.71	139.78	Train Station
+3596	35.68	139.77	Bookstore
+3597	35.70	139.77	Subway
+3598	34.69	135.19	Train Station
+3599	-23.60	-46.69	Mall
+3600	-22.81	-43.25	Airport
+3601	35.66	139.70	Subway
+3602	1.48	103.76	Student Center
+3603	1.48	103.77	Mall
+3604	14.57	121.05	Office
+3605	14.64	121.09	Cemetery
+3606	-23.53	-46.66	Building
+3607	35.67	139.92	Train Station
+3608	35.71	139.96	Train
+3609	-33.40	-70.58	Coffee Shop
+3610	-33.44	-70.65	Plaza
+3611	-33.42	-70.60	Subway
+3612	-33.43	-70.64	Food Court
+3613	34.42	132.76	Hospital
+3614	35.60	139.71	Home (private)
+3615	-7.23	-39.41	General Travel
+3616	10.30	123.90	Playground
+3617	-35.43	-71.65	Bus Line
+3618	-36.80	-73.06	University
+3619	35.83	139.69	Train Station
+3620	35.57	139.39	Train Station
+3621	38.89	-77.16	Subway
+3622	34.70	135.49	Train Station
+3623	42.87	-71.54	Middle School
+3624	39.23	-76.61	Convenience Store
+3625	35.70	139.77	Toy / Game Store
+3626	34.69	135.52	Train Station
+3627	13.66	100.63	Home (private)
+3628	35.71	139.78	Subway
+3629	51.87	4.49	Home (private)
+3630	35.19	136.94	Mall
+3631	41.39	2.17	Home (private)
+3632	2.30	102.31	Road
+3633	0.03	-51.06	Government Building
+3634	41.04	28.94	Bridge
+3635	51.04	3.73	Home (private)
+3636	51.04	3.71	Train Station
+3637	35.72	139.34	Train Station
+3638	37.67	140.57	Ramen /  Noodle House
+3639	13.71	100.60	Train Station
+3640	13.72	100.58	Train Station
+3641	34.78	135.41	Train Station
+3642	35.66	139.54	Student Center
+3643	1.35	103.94	Bus Station
+3644	1.35	103.94	Mall
+3645	35.69	140.05	Train Station
+3646	35.12	-80.72	Plaza
+3647	3.15	101.71	Mall
+3648	35.71	139.70	Train Station
+3649	38.39	27.04	University
+3650	38.39	27.05	Mall
+3651	38.40	27.04	Mall
+3652	14.56	121.02	Park
+3653	14.56	121.02	Road
+3654	35.63	139.64	Train Station
+3655	-3.73	-38.50	Office
+3656	35.58	140.13	Platform
+3657	3.20	101.76	Home (private)
+3658	3.13	101.69	Light Rail
+3659	18.46	-69.93	Bank
+3660	-15.79	-47.88	Mall
+3661	-15.80	-47.88	Bank
+3662	-20.43	-54.59	Home (private)
+3663	-20.46	-54.59	Mall
+3664	-33.57	-70.56	Mall
+3665	-33.42	-70.60	Office
+3666	-33.45	-70.66	College Communications Building
+3667	-33.39	-70.66	Bakery
+3668	-33.42	-70.60	Grocery Store
+3669	25.80	-80.33	Office
+3670	38.88	-77.02	Government Building
+3671	38.88	-77.02	Subway
+3672	-15.87	-48.03	University
+3673	-15.84	-48.03	Neighborhood
+3674	52.38	4.90	Train Station
+3675	50.04	8.56	Airport
+3676	33.23	131.61	Train Station
+3677	0.02	-51.07	Road
+3678	0.02	-51.07	Home (private)
+3679	-22.89	-43.13	Boat or Ferry
+3680	-22.88	-43.24	Government Building
+3681	-22.92	-43.18	Neighborhood
+3682	-22.92	-43.18	Home (private)
+3683	35.45	139.64	Train Station
+3684	-19.92	-43.92	Mall
+3685	42.04	-87.89	Train Station
+3686	42.24	-88.32	Train Station
+3687	-8.04	-34.87	Mall
+3688	13.74	100.51	Other Great Outdoors
+3689	29.33	47.98	Gym
+3690	20.52	-97.46	Office
+3691	20.53	-97.44	Whisky Bar
+3692	9.96	-84.20	Tech Startup
+3693	1.33	103.95	Trade School
+3694	34.78	135.50	Train Station
+3695	-12.12	-77.04	Coworking Space
+3696	35.68	139.78	Bridge
+3697	50.46	30.36	Home (private)
+3698	50.45	30.49	Plaza
+3699	35.66	139.74	Subway
+3700	35.40	139.53	Train Station
+3701	35.01	135.76	Subway
+3702	35.40	139.62	Train Station
+3703	9.93	-84.08	Hospital
+3704	1.44	103.84	General College & University
+3705	1.44	103.84	College Cafeteria
+3706	35.73	139.71	Bus Station
+3707	35.77	139.70	Bus Line
+3708	59.84	30.26	Home (private)
+3709	24.16	-110.32	Other Great Outdoors
+3710	24.12	-110.32	City Hall
+3711	35.14	136.90	Train Station
+3712	59.33	18.06	Train Station
+3713	3.13	101.69	Train Station
+3714	1.32	103.87	Community College
+3715	1.50	103.74	Bus Station
+3716	3.08	101.71	Bus Station
+3717	-12.10	-76.99	Home (private)
+3718	35.80	139.47	Train Station
+3719	-33.04	-71.52	Grocery Store
+3720	35.63	139.74	Train Station
+3721	35.28	136.87	Train Station
+3722	35.17	136.90	Subway
+3723	-1.45	-48.49	High School
+3724	3.07	101.51	Fast Food Restaurant
+3725	51.25	3.22	Home (private)
+3726	42.34	-71.14	Grocery Store
+3727	39.72	-84.16	Automotive Shop
+3728	39.72	-84.15	Mall
+3729	45.57	9.36	Food Court
+3730	9.93	-84.10	Office
+3731	9.93	-84.08	Plaza
+3732	43.05	-76.18	Automotive Shop
+3733	29.27	47.99	Multiplex
+3734	41.00	39.76	Neighborhood
+3735	7.09	125.61	Coffee Shop
+3736	7.10	125.62	Office
+3737	37.42	-122.17	Post Office
+3738	26.07	-80.14	Airport
+3739	-33.41	-70.60	Building
+3740	39.90	32.86	Road
+3741	34.72	135.52	Building
+3742	9.84	-83.87	Neighborhood
+3743	3.15	101.62	Multiplex
+3744	21.28	-157.83	Mall
+3745	9.92	-84.04	Coworking Space
+3746	-33.44	-70.63	Office
+3747	41.07	28.98	College Academic Building
+3748	51.44	-0.34	Park
+3749	51.45	-0.34	Neighborhood
+3750	51.45	-0.34	Pet Store
+3751	-22.92	-43.18	Home (private)
+3752	-33.04	-71.59	College Engineering Building
+3753	-33.04	-71.60	College Quad
+3754	-33.04	-71.59	College Engineering Building
+3755	-33.05	-71.61	Bus Station
+3756	-23.53	-46.63	Subway
+3757	-23.53	-46.54	Subway
+3758	-23.01	-47.14	Airport
+3759	10.32	123.91	Mall
+3760	41.05	28.99	Coffee Shop
+3761	0.03	-51.11	Housing Development
+3762	-35.43	-71.63	Mall
+3763	-23.54	-46.64	Mall
+3764	34.76	-77.10	Home (private)
+3765	22.15	-101.04	Gym
+3766	22.14	-101.04	Home (private)
+3767	39.78	30.51	Bar
+3768	39.78	30.51	Pub
+3769	39.79	30.50	College Academic Building
+3770	39.78	30.51	Beer Garden
+3771	6.04	116.17	Home (private)
+3772	9.93	-84.05	Mall
+3773	9.95	-84.05	Neighborhood
+3774	35.88	139.74	Train Station
+3775	56.02	37.42	Bus Station
+3776	0.02	-51.08	Home (private)
+3777	0.01	-51.06	Gym
+3778	-33.45	-70.65	University
+3779	-33.57	-70.78	Home (private)
+3780	54.95	-1.54	Building
+3781	34.57	136.55	Train Station
+3782	-23.30	-45.93	Home (private)
+3783	-23.53	-46.68	Mall
+3784	-33.45	-70.65	Residential Building (Apartment / Condo)
+3785	-33.45	-70.65	University
+3786	35.53	139.52	Train Station
+3787	-7.43	112.62	College Academic Building
+3788	39.02	-77.07	Home (private)
+3789	39.02	-77.07	Home (private)
+3790	39.02	-77.07	Home (private)
+3791	39.02	-77.07	Home (private)
+3792	39.01	-77.07	Field
+3793	38.85	-77.04	Airport
+3794	39.01	-77.07	Resort
+3795	-9.55	-35.78	University
+3796	-9.16	-36.03	Other Great Outdoors
+3797	42.79	141.68	Airport
+3798	9.98	-84.14	Building
+3799	9.93	-84.07	Other Great Outdoors
+3800	25.74	-100.29	Home (private)
+3801	4.69	-74.03	Office
+3802	3.59	98.69	School
+3803	0.03	-51.06	Home (private)
+3804	0.04	-51.06	Convenience Store
+3805	-29.97	-71.26	Home (private)
+3806	36.11	-115.18	Residential Building (Apartment / Condo)
+3807	-12.91	-38.33	Airport
+3808	28.15	-82.73	Dog Run
+3809	36.08	140.11	Bus Station
+3810	3.08	101.59	Multiplex
+3811	3.07	101.50	Law School
+3812	3.07	101.52	Mall
+3813	-23.49	-46.61	Home (private)
+3814	-23.56	-46.66	Subway
+3815	-23.56	-46.65	Subway
+3816	-25.48	-49.29	Mall
+3817	2.81	101.51	Malaysian Restaurant
+3818	35.17	136.89	Bridge
+3819	35.31	138.97	Rest Area
+3820	34.74	135.48	Train Station
+3821	35.45	139.64	Train Station
+3822	14.55	121.03	Bus Station
+3823	4.75	-74.05	Bus Station
+3824	4.71	-74.11	Bus Station
+3825	35.20	137.20	Office
+3826	34.94	137.16	Mall
+3827	-3.08	-60.04	Home (private)
+3828	35.69	140.02	Mall
+3829	35.51	139.62	Train Station
+3830	35.86	139.41	Train Station
+3831	1.43	103.84	Home (private)
+3832	1.43	103.84	Train Station
+3833	35.48	139.61	Subway
+3834	5.44	100.31	Multiplex
+3835	35.57	139.71	Home (private)
+3836	35.66	138.60	Train Station
+3837	35.71	138.45	Train Station
+3838	35.88	139.64	Bike Rental / Bike Share
+3839	35.88	139.64	Train Station
+3840	3.07	101.59	General College & University
+3841	3.07	101.59	Coffee Shop
+3842	36.37	139.73	Train Station
+3843	37.57	126.98	Bookstore
+3844	35.73	140.07	Mall
+3845	3.07	101.61	Food Court
+3846	9.93	-84.08	Scenic Lookout
+3847	3.11	101.69	Home (private)
+3848	3.10	101.68	Chinese Restaurant
+3849	35.40	137.01	Garden
+3850	35.14	136.91	Mall
+3851	40.77	29.42	Pier
+3852	3.11	101.58	Mall
+3853	3.03	101.72	Mall
+3854	34.28	-77.84	Home (private)
+3855	35.70	139.77	Caf�
+3856	35.17	136.88	Subway
+3857	35.17	136.88	Event Space
+3858	35.68	139.77	Bus Station
+3859	4.29	117.90	Home (private)
+3860	35.25	136.25	Train Station
+3861	35.78	139.50	Doctor's Office
+3862	9.90	-84.07	Home (private)
+3863	3.12	101.60	Home (private)
+3864	34.75	135.48	Train Station
+3865	34.69	135.48	Train Station
+3866	34.70	135.50	Mall
+3867	1.37	103.85	Train Station
+3868	13.90	100.54	Home (private)
+3869	35.66	139.70	Platform
+3870	37.65	138.93	Department Store
+3871	16.43	102.82	Mall
+3872	13.81	100.56	Subway
+3873	35.90	139.72	Soccer Stadium
+3874	35.89	139.64	Movie Theater
+3875	38.25	140.33	Gym
+3876	35.67	139.73	Mall
+3877	35.63	139.45	Train Station
+3878	35.63	139.71	Train Station
+3879	14.59	121.06	Mall
+3880	4.82	-75.69	Bridge
+3881	-19.81	-43.98	Home (private)
+3882	33.87	130.80	Bus Station
+3883	13.75	100.53	Train Station
+3884	13.64	100.68	Furniture / Home Store
+3885	42.84	-85.71	Housing Development
+3886	-6.15	106.89	Gym
+3887	2.19	102.25	Mall
+3888	3.13	101.69	Train Station
+3889	41.04	29.00	Neighborhood
+3890	33.59	130.42	Hobby Shop
+3891	35.71	139.67	Mall
+3892	35.79	139.47	Train Station
+3893	35.74	139.67	Train Station
+3894	-3.10	-60.01	Home (private)
+3895	35.73	139.71	Department Store
+3896	43.14	131.89	Home (private)
+3897	34.84	137.75	Rest Area
+3898	35.71	139.78	Train Station
+3899	14.62	121.05	Office
+3900	35.35	137.10	Gas Station / Garage
+3901	35.64	139.31	Train Station
+3902	35.70	139.77	Hobby Shop
+3903	14.56	121.02	Office
+3904	14.58	120.98	Mall
+3905	20.54	-97.46	Building
+3906	19.48	-99.14	Bus Station
+3907	-33.44	-70.64	Subway
+3908	-6.19	106.82	Mall
+3909	53.14	8.22	Train Station
+3910	41.41	-81.47	Office
+3911	-15.79	-47.88	Office
+3912	35.66	139.54	College Residence Hall
+3913	34.70	135.50	Video Store
+3914	-6.15	106.83	High School
+3915	3.13	101.62	Food Court
+3916	-33.45	-70.64	Home (private)
+3917	-33.42	-70.62	Office
+3918	53.24	10.41	Bus Line
+3919	-33.46	-70.65	Bike Shop
+3920	13.83	100.54	Home (private)
+3921	59.85	30.24	Home (private)
+3922	41.72	-87.79	Home (private)
+3923	13.92	100.60	Airport
+3924	35.64	139.61	Sculpture Garden
+3925	35.64	139.61	Sculpture Garden
+3926	35.79	139.79	Train Station
+3927	19.36	-99.27	Mall
+3928	40.96	29.10	Neighborhood
+3929	-33.45	-70.65	Park
+3930	-33.46	-70.66	Park
+3931	-22.96	-43.17	Home (private)
+3932	13.73	100.53	Mall
+3933	35.61	139.57	Monument / Landmark
+3934	33.56	130.43	Train Station
+3935	-33.43	-70.58	Grocery Store
+3936	3.14	101.78	Home (private)
+3937	-33.37	-70.68	Mall
+3938	-33.45	-70.68	Subway
+3939	-36.92	-73.03	Other Great Outdoors
+3940	51.08	4.44	Road
+3941	51.03	4.48	Plaza
+3942	51.03	4.48	College Classroom
+3943	35.92	139.58	Train Station
+3944	3.17	101.67	Mall
+3945	1.51	103.83	Tattoo Parlor
+3946	34.33	134.19	Convenience Store
+3947	3.21	101.72	Flea Market
+3948	35.72	140.15	Home (private)
+3949	55.82	37.50	Mall
+3950	34.98	135.90	Convenience Store
+3951	34.98	135.90	Fast Food Restaurant
+3952	39.78	30.51	Other Nightlife
+3953	39.78	30.51	Mall
+3954	41.04	28.99	Soccer Stadium
+3955	14.58	121.04	Home (private)
+3956	35.70	139.77	Travel Lounge
+3957	35.76	140.39	Airport Terminal
+3958	49.01	2.54	Airport
+3959	34.66	135.22	Gas Station / Garage
+3960	55.75	37.59	Other Great Outdoors
+3961	55.75	37.59	Movie Theater
+3962	-33.04	-71.62	Government Building
+3963	-33.05	-71.63	Home (private)
+3964	-33.02	-71.56	Fast Food Restaurant
+3965	50.88	9.73	Home (private)
+3966	33.81	-117.92	Theme Park
+3967	33.81	-117.92	Theme Park
+3968	20.53	-103.30	Airport
+3969	20.68	-103.40	Hospital
+3970	38.46	27.10	Neighborhood
+3971	38.46	27.10	Caf�
+3972	38.46	27.16	Road
+3973	1.32	124.83	Home (private)
+3974	-25.08	-50.14	Home (private)
+3975	9.93	-84.11	Government Building
+3976	-33.44	-70.64	Grocery Store
+3977	-33.44	-70.64	Grocery Store
+3978	3.16	101.75	Mall
+3979	29.30	47.93	Mall
+3980	43.68	-79.61	Airport
+3981	-33.40	-70.79	Airport
+3982	14.56	121.03	Office
+3983	-33.45	-70.65	Park
+3984	3.16	101.75	Strip Club
+3985	3.16	101.75	Indian Restaurant
+3986	25.72	-100.23	Home (private)
+3987	-12.09	-77.00	Bus Station
+3988	35.69	139.69	Subway
+3989	-2.99	-47.36	Residential Building (Apartment / Condo)
+3990	-3.12	-47.65	Student Center
+3991	3.10	101.71	Residential Building (Apartment / Condo)
+3992	19.37	-99.14	Home (private)
+3993	19.37	-99.14	Park
+3994	19.37	-99.14	Bus Station
+3995	19.42	-99.10	Home (private)
+3996	41.09	29.01	Other Great Outdoors
+3997	50.20	9.19	Train Station
+3998	50.12	8.93	Train Station
+3999	51.43	5.48	Home (private)
+4000	35.67	139.78	Train Station
+4001	39.37	-76.55	Church
+4002	3.10	101.45	Home (private)
+4003	-33.52	-70.58	University
+4004	41.05	29.05	Other Great Outdoors
+4005	41.05	29.05	Tea Room
+4006	-23.66	-70.40	Housing Development
+4007	47.47	19.01	High School
+4008	27.96	-82.52	Office
+4009	28.00	-82.45	Home (private)
+4010	35.67	140.04	Bus Station
+4011	35.68	139.77	Subway
+4012	-0.04	-51.16	Home (private)
+4013	0.04	-51.07	Miscellaneous Shop
+4014	42.21	-83.36	Airport
+4015	14.56	121.01	Hospital
+4016	-33.44	-70.64	Law School
+4017	-33.44	-70.64	College Library
+4018	41.14	-81.51	Home (private)
+4019	3.04	101.58	Asian Restaurant
+4020	41.98	-87.69	Grocery Store
+4021	-3.08	-60.08	Housing Development
+4022	35.69	139.70	Train Station
+4023	40.75	-73.99	Train Station
+4024	49.28	-123.12	Road
+4025	35.09	137.16	Train Station
+4026	40.54	-111.90	Office
+4027	40.50	-111.94	Road
+4028	34.00	-84.58	Gym
+4029	-12.06	-77.11	Home (private)
+4030	-23.64	-70.39	Home (private)
+4031	-12.06	-77.04	Mall
+4032	35.49	139.63	Train Station
+4033	-23.57	-46.65	Home (private)
+4034	37.57	126.80	Airport
+4035	-33.45	-70.63	Residential Building (Apartment / Condo)
+4036	7.10	125.62	Hospital
+4037	33.69	-117.88	Sports Bar
+4038	35.73	139.56	Train Station
+4039	35.73	139.58	Train Station
+4040	-23.57	-46.69	Nightclub
+4041	-23.52	-46.69	Nightclub
+4042	35.64	139.80	Train Station
+4043	37.54	127.07	Subway
+4044	19.07	-98.20	Bus Station
+4045	35.68	139.78	Library
+4046	-19.92	-44.01	Home (private)
+4047	35.69	139.70	Train Station
+4048	35.66	139.78	Train Station
+4049	-7.26	112.74	Mall
+4050	-7.37	112.79	Airport
+4051	9.93	-84.07	Bus Station
+4052	-3.11	-59.97	Home (private)
+4053	-8.06	-34.89	Mall
+4054	1.36	103.96	Bus Station
+4055	14.60	-61.07	Other Great Outdoors
+4056	34.84	137.75	Rest Area
+4057	42.07	-71.04	Paper / Office Supplies Store
+4058	14.56	121.01	Residential Building (Apartment / Condo)
+4059	14.55	121.02	Mall
+4060	3.22	101.75	Home (private)
+4061	21.29	-157.85	Park
+4062	21.29	-157.84	Mall
+4063	38.91	-77.04	Gay Bar
+4064	35.90	139.62	Hobby Shop
+4065	35.91	139.62	Platform
+4066	34.66	135.51	Electronics Store
+4067	34.66	135.50	Arcade
+4068	34.66	135.51	Hobby Shop
+4069	9.94	-84.13	Road
+4070	9.93	-84.06	University
+4071	35.63	139.52	Train Station
+4072	33.65	130.44	Train Station
+4073	33.63	130.43	Train
+4074	3.11	101.61	Malaysian Restaurant
+4075	35.87	139.65	Train Station
+4076	38.26	140.88	Bookstore
+4077	34.96	138.40	Mall
+4078	0.04	-51.07	Burger Joint
+4079	35.71	139.65	Japanese Restaurant
+4080	43.06	141.35	Light Rail
+4081	35.70	139.74	Train Station
+4082	33.84	130.91	Department Store
+4083	-12.13	-77.03	Nightclub
+4084	35.66	139.79	Mall
+4085	35.19	129.06	Baseball Stadium
+4086	43.20	141.00	Art Gallery
+4087	35.70	139.77	Diner
+4088	42.79	141.68	Train Station
+4089	35.78	139.63	Subway
+4090	-33.44	-70.63	Building
+4091	-33.44	-70.63	Residential Building (Apartment / Condo)
+4092	-33.44	-70.63	Home (private)
+4093	5.34	100.43	Other Nightlife
+4094	35.89	139.63	Stadium
+4095	-6.25	106.74	Home (private)
+4096	-33.45	-70.58	Home (private)
+4097	33.59	130.40	Subway
+4098	35.87	140.01	Train Station
+4099	35.78	140.31	Train Station
+4100	36.55	139.87	Park
+4101	35.76	139.69	Train Station
+4102	33.60	130.36	Baseball Stadium
+4103	3.16	101.61	Department Store
+4104	-15.63	-56.01	Home (private)
+4105	-33.45	-70.64	Building
+4106	35.77	139.74	Subway
+4107	35.75	139.81	Train Station
+4108	35.87	139.94	Train Station
+4109	34.63	135.47	Bus Station
+4110	34.68	135.52	Subway
+4111	34.67	135.48	Subway
+4112	34.65	135.47	Bus Station
+4113	34.67	135.48	Subway
+4114	34.67	135.51	Subway
+4115	34.89	135.23	Train Station
+4116	35.17	136.89	Building
+4117	34.68	135.50	Subway
+4118	34.69	135.78	Train Station
+4119	34.67	135.53	Train Station
+4120	33.59	130.42	Department Store
+4121	34.64	135.42	Convention Center
+4122	35.65	140.04	Train Station
+4123	-6.13	106.79	Mall
+4124	33.54	130.46	Train Station
+4125	33.60	130.45	Subway
+4126	14.62	121.05	Train Station
+4127	43.04	141.47	Train Station
+4128	35.66	139.70	Electronics Store
+4129	35.24	128.68	Home (private)
+4130	37.51	126.94	Subway
+4131	41.07	29.01	Home (private)
+4132	-6.18	106.79	Park
+4133	35.59	139.63	Arcade
+4134	34.67	135.46	Convenience Store
+4135	34.67	135.46	Park
+4136	34.63	135.43	Bus Station
+4137	41.09	29.02	Gym
+4138	3.19	101.62	Home (private)
+4139	-0.05	-51.18	Professional & Other Places
+4140	35.91	139.48	Train Station
+4141	35.70	139.77	Arcade
+4142	14.56	121.02	Office
+4143	-12.08	-77.09	Office
+4144	6.14	100.39	Building
+4145	6.14	100.39	Home (private)
+4146	41.02	28.97	Other Great Outdoors
+4147	43.07	141.35	Bus Line
+4148	3.16	101.77	Home (private)
+4149	3.14	101.70	Light Rail
+4150	10.31	123.89	Home (private)
+4151	28.55	-81.35	Coffee Shop
+4152	14.73	121.06	Mall
+4153	5.94	116.05	Airport Terminal
+4154	2.75	101.70	Airport Terminal
+4155	13.75	100.54	Plaza
+4156	6.13	100.37	Home (private)
+4157	41.05	29.00	Government Building
+4158	38.43	27.21	Bus Station
+4159	1.32	103.76	Mall
+4160	1.39	103.75	Japanese Restaurant
+4161	55.79	-4.03	Food Court
+4162	13.68	100.41	Home (private)
+4163	34.70	135.50	Mall
+4164	34.81	135.45	Train Station
+4165	34.69	135.19	Train Station
+4166	40.69	29.43	Pier
+4167	55.74	37.57	Mall
+4168	41.06	28.99	Other Great Outdoors
+4169	36.32	139.01	Electronics Store
+4170	35.19	136.95	Baseball Stadium
+4171	35.69	140.07	Train Station
+4172	3.14	101.70	Miscellaneous Shop
+4173	40.96	29.08	Neighborhood
+4174	14.52	121.04	Home (private)
+4175	35.68	139.68	Train Station
+4176	35.95	139.99	Train Station
+4177	3.58	98.67	Mall
+4178	35.68	139.77	General Travel
+4179	35.68	139.77	Train Station
+4180	-6.15	106.90	Fast Food Restaurant
+4181	40.97	29.04	Caf�
+4182	41.08	29.05	Lounge
+4183	41.06	28.69	Neighborhood
+4184	-22.91	-43.31	Road
+4185	8.99	-79.51	Mall
+4186	34.11	-80.84	Building
+4187	4.04	101.04	Building
+4188	-15.83	-47.96	Mall
+4189	29.16	48.10	College Classroom
+4190	-3.10	-59.96	Field
+4191	41.07	-85.15	Brewery
+4192	-33.46	-70.72	Subway
+4193	-33.44	-70.65	Bank
+4194	34.91	136.29	Rest Area
+4195	-23.66	-46.57	Home (private)
+4196	-23.56	-46.63	Home (private)
+4197	40.77	-73.87	Airport
+4198	-33.41	-70.56	Home (private)
+4199	-33.36	-70.73	Home (private)
+4200	20.53	-97.46	Plaza
+4201	14.49	-60.90	Other Great Outdoors
+4202	-33.88	151.20	College Gym
+4203	-12.09	-77.07	Home (private)
+4204	29.24	47.97	Airport
+4205	-3.07	-60.09	Home (private)
+4206	-3.07	-60.09	Home (private)
+4207	-3.09	-60.00	High School
+4208	34.68	135.50	Convenience Store
+4209	35.77	139.85	Train Station
+4210	3.12	101.64	Mall
+4211	41.01	28.98	Other Great Outdoors
+4212	34.69	135.19	Train Station
+4213	35.72	139.75	University
+4214	35.00	135.76	Road
+4215	35.58	139.64	Train Station
+4216	35.91	140.20	Grocery Store
+4217	14.61	121.08	Office
+4218	35.55	139.79	Train Station
+4219	36.23	137.94	Road
+4220	40.93	29.12	Beach
+4221	36.11	-115.17	Casino
+4222	36.11	-115.18	Casino
+4223	32.73	-117.20	Airport
+4224	-5.20	119.45	Home (private)
+4225	35.17	136.93	Train Station
+4226	-6.91	107.61	Mall
+4227	-6.93	107.64	Mall
+4228	-23.52	-46.55	Doctor's Office
+4229	-25.37	-49.08	City Hall
+4230	-26.25	-48.85	Mall
+4231	-23.59	-46.64	University
+4232	-22.84	-43.07	Neighborhood
+4233	22.29	113.94	Subway
+4234	22.45	114.03	Subway
+4235	22.30	114.18	Train Station
+4236	9.99	-84.11	Gym
+4237	51.21	3.32	Home (private)
+4238	35.45	139.53	Train Station
+4239	13.65	100.50	Home (private)
+4240	35.71	139.78	Cocktail Bar
+4241	-33.48	-70.62	Office
+4242	25.79	-80.28	Airport
+4243	41.43	-81.74	Home (private)
+4244	34.72	137.49	Train Station
+4245	34.66	135.50	Arcade
+4246	40.71	-73.83	Coffee Shop
+4247	13.88	100.74	Housing Development
+4248	41.00	28.69	Mall
+4249	40.95	29.10	Other Great Outdoors
+4250	20.71	-103.42	Office
+4251	20.71	-103.41	Mall
+4252	39.27	-76.62	Government Building
+4253	56.05	12.69	City Hall
+4254	39.87	32.82	Residential Building (Apartment / Condo)
+4255	-33.42	-70.60	Office
+4256	-8.11	-34.90	Home (private)
+4257	33.31	130.52	Train Station
+4258	33.62	130.43	Train Station
+4259	33.32	130.50	Train Station
+4260	-22.83	-43.06	General College & University
+4261	35.68	139.77	Platform
+4262	35.68	139.77	Platform
+4263	35.53	139.70	Train Station
+4264	34.83	137.94	Road
+4265	41.01	29.05	Neighborhood
+4266	-8.06	-34.91	Grocery Store
+4267	35.62	139.73	Train Station
+4268	29.29	48.02	Home (private)
+4269	29.38	47.97	American Restaurant
+4270	41.41	2.15	Home (private)
+4271	35.17	136.88	Electronics Store
+4272	9.94	-84.06	Office
+4273	9.93	-84.07	Coworking Space
+4274	-3.08	-60.02	Home (private)
+4275	-3.08	-60.02	Residential Building (Apartment / Condo)
+4276	13.79	100.78	Home (private)
+4277	13.73	100.76	Residential Building (Apartment / Condo)
+4278	38.44	27.26	Automotive Shop
+4279	35.59	139.63	Convenience Store
+4280	49.46	-120.51	Newsstand
+4281	51.48	5.66	Train Station
+4282	-6.14	106.82	Home (private)
+4283	40.77	-73.96	Gym / Fitness Center
+4284	-6.91	107.61	Mall
+4285	9.93	-84.07	Home (private)
+4286	39.79	30.50	University
+4287	3.59	98.69	Home (private)
+4288	-36.83	-73.04	University
+4289	-36.14	-71.82	Other Great Outdoors
+4290	39.88	-75.24	Airport
+4291	40.00	-82.89	Airport
+4292	13.75	100.56	Train Station
+4293	3.03	101.62	Home (private)
+4294	3.07	101.59	Indian Restaurant
+4295	-3.73	-38.53	Neighborhood
+4296	-3.74	-38.54	Mall
+4297	-7.20	-39.32	Pizza Place
+4298	40.63	-74.08	Home (private)
+4299	40.77	-73.66	College Classroom
+4300	-7.24	-39.32	Gym / Fitness Center
+4301	40.22	28.98	Road
+4302	-23.62	-46.70	Mall
+4303	41.00	28.86	Other Great Outdoors
+4304	41.05	28.99	Caf�
+4305	-23.55	-46.63	Other Great Outdoors
+4306	-19.94	-43.93	Office
+4307	-23.55	-46.64	Mall
+4308	41.12	29.02	Automotive Shop
+4309	41.06	28.98	Residential Building (Apartment / Condo)
+4310	4.61	101.12	Mall
+4311	4.55	101.07	Mall
+4312	35.69	139.78	Train Station
+4313	35.41	139.60	Electronics Store
+4314	35.66	139.70	Building
+4315	41.04	29.01	Field
+4316	1.37	103.89	Mall
+4317	40.99	28.79	Neighborhood
+4318	41.01	28.65	Other Great Outdoors
+4319	41.07	29.01	Nightclub
+4320	3.06	101.47	Mall
+4321	-23.54	-46.47	Subway
+4322	38.25	140.88	Post Office
+4323	55.73	37.60	Park
+4324	34.70	135.50	Platform
+4325	33.50	-86.78	Home (private)
+4326	33.47	-86.76	Brewery
+4327	35.73	139.39	Train Station
+4328	40.02	-75.08	Light Rail
+4329	43.11	141.26	Train Station
+4330	41.05	28.99	Neighborhood
+4331	40.99	29.02	Other Great Outdoors
+4332	41.06	28.97	Building
+4333	35.10	129.04	Bridge
+4334	-33.76	150.87	Train Station
+4335	52.08	4.32	Train Station
+4336	36.57	36.14	Home (private)
+4337	19.40	-99.09	University
+4338	-3.79	-38.48	Mall
+4339	35.68	139.76	Subway
+4340	36.23	137.97	Sports Bar
+4341	36.23	137.97	Record Shop
+4342	42.25	-88.31	Building
+4343	39.96	-75.17	Church
+4344	61.70	-149.96	Home (private)
+4345	40.96	29.07	Coffee Shop
+4346	6.25	100.45	Arcade
+4347	6.14	100.37	Restaurant
+4348	13.86	100.55	Road
+4349	51.94	5.92	Bus Line
+4350	9.98	-84.09	Other Great Outdoors
+4351	55.89	37.52	Rest Area
+4352	36.78	34.59	Mall
+4353	54.97	-1.62	Train Station
+4354	51.50	-0.14	Train Station
+4355	51.53	-0.12	Train Station
+4356	-22.85	-47.06	Mall
+4357	55.58	12.95	Home (private)
+4358	51.34	12.38	Train Station
+4359	47.38	15.09	Mall
+4360	47.38	15.09	Outdoors & Recreation
+4361	47.44	-122.30	Airport
+4362	41.01	28.97	Office
+4363	-3.67	-40.36	Home (private)
+4364	9.94	-84.10	Other Great Outdoors
+4365	35.04	137.05	Rest Area
+4366	-33.47	-70.66	Subway
+4367	-21.78	-43.36	College Academic Building
+4368	19.42	-99.08	Airport Terminal
+4369	40.96	29.19	University
+4370	-23.65	-46.73	Coworking Space
+4371	38.26	140.88	Arcade
+4372	38.26	140.88	Mall
+4373	37.38	-5.99	College Administrative Building
+4374	37.40	-5.99	Plaza
+4375	-33.44	-70.66	Courthouse
+4376	-19.95	-44.02	Mall
+4377	19.67	-99.22	Home (private)
+4378	39.71	141.13	Convenience Store
+4379	-23.27	-47.31	Home (private)
+4380	34.66	135.51	Convenience Store
+4381	3.04	101.71	Road
+4382	-33.46	-70.66	Subway
+4383	5.41	100.33	Mall
+4384	35.65	140.04	Convention Center
+4385	33.59	130.41	Mall
+4386	-30.03	-51.21	Mall
+4387	-33.45	-70.60	Home (private)
+4388	41.00	39.77	University
+4389	41.01	39.73	Park
+4390	1.60	103.62	Mall
+4391	3.12	101.62	Malaysian Restaurant
+4392	40.97	29.04	Caf�
+4393	-33.04	-71.60	College Cafeteria
+4394	55.78	37.66	Train Station
+4395	-33.93	-70.72	Road
+4396	-23.67	-46.68	Road
+4397	38.90	-77.03	Subway
+4398	34.10	-118.34	Mall
+4399	34.74	135.40	Train Station
+4400	-21.78	-52.12	Car Dealership
+4401	-21.78	-52.12	Home (private)
+4402	-8.67	115.23	Home (private)
+4403	-8.65	115.22	High School
+4404	-8.65	115.23	Home (private)
+4405	-12.20	-77.02	Home (private)
+4406	-12.12	-77.03	Office
+4407	35.63	139.78	Mall
+4408	-33.46	-70.59	Home (private)
+4409	-12.10	-76.97	Home (private)
+4410	34.67	135.53	Train Station
+4411	34.67	135.53	Train Station
+4412	35.63	139.74	Platform
+4413	55.76	37.66	Train Station
+4414	36.99	35.30	Airport
+4415	41.06	28.99	Coffee Shop
+4416	3.08	101.55	Department Store
+4417	40.76	-74.00	Nightclub
+4418	40.75	-74.00	Nightclub
+4419	40.73	-73.99	Music Venue
+4420	35.60	139.73	Other Great Outdoors
+4421	9.89	-84.05	Home (private)
+4422	34.69	135.20	Train Station
+4423	39.91	32.81	Mall
+4424	39.92	32.85	Other Great Outdoors
+4425	38.74	-9.47	Bar
+4426	38.71	-9.14	Nightclub
+4427	38.71	-9.12	Nightclub
+4428	3.19	101.63	Home (private)
+4429	35.66	139.70	Miscellaneous Shop
+4430	38.40	27.08	Other Great Outdoors
+4431	-15.84	-47.91	University
+4432	35.73	139.72	Road
+4433	-15.82	-47.99	Home (private)
+4434	-33.43	-70.62	Building
+4435	18.77	98.97	Airport
+4436	34.67	135.48	Baseball Stadium
+4437	17.88	-92.92	University
+4438	3.10	101.66	Residential Building (Apartment / Condo)
+4439	2.93	101.77	Indian Restaurant
+4440	35.22	-80.94	Airport
+4441	39.01	-94.51	Government Building
+4442	-34.07	-70.72	Train Station
+4443	-6.21	106.85	Train Station
+4444	-7.79	110.44	Airport
+4445	-6.14	106.78	Church
+4446	-6.15	106.79	Home (private)
+4447	25.65	-100.34	Mall
+4448	38.42	27.13	Other Great Outdoors
+4449	38.46	27.12	Other Great Outdoors
+4450	38.43	27.14	Neighborhood
+4451	-33.45	-70.64	Home (private)
+4452	52.55	13.29	Airport
+4453	36.26	139.07	Burger Joint
+4454	-15.81	-47.89	Subway
+4455	35.63	139.74	Caf��
+4456	35.73	139.55	Garden
+4457	51.50	-0.11	Train Station
+4458	51.44	-2.59	Park
+4459	-1.45	-48.50	General Entertainment
+4460	35.17	136.88	Monument / Landmark
+4461	43.07	141.35	Subway
+4462	41.07	28.26	Bus Station
+4463	13.71	100.60	Department Store
+4464	13.74	100.53	High School
+4465	5.40	100.40	Mall
+4466	3.08	101.52	Mosque
+4467	3.49	-76.53	Home (private)
+4468	35.55	139.73	Event Space
+4469	35.70	139.41	Electronics Store
+4470	13.81	100.57	Subway
+4471	20.66	-103.38	Grocery Store
+4472	35.68	139.77	Platform
+4473	43.07	141.35	Platform
+4474	35.51	139.44	Train Station
+4475	35.53	139.49	Train Station
+4476	35.71	139.78	Platform
+4477	55.76	37.42	Home (private)
+4478	14.60	-61.08	High School
+4479	3.12	101.60	Home (private)
+4480	13.73	100.75	Train Station
+4481	-36.83	-73.06	Design Studio
+4482	-36.82	-73.04	University
+4483	13.78	100.48	Residential Building (Apartment / Condo)
+4484	42.36	-71.09	Government Building
+4485	35.31	-82.45	Office
+4486	20.68	-103.36	Park
+4487	34.99	135.76	Train Station
+4488	21.33	-157.92	Airport
+4489	35.48	139.60	Convenience Store
+4490	35.41	139.60	Train Station
+4491	-3.73	-38.52	Other Great Outdoors
+4492	-12.00	-77.11	Bus Line
+4493	30.45	-84.26	Office
+4494	-1.46	-48.49	University
+4495	35.97	139.40	Train Station
+4496	14.61	121.08	Office
+4497	-8.05	-34.87	City Hall
+4498	9.99	-84.19	Coworking Space
+4499	13.70	100.50	Mall
+4500	13.73	100.54	Park
+4501	55.61	13.00	Train Station
+4502	-33.44	-70.66	Office
+4503	35.72	139.71	Train Station
+4504	41.90	12.50	Train Station
+4505	-25.51	-49.28	Home (private)
+4506	35.70	139.77	Record Shop
+4507	34.66	135.50	Subway
+4508	-23.61	-46.70	Office
+4509	-36.81	-73.03	Neighborhood
+4510	-6.25	106.85	Home (private)
+4511	-6.19	106.83	Train Station
+4512	-6.22	106.81	Mall
+4513	34.05	134.55	Train Station
+4514	32.88	-80.01	Office
+4515	55.96	37.41	Airport Terminal
+4516	9.94	-84.11	Other Great Outdoors
+4517	29.33	47.99	General Travel
+4518	-33.04	-71.61	College Engineering Building
+4519	-26.23	-51.08	Office
+4520	39.89	32.65	University
+4521	48.20	16.34	Train Station
+4522	-23.00	-43.32	Neighborhood
+4523	40.70	29.98	Residential Building (Apartment / Condo)
+4524	49.05	-122.31	Bus Station
+4525	39.95	-75.19	Train Station
+4526	39.89	-75.24	Train
+4527	40.69	-74.18	Airport
+4528	38.61	-90.21	Home (private)
+4529	38.65	-90.34	Office
+4530	-19.86	-43.92	University
+4531	-19.89	-43.92	Neighborhood
+4532	-19.87	-43.93	Residential Building (Apartment / Condo)
+4533	-19.87	-43.93	Mall
+4534	35.66	139.66	Train Station
+4535	35.67	139.68	Train Station
+4536	28.52	-81.38	Department Store
+4537	35.73	139.72	Plaza
+4538	10.99	-74.81	Bus Station
+4539	35.68	139.76	Subway
+4540	34.66	135.17	Soccer Stadium
+4541	35.80	140.12	Train Station
+4542	3.06	101.59	Men's Store
+4543	3.08	101.59	Fast Food Restaurant
+4544	1.35	103.95	Train Station
+4545	40.05	-85.99	Library
+4546	39.96	-86.02	Library
+4547	35.99	138.15	Train Station
+4548	35.54	139.44	Electronics Store
+4549	35.02	135.99	Factory
+4550	13.81	100.57	Building
+4551	35.66	139.34	Train Station
+4552	52.59	13.29	Miscellaneous Shop
+4553	1.50	103.82	Home (private)
+4554	36.82	10.19	Office
+4555	14.00	100.59	Home (private)
+4556	33.37	130.52	Train Station
+4557	35.70	139.77	Toy / Game Store
+4558	1.28	103.86	Mall
+4559	1.44	103.79	Mall
+4560	35.70	139.77	Electronics Store
+4561	14.61	121.08	Gym
+4562	35.70	139.76	Train Station
+4563	50.96	2.91	Home (private)
+4564	55.75	37.62	Mall
+4565	55.76	37.63	Subway
+4566	13.61	100.84	University
+4567	35.60	139.67	Train Station
+4568	14.32	100.53	Office
+4569	34.71	135.51	Train Station
+4570	42.54	-71.51	Coffee Shop
+4571	-6.14	106.81	Home (private)
+4572	-6.24	106.63	Mall
+4573	40.77	30.36	Outdoors & Recreation
+4574	3.05	101.49	Indonesian Restaurant
+4575	21.86	-102.33	Home (private)
+4576	34.43	132.74	Train Station
+4577	34.67	135.50	Mall
+4578	13.72	100.50	Train Station
+4579	34.95	137.12	Train Station
+4580	34.99	137.01	Train Station
+4581	29.99	-95.34	Airport
+4582	40.99	29.10	Basketball Stadium
+4583	40.99	29.03	Miscellaneous Shop
+4584	40.99	29.04	Bus Station
+4585	35.74	139.33	Train Station
+4586	1.49	110.34	Airport
+4587	-7.34	112.78	Residential Building (Apartment / Condo)
+4588	1.30	103.83	Department Store
+4589	42.01	-91.68	Home (private)
+4590	17.97	-92.91	Home (private)
+4591	41.07	29.01	Neighborhood
+4592	40.97	29.08	Ice Cream Shop
+4593	-1.46	-48.48	Residential Building (Apartment / Condo)
+4594	40.97	28.87	Harbor / Marina
+4595	-6.14	106.82	Mall
+4596	34.82	135.54	Shrine
+4597	34.82	135.54	Park
+4598	34.82	135.54	Bus Station
+4599	35.63	139.69	Train Station
+4600	35.17	136.91	Mall
+4601	35.51	139.62	Concert Hall
+4602	35.68	139.47	Train Station
+4603	35.73	139.97	Drugstore / Pharmacy
+4604	35.73	139.97	Grocery Store
+4605	37.76	-122.44	Neighborhood
+4606	35.71	139.76	Subway
+4607	38.31	140.91	Arcade
+4608	35.66	139.70	Mall
+4609	49.27	-123.12	Neighborhood
+4610	34.24	132.56	Train
+4611	34.63	135.61	Department Store
+4612	35.92	139.57	Train Station
+4613	34.68	135.54	Subway
+4614	4.25	117.92	Fast Food Restaurant
+4615	24.13	-110.33	Government Building
+4616	35.70	139.77	Arcade
+4617	29.28	48.05	College Academic Building
+4618	35.43	139.56	Train Station
+4619	35.51	139.63	Grocery Store
+4620	-6.15	106.71	Mall
+4621	13.84	100.55	High School
+4622	35.63	139.60	Monument / Landmark
+4623	33.58	130.39	Grocery Store
+4624	3.13	101.62	Other Great Outdoors
+4625	14.56	121.02	Gym
+4626	14.58	121.05	Train Station
+4627	1.36	103.99	Airport
+4628	3.03	101.76	Mall
+4629	35.66	139.34	Bus Line
+4630	52.09	5.11	Mall
+4631	3.59	98.66	Mall
+4632	37.37	140.36	Home (private)
+4633	35.62	139.40	Train Station
+4634	-12.11	-77.02	College Academic Building
+4635	1.50	103.78	Road
+4636	1.53	103.79	Professional & Other Places
+4637	43.12	141.24	Train Station
+4638	32.88	-96.75	Home (private)
+4639	3.18	101.71	Lake
+4640	13.76	100.62	Stadium
+4641	13.76	100.62	University
+4642	33.59	130.42	Mall
+4643	35.76	139.82	Building
+4644	41.08	29.04	Coffee Shop
+4645	42.99	141.36	Subway
+4646	43.05	141.36	Subway
+4647	43.05	141.36	Park
+4648	-22.96	-43.18	Mall
+4649	-22.90	-43.19	Train Station
+4650	34.70	135.50	Department Store
+4651	-23.21	-45.90	Building
+4652	-23.21	-45.88	Furniture / Home Store
+4653	39.70	141.15	Neighborhood
+4654	13.94	100.61	Home (private)
+4655	13.66	100.60	Train Station
+4656	59.93	30.36	Mall
+4657	3.13	101.73	Mall
+4658	1.58	103.65	Road
+4659	14.62	121.14	Home (private)
+4660	-33.58	-70.58	Subway
+4661	35.31	134.84	Road
+4662	19.30	-99.14	Mall
+4663	-7.02	-37.28	Hospital
+4664	43.06	141.35	History Museum
+4665	13.72	100.51	Pier
+4666	36.12	140.10	Strip Club
+4667	3.00	101.63	Home (private)
+4668	37.39	140.39	Mall
+4669	14.55	121.03	Train Station
+4670	14.55	121.02	Mall
+4671	13.74	100.53	High School
+4672	13.73	100.78	University
+4673	35.66	139.70	Monument / Landmark
+4674	35.66	139.70	Bus Station
+4675	13.80	100.52	High School
+4676	14.56	121.02	Office
+4677	34.38	135.27	Mall
+4678	34.41	135.32	Train Station
+4679	37.52	139.94	University
+4680	34.70	137.50	Home (private)
+4681	-6.19	106.82	Mall
+4682	40.98	29.04	Home (private)
+4683	40.95	29.11	Neighborhood
+4684	40.98	28.82	Airport Terminal
+4685	35.44	139.65	Plaza
+4686	-7.28	112.78	Mall
+4687	34.68	135.52	Subway
+4688	43.05	-76.15	Gym
+4689	34.60	135.51	Subway
+4690	-1.46	-48.46	Home (private)
+4691	13.89	100.58	Hotel Bar
+4692	35.67	139.80	Mall
+4693	14.07	100.60	College Library
+4694	40.99	29.02	Coffee Shop
+4695	1.50	103.71	Indian Restaurant
+4696	33.45	130.54	Train Station
+4697	-23.52	-46.62	Mall
+4698	48.00	11.18	Historic Site
+4699	48.01	11.19	Home (private)
+4700	48.00	11.18	Playground
+4701	48.00	11.18	Burger Joint
+4702	7.10	125.62	Mall
+4703	55.86	37.65	Neighborhood
+4704	14.57	121.03	City Hall
+4705	-25.42	-49.27	Mall
+4706	36.17	-115.14	Bar
+4707	33.66	130.44	Train Station
+4708	-1.44	-48.48	University
+4709	-20.32	-40.28	Bridge
+4710	-7.93	112.66	Home (private)
+4711	-7.96	112.59	University
+4712	14.66	121.03	Mall
+4713	-33.02	-71.54	Residential Building (Apartment / Condo)
+4714	3.13	101.74	College Academic Building
+4715	9.95	-84.07	Coworking Space
+4716	-6.23	106.80	Mall
+4717	41.38	2.17	Road
+4718	13.74	100.53	Student Center
+4719	28.05	-82.66	Home (private)
+4720	13.76	100.49	University
+4721	13.73	100.57	Train Station
+4722	13.74	100.53	College Bookstore
+4723	3.04	101.59	Residential Building (Apartment / Condo)
+4724	58.01	56.26	Mall
+4725	34.70	135.49	Train Station
+4726	38.40	27.08	Caf�
+4727	41.02	29.09	Home (private)
+4728	40.97	29.07	Pub
+4729	36.82	10.19	Coworking Space
+4730	13.71	100.58	University
+4731	3.08	101.51	Indian Restaurant
+4732	7.05	125.59	Mall
+4733	3.57	98.67	Mall
+4734	35.03	135.78	College Library
+4735	36.13	139.39	Home (private)
+4736	35.66	139.31	Train Station
+4737	3.58	98.67	Donut Shop
+4738	35.69	138.49	Train Station
+4739	40.93	29.12	Caf�
+4740	-1.46	-48.50	Courthouse
+4741	29.59	-95.14	Home (private)
+4742	35.52	139.65	Mall
+4743	1.38	103.76	Mall
+4744	1.28	103.85	Subway
+4745	18.48	-69.93	Electronics Store
+4746	3.14	101.72	Caf�
+4747	13.75	100.53	Train Station
+4748	35.81	139.71	Mall
+4749	12.68	101.27	Car Dealership
+4750	41.03	29.18	Neighborhood
+4751	13.91	100.55	Event Space
+4752	-33.46	-70.66	Event Space
+4753	38.44	27.14	Other Great Outdoors
+4754	38.44	27.14	Road
+4755	38.29	27.15	Airport
+4756	9.94	-84.10	Park
+4757	4.47	101.05	Malaysian Restaurant
+4758	13.79	100.51	School
+4759	14.56	121.04	Mall
+4760	14.63	121.06	General Travel
+4761	49.46	11.13	Parking
+4762	-6.20	106.79	University
+4763	40.97	29.08	Road
+4764	35.66	139.70	Platform
+4765	35.74	139.75	Subway
+4766	-6.18	106.73	Residential Building (Apartment / Condo)
+4767	6.20	100.39	Soccer Field
+4768	4.18	101.29	Rest Area
+4769	39.53	116.73	College Residence Hall
+4770	39.90	32.73	Government Building
+4771	39.82	32.56	University
+4772	39.98	32.84	Home (private)
+4773	-33.38	-70.53	University
+4774	29.34	48.00	Caf�
+4775	29.33	47.98	Coffee Shop
+4776	14.63	121.05	Home (private)
+4777	14.61	121.08	Office
+4778	-23.62	-46.70	Building
+4779	-23.62	-46.70	Office
+4780	40.76	-73.66	University
+4781	-23.55	-46.62	Train Station
+4782	43.04	141.47	Subway
+4783	35.67	139.77	Road
+4784	-6.14	106.84	Home (private)
+4785	-33.43	-70.63	Building
+4786	35.60	139.68	University
+4787	34.73	135.50	Platform
+4788	1.43	103.93	Home (private)
+4789	41.01	39.73	Caf�
+4790	-33.43	-70.76	Home (private)
+4791	36.82	10.18	Tech Startup
+4792	14.55	121.05	Other Great Outdoors
+4793	-7.17	-34.84	Neighborhood
+4794	35.61	139.73	Train Station
+4795	-23.54	-46.64	General Travel
+4796	8.46	124.61	Home (private)
+4797	-6.22	106.83	Mall
+4798	52.38	9.74	Train Station
+4799	49.06	-122.31	Residential Building (Apartment / Condo)
+4800	-23.59	-46.64	Neighborhood
+4801	0.07	-51.06	Government Building
+4802	-1.42	-48.45	Office
+4803	32.21	118.72	College Residence Hall
+4804	51.48	-0.41	Home (private)
+4805	-3.75	-38.47	Grocery Store
+4806	40.29	-3.79	Playground
+4807	-3.74	-38.50	Office
+4808	-36.78	-73.08	Home (private)
+4809	-36.76	-73.15	Cafeteria
+4810	44.83	-93.43	Residential Building (Apartment / Condo)
+4811	-12.09	-77.04	Home (private)
+4812	-8.06	-34.87	Office
+4813	3.14	101.51	Home (private)
+4814	3.24	101.63	Park
+4815	1.35	103.95	Mall
+4816	9.86	-83.95	Office
+4817	-19.89	-44.00	Neighborhood
+4818	-27.59	-48.55	Other Great Outdoors
+4819	-1.37	-48.45	Mall
+4820	35.53	139.75	Train Station
+4821	42.10	-71.47	Residential Building (Apartment / Condo)
+4822	-6.90	107.58	Airport
+4823	40.20	29.06	Mall
+4824	37.56	126.92	Subway
+4825	37.50	127.02	Subway
+4826	13.74	100.52	Residential Building (Apartment / Condo)
+4827	55.71	37.62	Plaza
+4828	-12.01	-77.05	Home (private)
+4829	33.59	130.40	Office
+4830	1.47	110.44	College Residence Hall
+4831	52.53	-1.90	Office
+4832	3.08	101.55	Indian Restaurant
+4833	3.08	101.55	Mosque
+4834	38.26	140.88	Arcade
+4835	36.17	137.95	Road
+4836	40.39	-3.76	Bus Station
+4837	40.44	-3.68	Bus Station
+4838	-6.15	106.89	Mall
+4839	34.67	135.53	Train Station
+4840	35.54	139.52	Train Station
+4841	35.53	139.52	Bus Station
+4842	40.96	29.10	Neighborhood
+4843	36.55	139.93	College Lab
+4844	34.68	135.82	Train Station
+4845	-6.40	-38.86	Automotive Shop
+4846	35.67	138.52	Train Station
+4847	-3.79	-38.54	School
+4848	40.99	29.11	Hotel
+4849	43.05	-76.06	Gym
+4850	-3.03	-59.99	Student Center
+4851	41.07	28.95	University
+4852	40.73	30.38	Bus Station
+4853	56.83	60.60	Subway
+4854	38.45	27.21	Mall
+4855	38.44	27.17	Light Rail
+4856	39.81	32.57	Residential Building (Apartment / Condo)
+4857	-35.43	-71.64	General Travel
+4858	41.00	29.04	Bar
+4859	-6.19	106.82	Multiplex
+4860	35.66	139.75	Subway
+4861	41.00	29.05	University
+4862	51.03	4.48	Bus Station
+4863	-23.63	-46.74	Mall
+4864	29.65	-82.49	Bank
+4865	40.19	29.05	Home (private)
+4866	14.61	-61.05	Residential Building (Apartment / Condo)
+4867	-6.71	108.56	Train Station
+4868	-33.44	-70.65	Mall
+4869	-33.44	-70.68	Subway
+4870	19.37	-99.14	Liquor Store
+4871	41.00	39.73	Coffee Shop
+4872	-19.91	-43.92	Soccer Stadium
+4873	41.08	29.02	Nightclub
+4874	36.27	139.11	Train Station
+4875	-23.58	-46.64	Subway
+4876	33.89	130.88	Department Store
+4877	35.44	139.64	Train Station
+4878	19.65	-99.22	Home (private)
+4879	19.40	-99.17	Coworking Space
+4880	34.71	135.51	Mall
+4881	34.67	135.50	Arcade
+4882	35.98	139.75	Train Station
+4883	3.11	101.61	Light Rail
+4884	36.19	139.71	Train Station
+4885	38.77	-9.10	Train Station
+4886	35.67	140.04	Train Station
+4887	35.97	140.63	Train Station
+4888	38.43	27.14	Coffee Shop
+4889	38.44	27.14	Lounge
+4890	38.37	26.89	Road
+4891	35.75	139.71	Mall
+4892	34.68	135.62	Train Station
+4893	56.86	53.23	Doctor's Office
+4894	-6.91	107.61	Mall
+4895	7.08	125.61	Mall
+4896	38.26	140.88	Hobby Shop
+4897	-20.00	-69.77	School
+4898	33.50	130.52	Train Station
+4899	34.98	137.16	Arcade
+4900	35.45	139.63	Coffee Shop
+4901	-6.19	106.73	Multiplex
+4902	-33.45	-70.66	Trade School
+4903	3.05	101.76	Malaysian Restaurant
+4904	55.78	37.58	Train Station
+4905	-6.20	106.76	Home (private)
+4906	3.05	101.75	Residential Building (Apartment / Condo)
+4907	25.20	55.28	Mall
+4908	40.25	28.96	Mall
+4909	-33.44	-70.65	Coffee Shop
+4910	43.57	-116.19	Gas Station / Garage
+4911	35.48	139.63	Train Station
+4912	-23.57	-46.69	Subway
+4913	35.44	139.83	Boat or Ferry
+4914	-6.14	106.81	Train Station
+4915	37.56	126.97	Bus Station
+4916	39.30	-76.44	Home (private)
+4917	-12.15	-77.02	Home (private)
+4918	4.29	117.91	Home (private)
+4919	34.97	138.38	Dance Studio
+4920	32.20	118.72	University
+4921	32.21	118.72	College Residence Hall
+4922	-12.09	-77.07	Office
+4923	36.11	-115.17	Nightclub
+4924	20.48	-97.45	Plaza
+4925	34.66	135.14	Subway
+4926	41.02	29.13	Mall
+4927	35.59	139.73	Train Station
+4928	55.77	37.38	Mall
+4929	34.97	137.06	Train Station
+4930	32.76	129.86	Mall
+4931	3.16	101.71	Department Store
+4932	3.57	98.67	Movie Theater
+4933	-33.42	-70.62	Bridge
+4934	35.55	139.73	Karaoke Bar
+4935	35.55	139.73	Mall
+4936	36.49	139.01	Train Station
+4937	35.57	139.73	Train Station
+4938	35.77	139.94	Train Station
+4939	35.44	139.66	Museum
+4940	10.31	123.89	Mall
+4941	6.04	116.13	Mall
+4942	3.13	101.67	Mall
+4943	35.00	135.95	Parking
+4944	1.36	103.76	Home (private)
+4945	34.66	135.51	Smoke Shop
+4946	39.72	-84.15	Pet Store
+4947	-6.23	106.61	Mall
+4948	3.05	101.58	Coffee Shop
+4949	35.33	139.55	Temple
+4950	35.32	139.56	Shrine
+4951	40.83	140.73	Train Station
+4952	35.15	136.72	Train Station
+4953	7.08	125.61	Caf�
+4954	5.46	100.31	Mall
+4955	3.32	101.57	Train Station
+4956	3.32	101.56	Home (private)
+4957	-1.45	-48.49	Park
+4958	13.72	100.78	Residential Building (Apartment / Condo)
+4959	41.02	28.66	Residential Building (Apartment / Condo)
+4960	51.49	-0.23	Bridge
+4961	51.49	-0.22	Grocery Store
+4962	59.65	17.93	Airport
+4963	3.13	101.68	Light Rail
+4964	34.81	135.44	Gym
+4965	-22.97	-43.18	Beach
+4966	-6.14	106.86	Multiplex
+4967	42.82	-1.61	Home (private)
+4968	33.33	-86.89	Other Great Outdoors
+4969	13.68	100.55	Home (private)
+4970	41.04	28.99	Park
+4971	38.46	27.21	Park
+4972	9.92	-84.04	Home (private)
+4973	38.40	27.09	Neighborhood
+4974	38.43	27.14	Lounge
+4975	38.43	27.14	Other Great Outdoors
+4976	39.92	32.83	Road
+4977	-3.08	-60.01	Neighborhood
+4978	37.48	126.88	Subway
+4979	13.79	100.33	University
+4980	-33.64	-70.82	Home (private)
+4981	35.19	-80.71	Residential Building (Apartment / Condo)
+4982	35.61	139.74	Train Station
+4983	13.78	100.49	Residential Building (Apartment / Condo)
+4984	38.46	27.12	Miscellaneous Shop
+4985	35.70	139.69	Building
+4986	41.06	28.50	College & University
+4987	35.20	136.23	Elementary School
+4988	38.91	-77.04	Fast Food Restaurant
+4989	-33.37	-70.73	Home (private)
+4990	14.65	120.98	Train Station
+4991	35.63	139.53	Grocery Store
+4992	59.33	18.06	Subway
+4993	35.24	136.87	Convenience Store
+4994	36.00	136.20	Train
+4995	35.73	139.34	Train Station
+4996	41.03	28.97	Neighborhood
+4997	37.52	126.92	Subway
+4998	41.07	28.98	Courthouse
+4999	-33.02	-71.54	Residential Building (Apartment / Condo)
+5000	18.49	-69.91	Coworking Space
+5001	34.65	135.51	Subway
+5002	35.72	139.70	Train Station
+5003	13.65	100.68	Mall
+5004	14.61	121.08	Mall
+5005	36.10	140.10	Home (private)
+5006	13.75	100.53	Art Museum
+5007	38.39	27.05	Neighborhood
+5008	38.44	27.14	Other Nightlife
+5009	41.07	28.81	Coworking Space
+5010	40.99	28.83	Fair
+5011	-27.59	-48.54	Mall
+5012	37.04	27.43	Other Great Outdoors
+5013	40.30	-74.01	Breakfast Spot
+5014	-7.22	-35.87	Other Great Outdoors
+5015	34.97	135.91	Bridge
+5016	0.05	-51.05	Home (private)
+5017	39.96	-75.18	Train Station
+5018	-19.91	-43.94	Bus Station
+5019	20.70	-103.38	Mall
+5020	33.60	130.39	Bridge
+5021	34.70	135.50	Building
+5022	-19.88	-43.90	Home (private)
+5023	3.15	101.70	Flea Market
+5024	35.21	137.04	Strip Club
+5025	35.52	139.59	Dim Sum Restaurant
+5026	35.51	139.59	Deli / Bodega
+5027	35.51	139.58	Bridge
+5028	13.81	100.66	High School
+5029	36.42	139.03	Train Station
+5030	35.91	139.48	Train Station
+5031	35.86	139.97	Train Station
+5032	34.96	137.16	Bridge
+5033	3.81	103.37	Beach
+5034	35.82	139.88	Train Station
+5035	-31.95	115.85	Home (private)
+5036	0.04	-51.06	Government Building
+5037	35.69	140.20	Train Station
+5038	41.30	2.08	Airport
+5039	41.39	2.17	Plaza
+5040	35.61	139.38	Train Station
+5041	35.70	139.48	Train Station
+5042	35.76	139.47	Train Station
+5043	34.82	135.55	Park
+5044	34.82	135.55	Lake
+5045	24.43	54.65	Airport
+5046	14.56	121.01	Mall
+5047	52.55	13.40	Bridge
+5048	40.88	29.23	Other Great Outdoors
+5049	38.46	27.22	Neighborhood
+5050	-19.92	-43.96	Office
+5051	-19.92	-43.96	Restaurant
+5052	1.30	103.84	Subway
+5053	3.07	101.59	Home (private)
+5054	3.25	101.73	University
+5055	14.74	-61.17	Home (private)
+5056	40.74	30.34	University
+5057	9.38	-83.70	Other Great Outdoors
+5058	1.28	103.83	Home (private)
+5059	-33.44	-70.66	Residential Building (Apartment / Condo)
+5060	19.47	-99.18	Home (private)
+5061	19.42	-99.17	Hotel
+5062	9.97	-84.06	Building
+5063	-33.44	-70.65	Coworking Space
+5064	35.33	139.55	Temple
+5065	39.70	141.14	Platform
+5066	1.29	103.85	Mall
+5067	1.29	103.86	Mall
+5068	-6.15	106.79	Home (private)
+5069	13.74	100.53	College Arts Building
+5070	44.85	-93.24	Mall
+5071	41.82	-87.86	Light Rail
+5072	27.32	-82.52	Doctor's Office
+5073	42.55	140.76	Train Station
+5074	19.37	-99.14	Food Truck
+5075	40.95	29.09	Pier
+5076	3.03	101.62	Mall
+5077	14.64	121.04	Train Station
+5078	35.43	139.56	Train Station
+5079	34.98	135.76	Platform
+5080	35.17	136.88	Train
+5081	33.60	130.41	Road
+5082	39.92	32.86	Other Great Outdoors
+5083	35.63	139.74	Platform
+5084	-6.13	106.73	Home (private)
+5085	35.68	139.80	Park
+5086	34.62	136.10	Train Station
+5087	-33.43	-70.59	Subway
+5088	19.30	-99.15	Soccer Stadium
+5089	41.05	28.99	Restaurant
+5090	-15.88	-47.82	Housing Development
+5091	19.39	-99.09	Student Center
+5092	-35.05	-71.28	Home (private)
+5093	30.49	-81.68	Airport
+5094	-33.55	-70.59	Subway
+5095	35.27	137.22	Convenience Store
+5096	13.91	100.51	College Residence Hall
+5097	3.11	101.60	Light Rail
+5098	-12.06	-77.04	Bus Line
+5099	25.73	-100.27	Home (private)
+5100	40.18	28.77	Factory
+5101	40.99	29.09	Neighborhood
+5102	38.47	27.10	Home (private)
+5103	38.42	27.16	Hospital
+5104	3.06	101.69	Stadium
+5105	13.91	100.51	Department Store
+5106	13.73	100.53	Subway
+5107	-6.91	107.60	Mall
+5108	38.40	27.08	Neighborhood
+5109	-6.22	106.83	Mall
+5110	13.83	100.68	Mall
+5111	10.32	123.98	Airport
+5112	35.73	139.77	Train Station
+5113	-25.42	-49.28	Office
+5114	3.14	101.61	Mall
+5115	35.00	135.76	Event Space
+5116	3.15	101.66	General College & University
+5117	47.37	15.08	College Classroom
+5118	47.38	15.09	Fast Food Restaurant
+5119	47.50	15.00	Home (private)
+5120	18.81	99.03	Other Great Outdoors
+5121	9.98	-84.81	Seafood Restaurant
+5122	36.22	137.96	Convenience Store
+5123	39.88	32.84	Road
+5124	35.39	139.62	Train Station
+5125	19.46	-99.22	Subway
+5126	-33.45	-70.61	Bus Station
+5127	13.74	100.52	Subway
+5128	-23.54	-46.63	Subway
+5129	35.65	139.83	Train Station
+5130	0.03	-51.08	Home (private)
+5131	-3.73	-38.52	Residential Building (Apartment / Condo)
+5132	3.13	101.60	Road
+5133	9.94	-84.03	Housing Development
+5134	-6.16	106.81	Home (private)
+5135	-6.14	106.81	School
+5136	3.16	101.66	Mall
+5137	5.99	116.08	Mall
+5138	-3.77	-38.48	University
+5139	41.70	-85.88	Miscellaneous Shop
+5140	9.94	-84.07	University
+5141	41.08	29.01	Restaurant
+5142	-33.48	-70.56	Home (private)
+5143	0.03	-51.11	Home (private)
+5144	-33.43	-70.61	Coworking Space
+5145	-36.75	-73.13	Office
+5146	14.62	121.10	Mall
+5147	35.73	139.71	Platform
+5148	5.98	116.07	Mall
+5149	33.48	-81.98	Residential Building (Apartment / Condo)
+5150	1.37	103.95	Bus Station
+5151	35.95	139.41	Train Station
+5152	41.01	28.97	Miscellaneous Shop
+5153	-7.47	112.71	Home (private)
+5154	-23.48	-46.60	Subway
+5155	35.56	139.42	Train Station
+5156	3.07	101.70	Home (private)
+5157	35.85	139.67	Bookstore
+5158	13.74	100.50	High School
+5159	35.58	139.66	Train Station
+5160	35.72	139.48	Bridge
+5161	35.69	140.00	Road
+5162	-30.13	-51.21	Residential Building (Apartment / Condo)
+5163	-33.45	-70.76	Home (private)
+5164	3.24	101.64	Department Store
+5165	12.67	101.27	High School
+5166	34.51	135.85	Train Station
+5167	41.10	28.99	Soccer Stadium
+5168	13.28	100.92	High School
+5169	40.30	-74.01	Drugstore / Pharmacy
+5170	-23.65	-46.53	Mall
+5171	41.39	2.17	Road
+5172	19.37	-99.14	Liquor Store
+5173	35.77	139.94	Train Station
+5174	35.00	135.77	Road
+5175	40.24	29.06	Automotive Shop
+5176	8.45	124.62	Tech Startup
+5177	35.73	139.71	Platform
+5178	13.94	100.55	High School
+5179	43.47	-96.73	Home (private)
+5180	34.62	135.53	Subway
+5181	13.89	100.56	Mall
+5182	-6.20	106.78	Convenience Store
+5183	29.34	48.00	Coffee Shop
+5184	3.08	101.71	Train Station
+5185	-23.62	-46.70	Office
+5186	35.67	139.65	Train Station
+5187	-3.10	-60.01	Home (private)
+5188	-3.10	-60.01	Gym
+5189	19.37	-99.14	Gas Station / Garage
+5190	-33.45	-70.66	Professional & Other Places
+5191	35.55	139.73	Pizza Place
+5192	-3.75	-38.52	Home (private)
+5193	33.33	-86.90	Neighborhood
+5194	-6.12	106.65	Airport Terminal
+5195	-6.22	106.81	Mall
+5196	34.76	135.52	Mall
+5197	13.67	100.64	Department Store
+5198	27.98	-82.53	Airport
+5199	52.08	4.89	Train Station
+5200	35.65	139.71	Grocery Store
+5201	3.13	101.74	Building
+5202	18.00	-92.93	Dive Bar
+5203	39.99	-76.80	Home (private)
+5204	-5.81	-35.21	Mall
+5205	19.68	-99.22	Taco Place
+5206	35.84	139.53	Mall
+5207	-23.66	-46.57	Neighborhood
+5208	29.96	31.27	Office
+5209	43.00	141.34	Grocery Store
+5210	-1.43	-48.49	Home (private)
+5211	44.73	-93.13	Gas Station / Garage
+5212	43.45	-80.49	Office
+5213	43.45	-80.49	Office
+5214	29.17	48.10	University
+5215	-15.58	-56.07	Mall
+5216	38.90	-77.07	Subway
+5217	14.63	120.99	Home (private)
+5218	13.75	100.53	School
+5219	40.99	28.65	Government Building
+5220	26.26	-80.28	Garden
+5221	40.99	29.03	Home (private)
+5222	-33.03	-71.57	Other Great Outdoors
+5223	-23.55	-46.65	University
+5224	-23.50	-46.62	Subway
+5225	-12.11	-76.98	Trade School
+5226	34.73	135.50	Platform
+5227	-25.47	-49.24	Home (private)
+5228	17.41	102.78	High School
+5229	19.33	-99.13	Home (private)
+5230	36.76	137.04	Convenience Store
+5231	14.54	121.05	Plaza
+5232	-33.44	-70.66	Residential Building (Apartment / Condo)
+5233	3.11	101.46	Mall
+5234	-6.96	107.64	Road
+5235	35.13	136.79	Train Station
+5236	3.22	101.73	General College & University
+5237	36.83	10.21	Tech Startup
+5238	0.02	-51.08	Office
+5239	0.03	-51.11	Home (private)
+5240	3.05	101.58	Home (private)
+5241	3.05	101.58	Indian Restaurant
+5242	37.29	126.88	Home (private)
+5243	14.57	121.08	Residential Building (Apartment / Condo)
+5244	41.88	-87.63	Neighborhood
+5245	13.73	100.53	College Academic Building
+5246	35.03	135.76	Subway
+5247	44.80	-93.36	Dog Run
+5248	-0.51	117.15	Bridal Shop
+5249	24.76	46.66	Residential Building (Apartment / Condo)
+5250	3.12	101.67	Light Rail
+5251	9.99	-84.15	Office
+5252	-23.57	-46.69	Office
+5253	45.49	9.21	Train Station
+5254	-33.44	-70.65	Coffee Shop
+5255	35.20	-80.91	Office
+5256	34.63	135.52	Subway
+5257	-6.17	106.91	Home (private)
+5258	-6.16	106.92	Home (private)
+5259	9.94	-84.07	Neighborhood
+5260	-23.63	-46.74	Building
+5261	-33.43	-70.60	Home (private)
+5262	34.56	135.50	Train Station
+5263	-12.09	-77.05	University
+5264	35.71	139.81	Mall
+5265	56.95	24.12	Plaza
+5266	0.03	-51.05	Office
+5267	0.04	-51.06	Gym
+5268	34.96	137.16	Bus Station
+5269	49.24	-123.08	Moving Target
+5270	39.89	-85.93	Building
+5271	39.96	-85.92	Office
+5272	35.83	139.43	Train Station
+5273	3.13	101.63	Home (private)
+5274	3.19	101.63	Mall
+5275	35.58	139.58	Train Station
+5276	50.98	4.49	Road
+5277	-33.45	-70.60	Building
+5278	14.55	121.05	Building
+5279	41.82	-87.62	Other Great Outdoors
+5280	-1.46	-48.49	School
+5281	40.94	-74.58	Government Building
+5282	13.75	100.63	University
+5283	-33.44	-70.64	Residential Building (Apartment / Condo)
+5284	55.79	37.59	Train Station
+5285	43.60	-116.59	Bakery
+5286	-33.05	-71.56	Conference Room
+5287	-1.46	-48.46	Home (private)
+5288	35.61	139.57	Monument / Landmark
+5289	14.53	120.98	General Entertainment
+5290	0.01	-51.07	Housing Development
+5291	40.66	-73.91	Other Great Outdoors
+5292	14.61	121.08	Convenience Store
+5293	3.13	101.68	Neighborhood
+5294	-33.42	-70.60	Hotel
+5295	35.67	139.79	Train Station
+5296	35.71	139.96	Train Station
+5297	18.45	-69.95	Home (private)
+5298	39.38	-76.57	Home (private)
+5299	-36.82	-73.03	Home (private)
+5300	-36.78	-73.05	School
+5301	41.00	28.93	Neighborhood
+5302	-3.74	-38.50	Home (private)
+5303	3.11	101.54	Bank
+5304	-12.10	-77.02	Office
+5305	41.02	28.59	Other Great Outdoors
+5306	-33.36	-70.68	General Entertainment
+5307	-33.37	-70.68	Department Store
+5308	13.91	100.51	College Cafeteria
+5309	28.05	-82.66	Office
+5310	-8.67	115.23	Home (private)
+5311	3.10	101.60	Mall
+5312	3.11	101.64	Home (private)
+5313	13.81	100.66	College Cafeteria
+5314	34.75	135.36	Platform
+5315	34.75	135.36	Platform
+5316	38.81	-77.06	Coffee Shop
+5317	52.55	13.40	Light Rail
+5318	-33.45	-70.65	Residential Building (Apartment / Condo)
+5319	3.21	101.56	Strip Club
+5320	34.71	135.38	Train Station
+5321	35.53	139.64	River
+5322	13.65	100.63	Restaurant
+5323	34.07	131.76	Grocery Store
+5324	34.07	131.76	Mall
+5325	34.72	135.02	Train Station
+5326	48.08	11.72	Building
+5327	-23.48	-46.53	Road
+5328	5.92	116.05	Airport
+5329	34.64	135.41	Subway
+5330	2.36	102.18	University
+5331	2.25	102.28	Residential Building (Apartment / Condo)
+5332	34.69	137.26	Convenience Store
+5333	35.17	136.88	Mall
+5334	34.66	135.56	Mall
+5335	-25.78	28.29	Home (private)
+5336	-6.23	106.78	Home (private)
+5337	35.36	137.18	Train Station
+5338	-6.22	106.80	Home (private)
+5339	14.63	121.14	Housing Development
+5340	0.04	-51.07	Home (private)
+5341	0.03	-51.06	Neighborhood
+5342	14.60	121.05	Mall
+5343	-23.55	-46.63	Other Great Outdoors
+5344	-22.90	-43.18	Coworking Space
+5345	43.09	-70.79	Coffee Shop
+5346	14.55	121.05	Gym
+5347	40.30	-74.01	Pizza Place
+5348	40.30	-74.01	Hardware Store
+5349	13.73	100.50	High School
+5350	-6.12	106.77	High School
+5351	38.28	140.34	Bridge
+5352	13.77	100.62	High School
+5353	35.56	139.71	Train Station
+5354	-22.74	-46.90	Coworking Space
+5355	21.13	-86.75	Mall
+5356	0.01	-51.09	Home (private)
+5357	2.98	101.78	Residential Building (Apartment / Condo)
+5358	-33.51	-70.75	Home (private)
+5359	9.96	-84.13	Home (private)
+5360	-25.43	-49.24	Home (private)
+5361	35.83	139.92	Train Station
+5362	-33.45	-70.59	Neighborhood
+5363	14.60	121.02	Train Station
+5364	48.80	9.29	Garden
+5365	55.69	37.62	Office
+5366	3.05	101.58	Neighborhood
+5367	3.50	102.57	Home (private)
+5368	3.12	101.63	University
+5369	35.72	139.34	Train Station
+5370	35.73	139.71	Parking
+5371	0.08	-51.06	Home (private)
+5372	-12.05	-77.03	Bus Station
+5373	19.41	-99.10	Concert Hall
+5374	41.08	28.25	Other Great Outdoors
+5375	3.19	101.66	Neighborhood
+5376	3.82	103.33	Mall
+5377	40.27	28.95	Other Great Outdoors
+5378	-22.81	-43.37	Subway
+5379	-3.74	-38.52	Professional & Other Places
+5380	41.01	39.61	College Communications Building
+5381	-6.13	106.73	Home (private)
+5382	9.96	-84.05	Other Great Outdoors
+5383	35.69	139.66	Coffee Shop
+5384	41.01	29.25	Factory
+5385	35.66	139.73	Road
+5386	-22.89	-47.05	Office
+5387	43.10	141.31	Bus Line
+5388	-25.43	-49.27	Office
+5389	3.09	101.55	Residential Building (Apartment / Condo)
+5390	-6.12	106.75	Park
+5391	-36.78	-73.07	University
+5392	-36.88	-73.14	Home (private)
+5393	-6.41	-38.86	Home (private)
+5394	14.64	-61.04	Home (private)
+5395	9.30	123.30	Office
+5396	9.27	123.30	Home (private)
+5397	35.88	139.75	Home (private)
+5398	-12.01	-77.11	Road
+5399	35.47	139.62	Coffee Shop
+5400	-33.41	-70.64	Subway
+5401	0.05	-51.07	Home (private)
+5402	5.38	100.42	University
+5403	-6.18	106.68	Home (private)
+5404	39.81	-86.00	Home (private)
+5405	-23.54	-46.48	Subway
+5406	3.08	101.49	Asian Restaurant
+5407	-33.42	-70.61	Mall
+5408	-7.20	-39.32	Home (private)
+5409	41.05	28.99	Nightclub
+5410	35.73	139.39	Train Station
+5411	-23.58	-46.64	Shoe Store
+5412	34.80	137.69	Building
+5413	34.64	135.54	Mall
+5414	34.07	131.76	Grocery Store
+5415	-19.82	-43.95	Mall
+5416	28.32	-81.53	Gym
+5417	35.23	136.96	Train Station
+5418	3.07	101.58	Home (private)
+5419	38.29	26.38	Other Great Outdoors
+5420	1.36	103.85	Housing Development
+5421	38.91	-77.03	Residential Building (Apartment / Condo)
+5422	34.65	135.49	Grocery Store
+5423	35.85	139.54	Train Station
+5424	3.07	101.50	College Residence Hall
+5425	-7.29	112.72	Mall
+5426	40.98	29.12	Parking
+5427	41.10	29.08	Building
+5428	29.34	47.95	College Arts Building
+5429	38.34	26.32	Beach
+5430	38.32	26.30	Harbor / Marina
+5431	18.45	-69.95	Other Great Outdoors
+5432	-33.04	-71.46	Bus Station
+5433	51.16	-0.16	Airport
+5434	14.56	121.02	Building
+5435	40.95	29.10	Coffee Shop
+5436	13.97	100.61	Home (private)
+5437	35.41	139.50	Convenience Store
+5438	55.79	37.78	Subway
+5439	-23.53	-46.63	Plaza
+5440	-22.89	-47.05	Coworking Space
+5441	-23.58	-46.60	Office
+5442	51.21	3.31	Other Great Outdoors
+5443	51.21	3.31	Road
+5444	-23.70	-70.42	University
+5445	-22.89	-43.13	Bus Station
+5446	-6.39	106.80	Home (private)
+5447	-6.37	106.83	Train Station
+5448	13.69	100.37	Office
+5449	-3.11	-60.02	College Academic Building
+5450	-33.45	-70.64	Home (private)
+5451	-33.45	-70.65	Building
+5452	-33.42	-70.60	Office
+5453	-33.42	-70.60	Office
+5454	38.99	-94.29	Home (private)
+5455	-23.54	-46.71	Gym / Fitness Center
+5456	1.48	103.77	High School
+5457	41.30	-96.01	Home (private)
+5458	-15.76	-47.87	University
+5459	29.58	-98.66	General College & University
+5460	1.32	124.83	Home (private)
+5461	2.36	102.18	Home (private)
+5462	50.80	-1.10	Student Center
+5463	33.61	130.47	Park
+5464	4.03	101.04	Malaysian Restaurant
+5465	28.71	-81.77	Professional & Other Places
+5466	35.22	139.71	Beach
+5467	3.05	101.59	Home (private)
+5468	3.05	101.59	Home (private)
+5469	35.95	139.64	Train
+5470	35.90	-84.09	Residential Building (Apartment / Condo)
+5471	-6.24	106.62	Home (private)
+5472	10.96	-74.79	Bus Station
+5473	10.96	-74.79	Residential Building (Apartment / Condo)
+5474	41.12	-81.46	Housing Development
+5475	41.12	-81.47	Home (private)
+5476	7.05	125.59	Mall
+5477	29.34	48.09	Gym / Fitness Center
+5478	-33.54	-70.58	Home (private)
+5479	47.37	15.10	Home (private)
+5480	38.88	-77.04	Bridge
+5481	9.94	-84.09	Residential Building (Apartment / Condo)
+5482	9.93	-84.08	Building
+5483	3.11	101.60	Movie Theater
+5484	-6.17	106.73	Home (private)
+5485	13.16	100.94	Home (private)
+5486	52.70	5.24	Train Station
+5487	37.03	27.97	Drugstore / Pharmacy
+5488	0.03	-51.06	Shoe Store
+5489	35.57	139.67	Train
+5490	40.30	-74.01	Post Office
+5491	13.74	100.55	Gym / Fitness Center
+5492	19.37	-99.14	Gastropub
+5493	3.04	101.52	Home (private)
+5494	-16.73	-43.87	Residential Building (Apartment / Condo)
+5495	-16.73	-43.87	Office
+5496	-33.05	-71.56	Factory
+5497	37.13	27.38	Beach
+5498	-33.42	-70.61	Grocery Store
+5499	-23.50	-46.65	Home (private)
+5500	-36.78	-73.08	University
+5501	41.07	29.01	Coworking Space
+5502	41.28	36.34	Road
+5503	41.28	36.33	Home (private)
+5504	27.99	-82.45	Neighborhood
+5505	41.05	28.93	Parking
+5506	-35.41	-71.66	Home (private)
+5507	9.94	-84.00	Residential Building (Apartment / Condo)
+5508	-33.04	-71.65	Home (private)
+5509	40.69	-73.93	Chinese Restaurant
+5510	10.31	123.89	Hospital
+5511	38.45	27.20	University
+5512	-22.92	-43.23	Plaza
+5513	33.46	-82.02	Home (private)
+5514	6.13	102.24	Home (private)
+5515	18.46	-69.97	Office
+5516	29.74	-95.38	Other Nightlife
+5517	13.90	100.57	Home (private)
+5518	3.20	101.66	Home (private)
+5519	-7.78	110.40	Mall
+5520	35.17	33.36	Office
+5521	36.86	10.19	Home (private)
+5522	37.00	35.33	Road
+5523	37.00	35.32	Other Great Outdoors
+5524	-6.91	107.62	Student Center
+5525	25.95	-80.12	Beach
+5526	9.94	-84.18	Residential Building (Apartment / Condo)
+5527	37.79	-122.40	Neighborhood
+5528	35.69	139.70	Electronics Store
+5529	0.04	-51.06	Home (private)
+5530	38.26	140.88	Platform
+5531	35.62	139.73	Office
+5532	1.40	103.90	Bus Station
+5533	35.66	139.70	Mall
+5534	14.68	121.00	Road
+5535	-33.51	-70.66	Residential Building (Apartment / Condo)
+5536	-23.53	-46.61	College Classroom
+5537	34.67	135.54	Playground
+5538	35.73	140.09	Home (private)
+5539	35.53	139.50	Parking
+5540	20.76	-103.40	Home (private)
+5541	3.23	101.70	Home (private)
+5542	35.84	139.89	Bridge
+5543	35.71	139.91	Road
+5544	-0.05	-51.16	Courthouse
+5545	0.00	-51.08	Home (private)
+5546	3.64	98.70	Home (private)
+5547	-33.03	-71.55	College Rec Center
+5548	13.83	100.66	Home (private)
+5549	-7.88	-35.45	Other Great Outdoors
+5550	40.82	29.30	Caf�
+5551	40.82	29.28	Home (private)
+5552	-3.13	-60.00	Bakery
+5553	37.69	126.79	Home (private)
+5554	41.05	28.98	Home (private)
+5555	32.20	34.85	Home (private)
+5556	18.45	-69.95	Outdoors & Recreation
+5557	-19.99	-43.96	Brewery
+5558	-19.96	-44.04	Home (private)
+5559	14.53	120.99	Road
+5560	34.06	131.79	Gym
+5561	34.06	131.79	Pool
+5562	-6.11	106.78	College Math Building
+5563	8.48	124.64	Home (private)
+5564	9.94	-84.09	Housing Development
+5565	41.06	28.85	Office
+5566	1.43	103.79	Home (private)
+5567	34.75	135.36	Platform
+5568	-23.60	-46.68	Neighborhood
+5569	-3.09	-60.00	Indie Theater
+5570	14.52	120.99	Home (private)
+5571	-15.88	-47.82	Home (private)
+5572	10.29	123.88	Home (private)
+5573	-22.90	-43.17	Boat or Ferry
+5574	25.93	-80.12	Coffee Shop
+5575	9.98	-84.07	Neighborhood
+5576	-23.55	-46.63	Coworking Space
+5577	41.81	-87.88	City
+5578	38.87	-77.04	Other Great Outdoors
+5579	39.16	-76.72	Mall
+5580	9.97	-84.12	Tech Startup
+5581	35.71	139.78	Platform
+5582	43.00	141.34	Bus Station
+5583	-12.15	-77.02	Nightclub
+5584	-6.21	106.79	Home (private)
+5585	-6.20	106.78	School
+5586	-36.60	-72.11	Bus Station
+5587	38.40	27.10	Home (private)
+5588	-6.18	106.79	General College & University
+5589	13.57	100.29	Mall
+5590	-6.20	106.78	Building
+5591	-6.94	107.61	High School
+5592	1.36	103.96	Home (private)
+5593	-8.06	-34.91	Office
+5594	-8.06	-34.89	Home (private)
+5595	43.19	-88.04	Miscellaneous Shop
+5596	20.70	-103.38	Building
+5597	20.70	-103.38	Building
+5598	0.05	-51.07	Home (private)
+5599	-29.79	-51.15	University
+5600	14.44	120.99	Housing Development
+5601	35.70	139.77	Train Station
+5602	4.81	-74.11	Factory
+5603	42.81	-1.66	Mobile Phone Shop
+5604	-19.90	-43.93	Tech Startup
+5605	35.69	139.66	Laundry Service
+5606	35.54	139.45	Neighborhood
+5607	3.63	98.70	Housing Development
+5608	55.71	37.82	Residential Building (Apartment / Condo)
+5609	52.07	5.13	Road
+5610	52.07	5.13	Road
+5611	52.09	5.16	Road
+5612	9.97	-84.34	Home (private)
+5613	0.03	-51.11	Convenience Store
+5614	34.98	135.76	Food & Drink Shop
+5615	13.74	100.63	University
+5616	-22.86	-47.06	Home (private)
+5617	41.79	-87.94	General Travel
+5618	41.80	-87.93	Other Great Outdoors
+5619	41.80	-87.90	Professional & Other Places
+5620	-23.45	-46.55	Home (private)
+5621	-6.19	106.79	Home (private)
+5622	36.22	137.96	Building
+5623	34.68	135.53	Subway
+5624	35.68	139.94	Bridge
+5625	35.31	138.97	Rest Area
+5626	-7.23	-35.87	Car Dealership
+5627	-23.55	-46.63	Building
+5628	-33.36	-70.73	Neighborhood
+5629	13.72	100.59	Mall
+5630	47.38	15.09	Caf��
+5631	35.72	139.62	Train Station
+5632	0.01	-51.09	Neighborhood
+5633	-23.66	-46.57	Home (private)
+5634	35.62	140.12	Park
+5635	35.62	140.12	Lake
+5636	-27.46	153.04	Residential Building (Apartment / Condo)
+5637	-22.77	-43.44	Residential Building (Apartment / Condo)
+5638	59.52	17.90	Train Station
+5639	35.50	139.69	Home (private)
+5640	-15.84	-48.04	Residential Building (Apartment / Condo)
+5641	-19.97	-43.96	University
+5642	-33.44	-70.64	Housing Development
+5643	31.95	35.87	Tech Startup
+5644	41.00	28.84	Home (private)
+5645	43.39	-80.30	Coffee Shop
+5646	0.04	-51.06	Courthouse
+5647	33.22	130.16	Train Station
+5648	38.26	140.87	Arcade
+5649	0.02	-51.07	Home (private)
+5650	40.99	29.10	Gym / Fitness Center
+5651	38.46	27.10	Caf�
+5652	-1.43	-48.45	Home (private)
+5653	9.02	-79.48	Home (private)
+5654	-23.51	-46.54	Home (private)
+5655	40.98	27.51	Other Great Outdoors
+5656	39.92	32.81	Home (private)
+5657	41.07	28.69	Residential Building (Apartment / Condo)
+5658	49.46	-120.51	Office
+5659	-6.22	106.84	Mall
+5660	-11.99	-77.11	Bus Line
+5661	-11.99	-77.11	Bus Line
+5662	41.80	-87.92	Bridge
+5663	37.05	35.31	Road
+5664	41.09	29.07	Auditorium
+5665	1.46	103.76	Clothing Store
+5666	-33.60	-70.89	Home (private)
+5667	0.08	-51.07	Home (private)
+5668	3.06	101.67	Home (private)
+5669	13.75	100.52	High School
+5670	14.72	121.04	Home (private)
+5671	0.02	-51.06	Home (private)
+5672	-33.41	-70.57	Coworking Space
+5673	48.23	11.68	Building
+5674	40.99	29.11	Residential Building (Apartment / Condo)
+5675	-25.12	-50.16	Home (private)
+5676	35.31	134.84	Factory
+5677	35.31	134.86	Shrine
+5678	-8.03	-34.90	Office
+5679	-7.21	-39.32	Home (private)
+5680	35.66	139.70	Hobby Shop
+5681	1.47	103.78	Home (private)
+5682	40.69	-73.93	Deli / Bodega
+5683	40.94	29.13	Residential Building (Apartment / Condo)
+5684	34.69	135.54	Bridge
+5685	5.39	100.28	Home (private)
+5686	35.71	139.96	Platform
+5687	38.82	-77.00	Moving Target
+5688	41.39	2.17	Electronics Store
+5689	41.01	28.53	Residential Building (Apartment / Condo)
+5690	3.19	101.66	Neighborhood
+5691	41.07	29.00	University
+5692	-12.04	-77.13	Building
+5693	-3.07	-60.05	Home (private)
+5694	55.72	37.82	Subway
+5695	1.32	103.87	Parking
+5696	-23.68	-46.69	Home (private)
+5697	-3.74	-38.50	Courthouse
+5698	-25.46	-49.27	Home (private)
+5699	13.71	100.51	School
+5700	-33.36	-70.73	Bus Station
+5701	-23.25	-45.92	Factory
+5702	-23.29	-45.97	Home (private)
+5703	-3.79	-38.58	Home (private)
+5704	-33.48	-70.63	Home (private)
+5705	1.51	103.83	Home (private)
+5706	34.86	135.58	Home (private)
+5707	13.90	100.57	Neighborhood
+5708	-15.82	-48.11	Subway
+5709	1.33	124.84	Housing Development
+5710	35.89	139.79	Mall
+5711	35.89	139.79	Grocery Store
+5712	13.71	100.46	Home (private)
+5713	-19.94	-44.03	Neighborhood
+5714	19.21	-103.80	University
+5715	-6.21	106.79	Road
+5716	41.01	29.05	Coffee Shop
+5717	42.13	-88.14	Car Dealership
+5718	44.12	12.24	Bus Line
+5719	3.59	98.67	College Academic Building
+5720	4.26	117.92	Caf��
+5721	35.64	139.75	Bridge
+5722	41.05	28.81	Office
+5723	40.99	29.09	Home (private)
+5724	-6.20	106.79	Home (private)
+5725	0.00	-51.09	Home (private)
+5726	13.73	100.54	Home (private)
+5727	30.14	-95.48	Home (private)
+5728	-12.05	-77.04	Road
+5729	35.87	139.94	Shrine
+5730	35.87	139.93	Grocery Store
+5731	-12.04	-77.13	Diner
+5732	0.04	-51.06	Gym / Fitness Center
+5733	35.62	139.57	Monument / Landmark
+5734	39.16	-76.73	Clothing Store
+5735	3.15	101.71	Clothing Store
+5736	34.55	135.50	Grocery Store
+5737	35.53	139.70	Train Station
+5738	13.71	100.43	Mall
+5739	32.21	118.72	College Residence Hall
+5740	-25.43	-49.28	Building
+5741	-25.43	-49.27	Office
+5742	-8.09	-34.89	Building
+5743	-8.09	-34.89	Office
+5744	35.76	139.87	Home (private)
+5745	36.19	139.71	Platform
+5746	36.19	139.71	Platform
+5747	41.00	39.76	Caf��
+5748	35.56	139.72	Platform
+5749	41.10	29.09	University
+5750	34.97	135.75	Train Station
+5751	13.75	100.54	Clothing Store
+5752	41.50	-81.49	Medical Center
+5753	9.91	-84.05	Home (private)
+5754	42.10	-75.91	Office
+5755	14.60	121.03	Residential Building (Apartment / Condo)
+5756	40.23	28.97	Home (private)
+5757	35.69	139.66	Food & Drink Shop
+5758	14.27	121.06	Factory
+5759	41.11	29.08	University
+5760	35.64	139.70	Park
+5761	9.94	-84.05	Home (private)
+5762	49.46	-120.51	Home (private)
+5763	35.80	139.45	Home (private)
+5764	34.68	135.53	Subway
+5765	-6.12	106.71	Home (private)
+5766	-6.13	106.71	Home (private)
+5767	-6.14	106.71	Church
+5768	-6.20	106.78	Building
+5769	51.42	-0.74	Neighborhood
+5770	42.99	141.33	Doctor's Office
+5771	41.06	28.95	University
+5772	43.06	141.35	Parking
+5773	50.04	36.20	Home (private)
+5774	-36.83	-73.05	Mall
+5775	2.99	101.52	Home (private)
+5776	3.60	98.72	Home (private)
+5777	35.50	139.56	Home (private)
+5778	7.10	125.63	Mall
+5779	-6.14	106.70	Housing Development
+5780	-6.13	106.71	Home (private)
+5781	10.33	123.91	Office
+5782	38.29	-85.82	Gas Station / Garage
+5783	38.29	-85.82	Bank
+5784	-25.43	-49.27	Mall
+5785	41.01	28.96	University
+5786	-8.06	-34.91	Road
+5787	-6.21	106.86	Train Station
+5788	-6.22	106.95	Train Station
+5789	19.44	-99.18	Gym / Fitness Center
+5790	-8.05	-34.89	Office
+5791	-19.91	-43.90	Neighborhood
+5792	43.51	-96.77	Building
+5793	9.90	-84.00	Home (private)
+5794	-16.71	-43.87	Home (private)
+5795	41.56	-93.65	Residential Building (Apartment / Condo)
+5796	41.10	29.02	University
+5797	41.03	28.96	University
+5798	-7.20	-39.32	Coworking Space
+5799	25.64	-100.33	Grocery Store
+5800	41.27	-96.10	Office
+5801	39.89	32.81	Liquor Store
+5802	41.01	28.66	Mall
+5803	-6.40	-38.86	Dentist's Office
+5804	-6.41	-38.87	Home (private)
+5805	-1.45	-48.48	Law School
+5806	41.04	28.91	University
+5807	41.06	29.00	Office
+5808	41.04	29.05	Office
+5809	40.97	28.80	Mall
+5810	-25.45	-49.29	College Classroom
+5811	-15.81	-48.13	Residential Building (Apartment / Condo)
+5812	38.04	23.80	Office
+5813	-8.72	115.17	Mall
+5814	55.73	37.42	Building
+5815	19.37	-99.17	Other Great Outdoors
+5816	13.65	100.63	School
+5817	37.83	27.84	Building
+5818	35.95	139.99	Train
+5819	40.72	-74.01	Coffee Shop
+5820	-34.14	-70.74	College & University
+5821	-34.15	-70.75	Home (private)
+5822	-3.09	-60.01	Residential Building (Apartment / Condo)
+5823	-7.20	-39.32	Building
+5824	-30.58	-71.16	Home (private)
+5825	-7.49	112.70	Home (private)
+5826	35.71	139.78	General Travel
+5827	36.46	139.02	Train Station
+5828	41.04	28.92	Office
+5829	35.73	139.72	Bowling Alley
+5830	35.73	139.71	Train Station
+5831	20.76	-103.40	Coworking Space
+5832	1.51	103.75	Home (private)
+5833	3.05	101.51	Home (private)
+5834	28.31	-81.55	Church
+5835	34.77	136.16	Road
+5836	45.23	-93.47	Other Great Outdoors
+5837	35.69	139.48	Playground
+5838	-23.53	-46.44	Home (private)
+5839	41.01	29.20	Office
+5840	13.83	100.74	Home (private)
+5841	40.42	-74.42	Building
+5842	-6.20	106.78	Assisted Living
+5843	3.13	101.74	Residential Building (Apartment / Condo)
+5844	-1.43	-48.45	Home (private)
+5845	14.39	120.99	Housing Development
+5846	37.49	126.80	College Residence Hall
+5847	35.69	139.66	Scenic Lookout
+5848	36.98	35.08	University
+5849	35.66	139.66	Convenience Store
+5850	3.05	101.56	Residential Building (Apartment / Condo)
+5851	35.33	33.28	University
+5852	52.69	5.23	Home (private)
+5853	-33.45	-70.65	Home (private)
+5854	38.44	27.16	University
+5855	35.56	139.33	Bus Station
+5856	35.69	139.66	Bridge
+5857	13.76	100.53	Housing Development
+5858	3.05	101.76	Indian Restaurant
+5859	13.84	100.57	Home (private)
+5860	3.09	101.51	Home (private)
+5861	40.99	28.71	Residential Building (Apartment / Condo)
+5862	-8.09	-34.89	Mall
+5863	9.96	-84.06	Mall
+5864	35.55	139.67	Gay Bar
+5865	41.13	29.03	Basketball Stadium
+5866	5.81	116.02	Home (private)
+5867	1.39	103.90	Building
+5868	35.61	140.11	Train Station
+5869	56.89	60.59	Home (private)
+5870	37.84	27.85	Home (private)
+5871	-7.45	112.72	Home (private)
+5872	35.70	139.75	Train Station
+5873	-8.04	-34.88	Home (private)
+5874	22.33	-97.87	Home (private)
+5875	38.39	27.04	College Academic Building
+5876	34.82	135.55	Other Great Outdoors
+5877	56.83	60.59	Office
+5878	40.04	-75.03	Home (private)
+5879	39.96	-75.17	Community College
+5880	37.48	126.98	Arcade
+5881	-22.72	-43.46	Coworking Space
+5882	0.04	-51.08	Office
+5883	37.74	29.10	University
+5884	9.96	-84.06	Caf��
+5885	38.39	27.06	Home (private)
+5886	37.52	139.94	College Academic Building
+5887	-6.20	106.78	Assisted Living
+5888	3.07	101.50	Home (private)
+5889	0.03	-51.10	Road
+5890	42.00	-87.66	Residential Building (Apartment / Condo)
+5891	-33.42	-70.60	Office
+5892	-9.65	-35.73	Other Great Outdoors
+5893	-9.16	-36.03	Home (private)
+5894	9.98	-84.84	Beach
+5895	38.88	-77.23	Subway
+5896	-3.81	-38.53	Home (private)
+5897	38.46	27.19	Tech Startup
+5898	33.79	-118.24	Building
+5899	38.28	-85.82	Building
+5900	-25.10	-50.16	High School
+5901	50.01	36.25	Travel Agency
+5902	38.39	27.06	Jewelry Store
+5903	14.56	121.02	Coworking Space
+5904	35.81	139.92	Home (private)
+5905	40.04	-75.04	Neighborhood
+5906	12.61	102.11	Home (private)
+5907	3.08	101.50	Pier
+5908	42.83	-71.51	Coffee Shop
+5909	35.25	139.70	Shrine
+5910	-33.42	-70.60	Gym
+5911	-8.69	115.19	Home (private)
+5912	41.07	28.99	Office
+5913	43.13	141.22	Train Station
+5914	29.30	47.94	Mall
+5915	43.12	-87.91	Mall
+5916	36.14	139.44	Home (private)
+5917	22.29	113.94	Mall
+5918	35.62	139.73	Coffee Shop
+5919	35.56	139.72	Platform
+5920	13.94	100.61	Home (private)
+5921	35.71	139.90	Subway
+5922	34.83	137.72	Road
+5923	-6.20	106.79	Home (private)
+5924	40.26	-75.27	Home (private)
+5925	3.05	101.76	Hookah Bar
+5926	0.03	-51.07	Home (private)
+5927	44.07	-116.91	Speakeasy
+5928	-6.20	106.76	Home (private)
+5929	3.62	98.67	Building
+5930	43.07	141.30	Home (private)
+5931	43.10	141.30	Factory
+5932	-6.20	106.79	Home (private)
+5933	40.76	29.93	Other Great Outdoors
+5934	35.83	139.92	Train Station
+5935	1.43	103.84	Home (private)
+5936	59.50	17.93	Mall
+5937	-33.43	-70.61	Residential Building (Apartment / Condo)
+5938	-23.53	-46.61	Deli / Bodega
+5939	-23.52	-46.61	Home (private)
+5940	-12.15	-77.02	Park
+5941	34.06	134.54	Home (private)
+5942	34.06	134.54	Home (private)
+5943	30.46	-84.23	Road
+5944	50.43	30.43	Home (private)
+5945	-1.35	-48.40	Home (private)
+5946	59.52	17.90	Bus Station
+5947	28.33	-81.54	Gym
+5948	-6.91	107.61	General College & University
+5949	-33.45	-70.65	Home (private)
+5950	50.42	30.46	Plaza
+5951	-2.43	-54.72	Home (private)
+5952	-2.43	-54.71	Home (private)
+5953	35.52	139.54	Home (private)
+5954	-41.47	-72.93	Residential Building (Apartment / Condo)
+5955	3.24	101.64	Home (private)
+5956	1.38	103.86	Trade School
+5957	3.62	98.67	Parking
+5958	3.62	98.67	Lounge
+5959	34.70	135.53	Platform
+5960	14.56	121.01	Office
+5961	35.60	139.72	Convenience Store
+5962	34.62	135.48	Road
+5963	0.04	-51.06	College Academic Building
+5964	38.76	-90.54	Automotive Shop
+5965	49.46	-120.51	Tech Startup
+5966	40.97	29.15	College Engineering Building
+5967	43.05	141.35	Rock Club
+5968	-6.25	106.74	Home (private)
+5969	3.62	98.67	Rental Car Location
+5970	3.00	101.71	College Residence Hall
+5971	-2.57	-44.22	University
+5972	-2.58	-44.21	College Lab
+5973	3.62	98.67	Building
+5974	-0.05	-51.16	Courthouse
+5975	35.56	139.72	Military Base
+5976	3.06	101.67	Housing Development
